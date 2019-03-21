@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_contacts_tab_contacts">контакты</string>
+  <string name="activity_contacts_tab_standings">Турнирная таблица</string>
+  <string name="activity_contacts_tab_agents">Агенты</string>
+  <string name="activity_contacts_labels_empty">Без метки</string>
+  <string name="activity_contacts_labels_count">%1$d контакты</string>
+  <string name="activity_contacts_agents_started">Запущено %1$s</string>
+  <string name="activity_contacts_agents_research">(%1$d / день) - осталось %2$d</string>
+</resources>

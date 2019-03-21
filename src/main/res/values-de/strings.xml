@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">Evanova</string>
+  <string name="app_description"/>
+  <string name="app_dismiss">Entlassen</string>
+  <string name="app_restart">Neustart</string>
+  <string name="app_cancel">Stornieren</string>
+  <string name="app_clear">klar</string>
+  <string name="app_ok">OK</string>
+  <string name="app_add">Hinzufügen</string>
+  <string name="app_close">Schließen</string>
+  <string name="app_import">Einführen</string>
+  <string name="drawer_items">Datenbank</string>
+  <string name="drawer_login">Einen Charakter hinzufügen</string>
+  <string name="drawer_characters">Zeichen</string>
+  <string name="drawer_corporations">Unternehmen</string>
+  <string name="drawer_about">Über</string>
+  <string name="drawer_settings">die Einstellungen</string>
+  <string name="drawer_skills">Kompetenzen</string>
+  <string name="drawer_routes">Routen</string>
+  <string name="drawer_maps">Karten</string>
+  <string name="drawer_fittings">Beschläge</string>
+  <string name="drawer_server">Server</string>
+  <string name="search_items_hint">Artikel suchen</string>
+</resources>

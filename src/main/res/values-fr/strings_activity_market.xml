@@ -1,0 +1,11 @@
+<resources>
+  <string name="activity_market_statistics_high">Haut</string>
+  <string name="activity_market_statistics_low">Faible</string>
+  <string name="activity_market_statistics_average">Moyen</string>
+  <string name="activity_market_order_expired">Expiré</string>
+  <string name="activity_market_buy">Acheter</string>
+  <string name="activity_market_sell">Vendre</string>
+  <string name="activity_market_history">Historique</string>
+  <string name="activity_market_regions_title">Régions</string>
+  <string name="activity_market_regions_text">Région</string>
+</resources>

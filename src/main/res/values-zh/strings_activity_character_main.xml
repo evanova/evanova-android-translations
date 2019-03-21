@@ -1,0 +1,13 @@
+<resources>
+  <string name="activity_character_location_unknown">没有位置信息</string>
+  <string name="activity_character_balance_unknown">钱包余额不可用</string>
+  <string name="activity_character_fatigue">跳跃疲劳 ％1$s</string>
+  <string name="activity_character_fatigue_none">没有跳跃疲劳</string>
+  <string name="activity_character_status_title">安全状态％s</string>
+  <string name="activity_character_status_text">％1$s  - 将在 ％2$f中受到攻击</string>
+  <string name="activity_character_ship_unknown">没有船舶信息</string>
+  <string name="activity_character_dialogs_wallpaperize_title">设置壁纸。</string>
+  <string name="activity_character_dialogs_wallpaperize_text">这将用这个肖像替换你的设备的壁纸。</string>
+  <string name="activity_character_dialogs_backgroundify_title">设置背景。</string>
+  <string name="activity_character_dialogs_backgroundify_text">这将用此肖像替换应用程序背景。</string>
+</resources>

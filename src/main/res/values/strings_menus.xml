@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="menu_accounts_sso">Login</string>
+    <string name="menu_search_title">Search</string>
+
+    <string name="menu_item_market">Market</string>
+    <string name="menu_item_select">Select</string>
+
+    <string name="menu_map_region">Region</string>
+
+    <string name="menu_market_region">Region</string>
+    <string name="menu_market_item">Item</string>
+    <string name="menu_market_sort_price_asc">Price Asc</string>
+    <string name="menu_market_sort_price_desc">Price Desc</string>
+
+    <string name="menu_characters_show_training">Training</string>
+    <string name="menu_characters_show_location">Location</string>
+    <string name="menu_characters_show_account">Account</string>
+
+    <string name="menu_wallet_flip_list">Journal</string>
+    <string name="menu_wallet_flip_graph">History</string>
+    <string name="menu_wallet_color_graph">Colors</string>
+
+    <string name="menu_routes_submit">Route</string>
+
+    <string name="menu_skills_all">All</string>
+    <string name="menu_skills_trainable">Trainable</string>
+    <string name="menu_skills_known">Known</string>
+    <string name="menu_skills_add">Add</string>
+
+    <string name="menu_skills_plan_delete">Clear</string>
+    <string name="menu_skills_plan_save">Save</string>
+    <string name="menu_skills_plan_revert">Revert</string>
+    <string name="menu_skills_plan_share">Share</string>
+
+    <string name="menu_wallpaperize">Set as wallpaper</string>
+    <string name="menu_wallpaperize_short">Wallpaper</string>
+
+    <string name="menu_backgroundify">Set as background</string>
+    <string name="menu_backgroundify_short">Background</string>
+    <string name="menu_settings_character">Character settings</string>
+</resources>

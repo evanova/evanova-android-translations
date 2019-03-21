@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">Evanova</string>
+  <string name="app_description"/>
+  <string name="app_dismiss">解雇</string>
+  <string name="app_restart">重新开始</string>
+  <string name="app_cancel">取消</string>
+  <string name="app_clear">明确</string>
+  <string name="app_ok">好</string>
+  <string name="app_add">加</string>
+  <string name="app_close">关</string>
+  <string name="app_import">进口</string>
+  <string name="drawer_items">数据库</string>
+  <string name="drawer_login">添加一个角色</string>
+  <string name="drawer_characters">人物</string>
+  <string name="drawer_corporations">企业</string>
+  <string name="drawer_about">关于</string>
+  <string name="drawer_settings">设置</string>
+  <string name="drawer_skills">技能</string>
+  <string name="drawer_routes">路线</string>
+  <string name="drawer_maps">地图</string>
+  <string name="drawer_fittings">配件</string>
+  <string name="drawer_server">服务器</string>
+  <string name="search_items_hint">搜索项目</string>
+</resources>

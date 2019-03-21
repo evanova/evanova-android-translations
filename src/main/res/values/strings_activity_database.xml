@@ -1,0 +1,7 @@
+<resources>
+    <string name="activity_database_title">Item Database</string>
+
+    <string name="activity_database_tab_items">Items</string>
+    <string name="activity_database_tab_recent">Recent</string>
+
+</resources>

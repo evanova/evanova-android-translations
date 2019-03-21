@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_corporations_title">%1$s (%2$s)</string>
+  <string name="activity_corporations_members">%1$d membres</string>
+  <string name="activity_corporations_no_alliance">Aucune alliance</string>
+  <string name="activity_corporations_no_balance">Solde non disponible</string>
+  <string name="activity_corporation_npc">NPC</string>
+  <string name="activity_corporation_ceo">%1$s (PDG)</string>
+  <string name="activity_corporation_founder">%1$s (fondateur)</string>
+</resources>

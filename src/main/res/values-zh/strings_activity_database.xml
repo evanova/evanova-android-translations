@@ -1,0 +1,5 @@
+<resources>
+  <string name="activity_database_title">物品数据库</string>
+  <string name="activity_database_tab_items">项目</string>
+  <string name="activity_database_tab_recent">最近</string>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="activity_dashboard_text">You don\'t seem to have any character registered in Evanova. Start by adding a character.</string>
+    <string name="activity_dashboard_welcome">Welcome to Evanova</string>
+    <string name="activity_dashboard_banner">Welcome to Evanova</string>
+    <string name="activity_dashboard_o7">o7</string>
+    <string name="activity_dashboard_button_sso">Add a character</string>
+    <string name="activity_dashboard_update_title">Application update</string>
+    <string name="activity_dashboard_update_restart">A restart is required for some changes to take effect.</string>
+    <string name="activity_dashboard_update_description">
+        There has been a large number of changes, improvements and additions to Evanova.\n
+        To take advantage of the new features, you should re-import your existing characters and allow them additional ESI scopes.\n
+        Check the about section for a detailed list of changes.</string>
+    <string name="activity_dashboard_update_about">About Evanova</string>
+    <string name="activity_dashboard_update_text">Evanova update</string>
+    <string name="activity_dashboard_recent">Recent Events</string>
+    <string name="activity_dashboard_back">One more back press will get you out of station.</string>
+
+    <string name="activity_dashboard_adapter_title_news">Eve Online News</string>
+    <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
+    <string name="activity_dashboard_adapter_training_when">%1$d skills until %2$s</string>
+    <string name="activity_dashboard_adapter_training_title">Training Queue</string>
+    <string name="activity_dashboard_adapter_training_empty">Training queue is empty</string>
+    <string name="activity_dashboard_adapter_training_inactive">Training queue is inactive</string>
+
+    <string name="activity_dashboard_adapter_colony_title">Colony in %1$s</string>
+    <string name="activity_dashboard_adapter_colony_expiring">Some pins complete in %1$s</string>
+    <string name="activity_dashboard_adapter_colony_expired">Some pins are inactive since %1$s</string>
+
+    <string name="activity_dashboard_summary_title">Summary</string>
+
+    <string name="activity_dashboard_summary_corporation_none_text">No corporation information.</string>
+    <string name="activity_dashboard_summary_corporation_none_description">Please re-import your existing characters.</string>
+
+    <plurals name="activity_dashboard_summary_characters">
+        <item quantity="zero">No character</item>
+        <item quantity="one">%1$d character</item>
+        <item quantity="other">%1$d characters</item>
+    </plurals>
+
+    <plurals name="activity_dashboard_summary_corporations">
+        <item quantity="zero">No corporation</item>
+        <item quantity="one">%1$d corporation</item>
+        <item quantity="other">%1$d corporations</item>
+    </plurals>
+
+</resources>

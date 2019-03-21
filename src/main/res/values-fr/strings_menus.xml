@@ -1,0 +1,31 @@
+<resources>
+  <string name="menu_accounts_sso">S\'identifier</string>
+  <string name="menu_search_title">Chercher</string>
+  <string name="menu_item_market">Marché</string>
+  <string name="menu_item_select">Sélectionner</string>
+  <string name="menu_map_region">Région</string>
+  <string name="menu_market_region">Région</string>
+  <string name="menu_market_item">Article</string>
+  <string name="menu_market_sort_price_asc">Price Asc</string>
+  <string name="menu_market_sort_price_desc">Price Desc</string>
+  <string name="menu_characters_show_training">Entraînement</string>
+  <string name="menu_characters_show_location">Emplacement</string>
+  <string name="menu_characters_show_account">Compte</string>
+  <string name="menu_wallet_flip_list">Journal</string>
+  <string name="menu_wallet_flip_graph">Historique</string>
+  <string name="menu_wallet_color_graph">Couleurs</string>
+  <string name="menu_routes_submit">Route</string>
+  <string name="menu_skills_all">Tout</string>
+  <string name="menu_skills_trainable">Entraînable</string>
+  <string name="menu_skills_known">Connu</string>
+  <string name="menu_skills_add">Ajouter</string>
+  <string name="menu_skills_plan_delete">Clair</string>
+  <string name="menu_skills_plan_save">sauvegarder</string>
+  <string name="menu_skills_plan_revert">Revenir</string>
+  <string name="menu_skills_plan_share">Partager</string>
+  <string name="menu_wallpaperize">Définir en tant que fond d\'écran</string>
+  <string name="menu_wallpaperize_short">Fond d\'écran</string>
+  <string name="menu_backgroundify">Définir comme arrière-plan</string>
+  <string name="menu_backgroundify_short">Contexte</string>
+  <string name="menu_settings_character">Paramètres du personnage</string>
+</resources>

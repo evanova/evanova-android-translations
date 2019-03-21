@@ -1,0 +1,5 @@
+<resources>
+  <string name="activity_database_title">Base de données</string>
+  <string name="activity_database_tab_items">Articles</string>
+  <string name="activity_database_tab_recent">Récents</string>
+</resources>

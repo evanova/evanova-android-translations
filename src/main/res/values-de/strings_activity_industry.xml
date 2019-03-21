@@ -1,0 +1,31 @@
+<resources>
+  <string name="activity_industry_tab_activities">Arbeitsplätze</string>
+  <string name="activity_industry_tab_mining">Bergbau</string>
+  <string name="activity_industry_job_title">%1$s - %2$d läuft (%3$d max)</string>
+  <string name="activity_industry_job_active_2">Am %1$s gestartet</string>
+  <string name="activity_industry_job_active_3">Endet am %1$s</string>
+  <string name="activity_industry_job_delivered_2">%1$s abgeschlossen</string>
+  <string name="activity_industry_job_delivered_3">Geliefert um %1$s</string>
+  <string name="activity_industry_job_paused_2">Beginnt mit %1$s</string>
+  <string name="activity_industry_job_paused_3">Pause</string>
+  <string name="activity_industry_job_ready_2">%1$s abgeschlossen</string>
+  <string name="activity_industry_job_ready_3">Warten um %1$s</string>
+  <string name="activity_industry_job_cancelled_2">Abgebrochen</string>
+  <string name="activity_industry_job_cancelled_3"/>
+  <string name="activity_industry_job_reverted_2">Umgekehrt</string>
+  <string name="activity_industry_job_reverted_3"/>
+  <string name="activity_industry_job_unknown_2">unbekannte</string>
+  <string name="activity_industry_job_unknown_3"/>
+  <string name="activity_industry_job_name_na">N/A</string>
+  <string name="activity_industry_job_name_manufacturing">Herstellung</string>
+  <string name="activity_industry_job_name_technology">Technologie</string>
+  <string name="activity_industry_job_name_time">Zeiteffizienz</string>
+  <string name="activity_industry_job_name_material">Materialeffizienz</string>
+  <string name="activity_industry_job_name_copy">Kopieren</string>
+  <string name="activity_industry_job_name_duplicate">Duplizieren</string>
+  <string name="activity_industry_job_name_reverse">Reverse Engineering</string>
+  <string name="activity_industry_job_name_invention">Erfindung</string>
+  <string name="activity_industry_job_name_reactions">Reaktionen</string>
+  <string name="activity_industry_mining_item_one">%1$s</string>
+  <string name="activity_industry_mining_item_multiple">%1$d x %2$s</string>
+</resources>

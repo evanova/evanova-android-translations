@@ -1,0 +1,7 @@
+<resources>
+  <string name="activity_calendar_untitled">无标题</string>
+  <string name="activity_calendar_duration_remaining">％s 从现在开始</string>
+  <string name="activity_calendar_duration_elapsed">％s 之前</string>
+  <string name="activity_calendar_list">名单</string>
+  <string name="activity_calendar_grid">格</string>
+</resources>

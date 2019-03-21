@@ -1,0 +1,31 @@
+<resources>
+  <string name="menu_accounts_sso">Авторизоваться</string>
+  <string name="menu_search_title">Поиск</string>
+  <string name="menu_item_market">рынок</string>
+  <string name="menu_item_select">Выбрать</string>
+  <string name="menu_map_region">Область, край</string>
+  <string name="menu_market_region">Область, край</string>
+  <string name="menu_market_item">Вещь</string>
+  <string name="menu_market_sort_price_asc">Цена Asc</string>
+  <string name="menu_market_sort_price_desc">Цена Описание</string>
+  <string name="menu_characters_show_training">Повышение квалификации</string>
+  <string name="menu_characters_show_location">Место нахождения</string>
+  <string name="menu_characters_show_account">учетная запись</string>
+  <string name="menu_wallet_flip_list">журнал</string>
+  <string name="menu_wallet_flip_graph">история</string>
+  <string name="menu_wallet_color_graph">Цвета</string>
+  <string name="menu_routes_submit">маршрут</string>
+  <string name="menu_skills_all">Все</string>
+  <string name="menu_skills_trainable">Обучаемый</string>
+  <string name="menu_skills_known">Известен</string>
+  <string name="menu_skills_add">добавлять</string>
+  <string name="menu_skills_plan_delete">Очистить</string>
+  <string name="menu_skills_plan_save">Сохранить</string>
+  <string name="menu_skills_plan_revert">возвращаться</string>
+  <string name="menu_skills_plan_share">Поделиться</string>
+  <string name="menu_wallpaperize">Установить как обои рабочего стола</string>
+  <string name="menu_wallpaperize_short">Обои на стену</string>
+  <string name="menu_backgroundify">Установить в качестве фона</string>
+  <string name="menu_backgroundify_short">Фон</string>
+  <string name="menu_settings_character">Настройки персонажа</string>
+</resources>

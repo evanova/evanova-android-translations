@@ -1,0 +1,5 @@
+<resources>
+  <string name="activity_database_title">База данных предметов</string>
+  <string name="activity_database_tab_items">Предметы</string>
+  <string name="activity_database_tab_recent">последний</string>
+</resources>

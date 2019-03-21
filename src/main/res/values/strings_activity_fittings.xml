@@ -1,0 +1,70 @@
+<resources>
+    <string name="activity_fittings_menu_synchronize">Synchronize</string>
+    <string name="activity_fittings_menu_add">Add</string>
+    <string name="activity_fittings_menu_share">Share</string>
+    <string name="activity_fittings_menu_charges">Charges</string>
+    <string name="activity_fittings_menu_delete">Delete</string>
+    <string name="activity_fittings_menu_copy">Copy</string>
+    <string name="activity_fittings_menu_groups">Ship Types</string>
+    <string name="activity_fittings_menu_owners">Owners</string>
+
+    <string name="activity_fittings_menu_clipboard_import">Import clipboard</string>
+    <string name="activity_fittings_menu_clipboard_export">Export to clipboard</string>
+
+    <string name="activity_fittings_menu_xml_import">Import Eve XML</string>
+    <string name="activity_fittings_menu_xml_export">Export Eve XML</string>
+
+    <string name="activity_fittings_menu_fit">Fit On…</string>
+    <string name="activity_fittings_menu_damage">Damages</string>
+    <string name="activity_fittings_menu_rename">Rename</string>
+
+    <string name="activity_fittings_title">Fittings</string>
+
+    <string name="activity_fittings_export_subject_multiple">Fittings from Evanova</string>
+    <string name="activity_fittings_export_success">Fittings exported</string>
+    <string name="activity_fittings_export_error">Export failed</string>
+    <string name="activity_fittings_import_error">Import failed</string>
+    <string name="activity_fittings_import_success">Fittings imported</string>
+    <string name="activity_fittings_access_denied">Access to this resource was denied</string>
+
+    <string name="activity_fittings_clipboard_empty">Clipboard is empty</string>
+
+    <string name="activity_fittings_dialog_delete_title">Delete Fitting</string>
+    <string name="activity_fittings_dialog_delete_text">Are you sure?</string>
+    <string name="activity_fittings_dialog_delete_online">Also delete online (use at your own risks)</string>
+    <string name="activity_fittings_dialog_rename_title">Rename Fitting</string>
+    <string name="activity_fittings_dialog_rename_default">Created with Evanova</string>
+    <string name="activity_fittings_dialog_add_title">Add Fitting</string>
+
+    <string name="activity_fittings_dialog_save_title">Save fitting</string>
+    <string name="activity_fittings_dialog_save_text">You haven\'t saved your changes. Would you like to do so?</string>
+
+    <string name="activity_fittings_dialog_synchronize_title">Synchronize Fittings</string>
+    <string name="activity_fittings_dialog_synchronize_text">This will import all online fittings and replace existing ones.</string>
+    <string name="activity_fittings_dialog_synchronize_check">Also save new fittings created with Evanova</string>
+
+    <string name="activity_fittings_dialog_import_title">Import Fitting</string>
+
+
+    <string name="activity_fittings_group_local">Local Fittings</string>
+
+    <string name="activity_fittings_list_level">Level %1$d</string>
+    <string name="activity_fittings_list_online">Loaded from %1$s on %2$s</string>
+    <string name="activity_fittings_list_offline">Local fitting</string>
+
+    <string name="activity_fittings_module_add_success">Module fitted</string>
+    <string name="activity_fittings_module_add_error">Cannot fit module</string>
+
+    <string name="activity_fittings_drone_add_success">Drone fitted</string>
+    <string name="activity_fittings_drone_add_error">Cannot fit drone</string>
+
+    <string name="activity_fittings_implant_add_success">Implant fitted</string>
+    <string name="activity_fittings_implant_add_error">Cannot fit implant</string>
+
+    <plurals name="activity_fittings_group_count">
+        <item quantity="zero">No fitting</item>
+        <item quantity="one">%d fitting</item>
+        <item quantity="other">%d fittings</item>
+    </plurals>
+
+</resources>

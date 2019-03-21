@@ -1,0 +1,7 @@
+<resources>
+  <string name="activity_calendar_untitled">Без названия</string>
+  <string name="activity_calendar_duration_remaining">%s с этого момента</string>
+  <string name="activity_calendar_duration_elapsed">%s назад</string>
+  <string name="activity_calendar_list">Список</string>
+  <string name="activity_calendar_grid">сетка</string>
+</resources>

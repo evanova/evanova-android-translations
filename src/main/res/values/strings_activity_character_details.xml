@@ -1,0 +1,37 @@
+<resources>
+    <string name="activity_character_details_attributes_title">Attributes</string>
+    <string name="activity_character_details_clones_title">Clones</string>
+    <string name="activity_character_details_summary_title">History</string>
+
+    <string name="activity_character_details_age">%1$s old</string>
+    <string name="activity_character_details_birthdate">Created on %1$s</string>
+    <string name="activity_character_details_logged">Last logged %1$s (%2$d logins)</string>
+
+    <string name="activity_character_details_history_name">%1$s</string>
+    <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (deleted)</string>
+    <string name="activity_character_details_history_duration">Member for %1$s</string>
+    <string name="activity_character_details_history_since">Since %1$s</string>
+    <string name="activity_character_details_history_between">From %1$s to %2$s</string>
+
+    <string name="activity_character_details_location_none">No location information</string>
+    <string name="activity_character_details_clone_unknown">Unnamed</string>
+
+    <string name="activity_character_details_jump_activation_none">Active</string>
+    <string name="activity_character_details_jump_last_none">No jump information</string>
+    <string name="activity_character_details_jump_fatigue_none">No jump fatigue</string>
+
+    <string name="activity_character_details_attribute">%1$d</string>
+    <string name="activity_character_details_intelligence">Intelligence</string>
+    <string name="activity_character_details_charisma">Charisma</string>
+    <string name="activity_character_details_willpower">Willpower</string>
+    <string name="activity_character_details_memory">Memory</string>
+    <string name="activity_character_details_perception">Perception</string>
+
+    <string name="activity_character_details_clones_jump_on">Last jump on %1$s</string>
+    <string name="activity_character_details_clones_jump_ago">%1$s ago</string>
+    <string name="activity_character_details_clones_jump_unknown">Last jump unknown</string>
+
+    <string name="activity_character_details_remap_last_unknown">Unknown</string>
+    <string name="activity_character_details_remap_free_none">None</string>
+    <string name="activity_character_details_remap_free">%1$d remaps available</string>
+</resources>

@@ -1,0 +1,57 @@
+
+buildscript {
+
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+
+    }
+}
+
+plugins {
+
+    id 'application'
+}
+
+repositories {
+    google()
+    jcenter()
+    maven {
+        url 'https://maven.google.com/'
+    }
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs += "$projectDir/src/main/java"
+        }
+    }
+}
+
+dependencies {
+
+    compile 'org.slf4j:slf4j-api:1.7.25'    
+
+    compile 'org.apache.commons:commons-lang3:3.7'
+    compile 'org.apache.commons:commons-collections4:4.1'
+    compile 'commons-io:commons-io:2.6'
+
+    compile 'joda-time:joda-time:2.9.9'
+
+    compile 'com.fasterxml.jackson.core:jackson-core:2.9.6'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.9.6'
+    compile 'com.fasterxml.jackson.datatype:jackson-datatype-joda:2.9.0'
+    compile 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.5'
+    compile 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.9.5'
+
+
+    compile 'com.google.cloud:google-cloud-translate:1.62.0'
+}
+
+mainClassName = "com.tlabs.android.evanova.i18n.Main"

@@ -1,0 +1,185 @@
+<resources>
+    <string name="preferences_restart_message">The application needs to be restarted for those changes to take effect.</string>
+    <string name="preferences_cleared_message">Cache has been cleared.</string>
+
+    <string name="preferences_category_online">EVE Online Data</string>
+    <string name="preferences_category_display">Display</string>
+
+    <string name="preferences_category_notifications">Notifications</string>
+
+    <string name="preferences_online_metered_title">Don\'t use metered networks</string>
+    <string name="preferences_online_metered_summary">Avoid using mobile or other networks that may cost you money.</string>
+
+    <string name="preferences_notification_title_summary">Enable / Disable all notifications (this overrides any character notification settings)</string>
+    <string name="preferences_notification_title">Enable notifications</string>
+
+    <string name="preferences_frequency_title">Update frequency</string>
+    <string name="preferences_frequency_summary">Choose how often data is updated in the background. Note that frequent updating may drain your battery if you have many characters.</string>
+
+    <string name="preferences_notification_cancel_title">Auto-cancel</string>
+    <string name="preferences_notification_cancel_summary">Automatically dismiss notification when selected.</string>
+
+    <string name="preferences_drawer_dock_title">Docked drawer</string>
+    <string name="preferences_drawer_dock_summary">Keep the drawer visible at all time (only available on high-dpi screens).</string>
+
+    <string name="preferences_dashboard_news_title">Eve News</string>
+    <string name="preferences_dashboard_news_summary">Show Eve News on dashboard (requires restart).</string>
+
+    <string name="preferences_locale_title">Use Eve time</string>
+    <string name="preferences_locale_summary">Display time-based information in Eve time instead of your device\'s time.</string>
+
+    <string name="preferences_background_title">Application background</string>
+    <string name="preferences_background_summary">Change the image used as the application background.</string>
+    <string name="preferences_background_select">Select a background</string>
+
+    <string name="preferences_display_title">Character Background</string>
+    <string name="preferences_display_summary">Choose the image displayed as the main character screen\'s background.</string>
+
+    <string name="preferences_character_dashboard_summary">Show character events on the main dashboard.</string>
+    <string name="preferences_character_dashboard_title">Dashboard</string>
+    <string name="preferences_character_update_summary">Include / exclude this character from background updates to save battery. You will still be able to manually reload data.</string>
+    <string name="preferences_character_update_title">Background Update</string>
+    <string name="preferences_character_notifications_summary">Enable / disable notifications for this character. Note that the application\'s notifications settings still apply.</string>
+    <string name="preferences_character_notifications_title">Notifications</string>
+
+    <string name="preferences_character_dashboard_list_title">Dashboard Filter</string>
+    <string name="preferences_character_dashboard_list_dialog">Select what to display on the dashboard.</string>
+    <string name="preferences_character_dashboard_list_summary">Configure what to display on the dashboard.</string>
+
+    <string name="preferences_character_notifications_list_summary">Configure which notifications are display on your device\'s notification bar.</string>
+    <string name="preferences_character_notifications_list_title">Notification Filter</string>
+    <string name="preferences_character_notifications_list_dialog">Select which notifications to display</string>
+
+    <string name="preferences_character_expiration_list_title">Expiration Filter</string>
+    <string name="preferences_character_expiration_list_dialog">Choose an expiration time</string>
+    <string name="preferences_character_expiration_list_summary">Filter notifications or dashboard events by how old they are. This is useful if you have industry or other old items pending that you don\'t care about.</string>
+
+    <string name="preferences_category_location">Localisation</string>
+    <string name="preferences_language_title">Language (Experimental)</string>
+
+    <string name="preferences_language_summary">Change the language of Evanova\'s interface and Eve items database.</string>
+
+
+    <string name="preferences_language_dialog_summary">Change the language of the Evanova interface and the items database.
+        \n\nNote that this an incomplete feature and may cause wrong display or crashes.
+        Check the About section for how you can help translate Evanova.</string>
+
+    <string name="preferences_language_dialog_ui">Apply to Evanova\'s interface.</string>
+    <string name="preferences_language_dialog_database">Apply to Eve items\' database.</string>
+
+    <string name="preferences_category_cache">Application Cache</string>
+    <string name="preferences_cache_title">Application Data</string>
+    <string name="preferences_cache_summary">Clear cached data from Evanova.</string>
+    <string name="preferences_cache_dialog_title">Clear Cache</string>
+    <string name="preferences_cache_dialog_summary">This will clear Eve Online images currently stored by Evanova as well as recently downloaded data.</string>
+
+    <string-array name="preferences_frequency_entries">
+        <item>Disabled</item>
+        <item>15mn</item>
+        <item>Half Hourly</item>
+        <item>Hourly</item>
+        <item>4 Hours</item>
+        <item>Half Daily (default)</item>
+        <item>Daily</item>
+    </string-array>
+
+    <string-array name="preferences_frequency_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="preferences_background_entries">
+        <item>Nothing</item>
+        <item>Planet</item>
+        <item>Moon</item>
+        <item>Pick…</item>
+    </string-array>
+
+    <string-array name="preferences_background_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="preferences_display_entries">
+        <item>Nothing</item>
+        <item>Application Background</item>
+        <item>Character Ship</item>
+        <item>Character Portrait</item>
+    </string-array>
+
+    <string-array name="preferences_display_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="preferences_character_dashboard_list_entries">
+        <item>Calendar Events</item>
+        <item>Colonies Activity</item>
+        <item>Contracts</item>
+        <item>Industry Jobs</item>
+        <item>Recent Mails</item>
+        <item>Recent Notifications</item>
+        <item>Skill Training</item>
+    </string-array>
+
+    <string-array name="preferences_character_dashboard_list_values" translatable="false">
+        <item>preferences.dashboard.calendar</item>
+        <item>preferences.dashboard.colonies</item>
+        <item>preferences.dashboard.contracts</item>
+        <item>preferences.dashboard.industry</item>
+        <item>preferences.dashboard.mails</item>
+        <item>preferences.dashboard.notifications</item>
+        <item>preferences.dashboard.training</item>
+    </string-array>
+
+    <string-array name="preferences_character_notifications_list_entries">
+        <item>Character training</item>
+        <item>Mail</item>
+        <item>Notifications</item>
+        <item>Outstanding Contracts</item>
+        <item>Industry Jobs and Mining</item>
+        <item>Calendar Events</item>
+        <item>Inactive Colony Installation</item>
+    </string-array>
+
+    <!-- These are also notification channel ids -->
+    <string-array name="preferences_character_notifications_list_values">
+        <item>Training</item>
+        <item>Mail</item>
+        <item>Notifications</item>
+        <item>Contracts</item>
+        <item>Industry</item>
+        <item>Calendar</item>
+        <item>Colonies</item>
+    </string-array>
+
+    <string-array name="preferences_character_expiration_list_entries">
+        <item>1 Day</item>
+        <item>2 Days</item>
+        <item>1 Week</item>
+        <item>1 Month (default)</item>
+        <item>6 Month</item>
+        <item>1 Year</item>
+        <item>Never</item>
+    </string-array>
+
+    <string-array name="preferences_character_expiration_list_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>7</item>
+        <item>30</item>
+        <item>182</item>
+        <item>365</item>
+        <item>0</item>
+    </string-array>
+
+</resources>

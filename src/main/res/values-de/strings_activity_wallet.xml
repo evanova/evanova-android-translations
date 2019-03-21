@@ -1,0 +1,26 @@
+<resources>
+  <string name="activity_wallet_title">%1$s</string>
+  <string name="activity_wallet_division1">Master Wallet</string>
+  <string name="activity_wallet_division2">2. Geldbörse</string>
+  <string name="activity_wallet_division3">3. Geldbörse</string>
+  <string name="activity_wallet_division4">4. Geldbörse</string>
+  <string name="activity_wallet_division5">5. Geldbörse</string>
+  <string name="activity_wallet_division6">6. Geldbörse</string>
+  <string name="activity_wallet_division7">7. Geldbörse</string>
+  <string name="activity_wallet_balance">Balance</string>
+  <string name="activity_wallet_credit">Kredit</string>
+  <string name="activity_wallet_from">Von %1$s</string>
+  <string name="activity_wallet_to">Zu %1$s</string>
+  <string name="activity_wallet_graph_history">Geschichte</string>
+  <string name="activity_wallet_graph_revenue">Erlöse</string>
+  <string name="activity_wallet_graph_expenses">Kosten</string>
+  <string name="activity_wallet_history_label">Geschichte</string>
+  <string name="activity_wallet_history_description">Letzte 3 Monate</string>
+  <string name="activity_wallet_transaction_qty">%1$d Einheit (en).</string>
+  <string name="activity_wallet_transaction_seller">Verkäufer</string>
+  <string name="activity_wallet_transaction_price">Preis</string>
+  <string name="activity_wallet_transaction_buyer">Käufer</string>
+  <string name="activity_wallet_tab_journal">Tagebuch</string>
+  <string name="activity_wallet_tab_transactions">Transaktionen</string>
+  <string name="activity_wallet_graph_color_dialog_title">Wählen Sie eine Reihe von Farben</string>
+</resources>

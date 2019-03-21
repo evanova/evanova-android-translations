@@ -1,0 +1,36 @@
+<resources>
+  <string name="activity_dashboard_text">У вас, кажется, нет персонажа, зарегистрированного в Evanova. Начните с добавления персонажа.</string>
+  <string name="activity_dashboard_welcome">Добро пожаловать в Эванову</string>
+  <string name="activity_dashboard_banner">Добро пожаловать в Эванову</string>
+  <string name="activity_dashboard_o7">o7</string>
+  <string name="activity_dashboard_button_sso">Добавить персонажа</string>
+  <string name="activity_dashboard_update_title">Обновление приложения</string>
+  <string name="activity_dashboard_update_restart">Для вступления в силу некоторых изменений требуется перезагрузка.</string>
+  <string name="activity_dashboard_update_description">В Evanova было внесено большое количество изменений, улучшений и дополнений.\nЧтобы воспользоваться преимуществами новых функций, вам необходимо повторно импортировать существующие символы и разрешить им дополнительные области ESI.\nПроверьте подробный список в разделе about. изменений.</string>
+  <string name="activity_dashboard_update_about">Об Эвановой</string>
+  <string name="activity_dashboard_update_text">Обновление еванова</string>
+  <string name="activity_dashboard_recent">Недавние события</string>
+  <string name="activity_dashboard_back">Еще одно обратное нажатие вытащит вас со станции.</string>
+  <string name="activity_dashboard_adapter_title_news">Ева онлайн новости</string>
+  <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
+  <string name="activity_dashboard_adapter_training_when">%1$d умений до %2$s</string>
+  <string name="activity_dashboard_adapter_training_title">Очередь на обучение</string>
+  <string name="activity_dashboard_adapter_training_empty">Очередь обучения пуста</string>
+  <string name="activity_dashboard_adapter_training_inactive">Очередь обучения неактивна</string>
+  <string name="activity_dashboard_adapter_colony_title">Колония в %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expiring">Некоторые выводы завершены в %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expired">Некоторые выводы неактивны, так как %1$s</string>
+  <string name="activity_dashboard_summary_title">Резюме</string>
+  <string name="activity_dashboard_summary_corporation_none_text">Нет информации корпорации.</string>
+  <string name="activity_dashboard_summary_corporation_none_description">Пожалуйста, повторно импортируйте существующих персонажей.</string>
+  <plurals name="activity_dashboard_summary_characters">
+    <item quantity="zero">Нет персонажа</item>
+    <item quantity="one">%1$d персонаж</item>
+    <item quantity="other">%1$d символов</item>
+  </plurals>
+  <plurals name="activity_dashboard_summary_corporations">
+    <item quantity="zero">Нет корпорации</item>
+    <item quantity="one">%1$d корпорация</item>
+    <item quantity="other">%1$d корпорации</item>
+  </plurals>
+</resources>

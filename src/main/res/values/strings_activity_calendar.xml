@@ -1,0 +1,8 @@
+<resources>
+    <string name="activity_calendar_untitled">Untitled</string>
+    <string name="activity_calendar_duration_remaining">%s from now</string>
+    <string name="activity_calendar_duration_elapsed">%s ago</string>
+
+    <string name="activity_calendar_list">List</string>
+    <string name="activity_calendar_grid">Grid</string>
+</resources>

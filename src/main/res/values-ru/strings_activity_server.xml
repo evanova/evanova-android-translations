@@ -1,0 +1,7 @@
+<resources>
+  <string name="activity_server_status_time">%1$s</string>
+  <string name="activity_server_status_online">Сервер онлайн</string>
+  <string name="activity_server_status_offline">Сервер не в сети</string>
+  <string name="activity_server_status_players">%1$s игроков онлайн.</string>
+  <string name="activity_server_status_unknown">Состояние сервера неизвестно</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_colonies_update">Обновлено %1$s</string>
+  <string name="activity_colonies_planet_level">Уровень %1$d</string>
+  <string name="activity_colonies_pin_volume">%1$d м3</string>
+  <string name="activity_colonies_pin_amount">%1$d / %2$d м3</string>
+  <string name="activity_colonies_pin_cycle">Последний цикл %1$s</string>
+  <string name="activity_colonies_pin_expires">Истекает %1$s</string>
+  <string name="activity_colonies_pin_content_title">%1$s x %2$d</string>
+</resources>

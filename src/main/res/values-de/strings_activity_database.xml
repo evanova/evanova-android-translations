@@ -1,0 +1,5 @@
+<resources>
+  <string name="activity_database_title">Artikeldatenbank</string>
+  <string name="activity_database_tab_items">Artikel</string>
+  <string name="activity_database_tab_recent">Kürzlich</string>
+</resources>

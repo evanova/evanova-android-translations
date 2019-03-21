@@ -1,0 +1,43 @@
+<resources>
+  <string name="activity_assets_locations">Места</string>
+  <string name="activity_assets_categories">категории</string>
+  <string name="activity_assets_items">Предметы</string>
+  <string name="activity_assets_flag_other">Другой</string>
+  <string name="activity_assets_flag_high">Высокий слот</string>
+  <string name="activity_assets_flag_med">Средний слот</string>
+  <string name="activity_assets_flag_low">Низкий слот</string>
+  <string name="activity_assets_flag_rig">Буровые установки</string>
+  <string name="activity_assets_flag_hangar">Ангар</string>
+  <string name="activity_assets_flag_cargo">грузовой</string>
+  <string name="activity_assets_flag_drones">Дрон Бэй</string>
+  <string name="activity_assets_flag_safety">Безопасность активов</string>
+  <string name="activity_assets_flag_deliveries">Корпорация Поставки</string>
+  <string name="activity_assets_flag_impounded">конфискован</string>
+  <string name="activity_assets_flag_ag1">Корпорация Активы 1</string>
+  <string name="activity_assets_flag_ag2">Корпорация Активы 2</string>
+  <string name="activity_assets_flag_ag3">Активы корпорации 3</string>
+  <string name="activity_assets_flag_ag4">Активы корпорации 4</string>
+  <string name="activity_assets_flag_ag5">Активы корпорации 5</string>
+  <string name="activity_assets_flag_ag6">Активы корпорации 6</string>
+  <string name="activity_assets_flag_ag7">Активы корпорации 7</string>
+  <plurals name="activity_assets_locations_group">
+    <item quantity="zero">Нет товара</item>
+    <item quantity="one">%d элемент</item>
+    <item quantity="other">%d предметов</item>
+  </plurals>
+  <plurals name="activity_assets_categories_group">
+    <item quantity="zero">Нет товара</item>
+    <item quantity="one">%d элемент</item>
+    <item quantity="other">%d предметов</item>
+  </plurals>
+  <plurals name="activity_assets_items_group">
+    <item quantity="zero">Нет товара</item>
+    <item quantity="one">%d местоположение</item>
+    <item quantity="other">%d мест</item>
+  </plurals>
+  <plurals name="activity_assets_container_description">
+    <item quantity="zero">%1$s (пусто)</item>
+    <item quantity="one">%1$s (%2$d элемент)</item>
+    <item quantity="other">%1$s (%2$d элементов)</item>
+  </plurals>
+</resources>

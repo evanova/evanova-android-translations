@@ -1,0 +1,14 @@
+<resources>
+  <string name="activity_item_widget_tab_description">Descr.</string>
+  <string name="activity_item_widget_tab_attributes">Attrs</string>
+  <string name="activity_item_widget_tab_requirements">Kompetenzen</string>
+  <string name="activity_item_attribute_structure">Struktur</string>
+  <string name="activity_item_attribute_fitting">Passend zu</string>
+  <string name="activity_item_attribute_armor">Rüstung</string>
+  <string name="activity_item_attribute_shield">Schild</string>
+  <string name="activity_item_attribute_capacitor">Kondensator</string>
+  <string name="activity_item_attribute_targeting">Targeting</string>
+  <string name="activity_item_attribute_propulsion">Antrieb</string>
+  <string name="activity_item_attribute_drones">Drohnen</string>
+  <string name="activity_item_traits_text">%1$.0f %2$s %3$s.</string>
+</resources>

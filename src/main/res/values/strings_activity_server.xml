@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="activity_server_status_time">%1$s</string> <!-- full date/time -->
+    <string name="activity_server_status_online">Server is online</string>
+    <string name="activity_server_status_offline">Server is offline</string>
+    <string name="activity_server_status_players">%1$s players online.</string>
+    <string name="activity_server_status_unknown">Server status unknown</string>
+
+</resources>

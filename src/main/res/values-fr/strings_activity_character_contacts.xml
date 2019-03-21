@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_contacts_tab_contacts">Contacts</string>
+  <string name="activity_contacts_tab_standings">Classement</string>
+  <string name="activity_contacts_tab_agents">Agents</string>
+  <string name="activity_contacts_labels_empty">Pas de label</string>
+  <string name="activity_contacts_labels_count">%1$d contacts</string>
+  <string name="activity_contacts_agents_started">Commencé le %1$s</string>
+  <string name="activity_contacts_agents_research">(%1$d / jour) - %2$d restants</string>
+</resources>

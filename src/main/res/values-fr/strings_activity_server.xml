@@ -1,0 +1,7 @@
+<resources>
+  <string name="activity_server_status_time">%1$s</string>
+  <string name="activity_server_status_online">Serveur en ligne</string>
+  <string name="activity_server_status_offline">Serveur hors ligne</string>
+  <string name="activity_server_status_players">%1$s joueurs.</string>
+  <string name="activity_server_status_unknown">Statut du serveur inconnu</string>
+</resources>

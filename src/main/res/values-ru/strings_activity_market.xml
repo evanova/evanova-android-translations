@@ -1,0 +1,11 @@
+<resources>
+  <string name="activity_market_statistics_high">Высоко</string>
+  <string name="activity_market_statistics_low">Низкий</string>
+  <string name="activity_market_statistics_average">Средний</string>
+  <string name="activity_market_order_expired">Истекший</string>
+  <string name="activity_market_buy">купить</string>
+  <string name="activity_market_sell">продавать</string>
+  <string name="activity_market_history">история</string>
+  <string name="activity_market_regions_title">районы</string>
+  <string name="activity_market_regions_text">Область, край</string>
+</resources>

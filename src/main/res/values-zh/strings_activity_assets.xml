@@ -1,0 +1,43 @@
+<resources>
+  <string name="activity_assets_locations">地点</string>
+  <string name="activity_assets_categories">分类</string>
+  <string name="activity_assets_items">项目</string>
+  <string name="activity_assets_flag_other">其他</string>
+  <string name="activity_assets_flag_high">高槽</string>
+  <string name="activity_assets_flag_med">中槽</string>
+  <string name="activity_assets_flag_low">低槽</string>
+  <string name="activity_assets_flag_rig">钻机</string>
+  <string name="activity_assets_flag_hangar">机库</string>
+  <string name="activity_assets_flag_cargo">货物</string>
+  <string name="activity_assets_flag_drones">无人机湾</string>
+  <string name="activity_assets_flag_safety">资产安全</string>
+  <string name="activity_assets_flag_deliveries">公司交付</string>
+  <string name="activity_assets_flag_impounded">扣押</string>
+  <string name="activity_assets_flag_ag1">公司资产1</string>
+  <string name="activity_assets_flag_ag2">公司资产2</string>
+  <string name="activity_assets_flag_ag3">公司资产3</string>
+  <string name="activity_assets_flag_ag4">公司资产4</string>
+  <string name="activity_assets_flag_ag5">公司资产5</string>
+  <string name="activity_assets_flag_ag6">公司资产6</string>
+  <string name="activity_assets_flag_ag7">公司资产7</string>
+  <plurals name="activity_assets_locations_group">
+    <item quantity="zero">没有项目</item>
+    <item quantity="one">％d项</item>
+    <item quantity="other">％d项</item>
+  </plurals>
+  <plurals name="activity_assets_categories_group">
+    <item quantity="zero">没有项目</item>
+    <item quantity="one">％d项</item>
+    <item quantity="other">％d项</item>
+  </plurals>
+  <plurals name="activity_assets_items_group">
+    <item quantity="zero">没有项目</item>
+    <item quantity="one">％d位置</item>
+    <item quantity="other">％d个地点</item>
+  </plurals>
+  <plurals name="activity_assets_container_description">
+    <item quantity="zero">％1$s（空）</item>
+    <item quantity="one">％1$s（％2$d项）</item>
+    <item quantity="other">％1$s（％2$d项）</item>
+  </plurals>
+</resources>

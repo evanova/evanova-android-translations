@@ -1,0 +1,29 @@
+<resources>
+  <string name="activity_routes_title">Маршруты</string>
+  <string name="activity_routes_title_subtitle">Дотлан Дэйт 3ч</string>
+  <string name="activity_routes_title_title_jumps">%1$s до %2$s</string>
+  <string name="activity_routes_title_subtitle_jumps">%1$d прыжков (%2$d изотопов)</string>
+  <string name="activity_routes_title_subtitle_options">%1$d прыжков</string>
+  <string name="activity_routes_tab_fastest">Самый быстрый</string>
+  <string name="activity_routes_tab_high">Высокий сек</string>
+  <string name="activity_routes_tab_low">Низкий сек</string>
+  <string name="activity_routes_tab_select">маршрут</string>
+  <string name="activity_routes_tab_recent_options">последний</string>
+  <string name="activity_routes_tab_recent_jumps">Переходы</string>
+  <string name="activity_routes_hint_from">От</string>
+  <string name="activity_routes_hint_to">к</string>
+  <string name="activity_routes_hint_freighter">фрахтователь</string>
+  <string name="activity_routes_freighter_check">Jump Freighter</string>
+  <string name="activity_routes_skills_freighters">Jump Freighter</string>
+  <string name="activity_routes_skills_calibration">Калибровка Jump Drive</string>
+  <string name="activity_routes_skills_conservation">Экономия топлива</string>
+  <string name="activity_routes_option_incursions">Избегайте вторжений</string>
+  <string name="activity_routes_option_systems">Солнечные системы</string>
+  <string name="activity_routes_view_isotopes">%d изотопов</string>
+  <string name="activity_routes_view_distance">%f LY</string>
+  <string name="activity_routes_view_security">%s</string>
+  <string name="activity_routes_view_jumps">%d скачок корабля</string>
+  <string name="activity_routes_view_jumps_none">Без прыжка с корабля</string>
+  <string name="activity_routes_view_kills">%d убивает</string>
+  <string name="activity_routes_view_kills_none">Нет корабля убить</string>
+</resources>

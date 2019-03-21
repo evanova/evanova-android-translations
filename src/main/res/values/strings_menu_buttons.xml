@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="activity_character_button_fittings">Fittings</string>
+    <string name="activity_character_button_messages">Mails</string>
+    <string name="activity_character_button_assets">Assets</string>
+    <string name="activity_character_button_wallet">Wallet</string>
+    <string name="activity_character_button_orders">Orders</string>
+    <string name="activity_character_button_contracts">Contract</string>
+    <string name="activity_character_button_industry">Industry</string>
+    <string name="activity_character_button_planetary">Planetary</string>
+    <string name="activity_character_button_social">Social</string>
+    <string name="activity_character_button_calendar">Calendar</string>
+
+    <string name="activity_corporation_button_assets">Assets</string>
+    <string name="activity_corporation_button_wallet">Wallet</string>
+    <string name="activity_corporation_button_orders">Orders</string>
+    <string name="activity_corporation_button_contracts">Contract</string>
+    <string name="activity_corporation_button_industry">Industry</string>
+    <string name="activity_corporation_button_social">Social</string>
+
+</resources>

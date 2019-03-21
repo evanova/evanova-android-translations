@@ -1,0 +1,26 @@
+<resources>
+  <string name="activity_wallet_title">%1$s</string>
+  <string name="activity_wallet_division1">Мастер Кошелек</string>
+  <string name="activity_wallet_division2">2-й кошелек</string>
+  <string name="activity_wallet_division3">3-й кошелек</string>
+  <string name="activity_wallet_division4">4-й кошелек</string>
+  <string name="activity_wallet_division5">5-й кошелек</string>
+  <string name="activity_wallet_division6">6-й кошелек</string>
+  <string name="activity_wallet_division7">7-й кошелек</string>
+  <string name="activity_wallet_balance">Остаток средств</string>
+  <string name="activity_wallet_credit">кредит</string>
+  <string name="activity_wallet_from">От %1$s</string>
+  <string name="activity_wallet_to">В %1$s</string>
+  <string name="activity_wallet_graph_history">история</string>
+  <string name="activity_wallet_graph_revenue">поступления</string>
+  <string name="activity_wallet_graph_expenses">Расходы</string>
+  <string name="activity_wallet_history_label">история</string>
+  <string name="activity_wallet_history_description">Последние 3 месяца</string>
+  <string name="activity_wallet_transaction_qty">%1$d единиц.</string>
+  <string name="activity_wallet_transaction_seller">продавец</string>
+  <string name="activity_wallet_transaction_price">Цена</string>
+  <string name="activity_wallet_transaction_buyer">Покупатель</string>
+  <string name="activity_wallet_tab_journal">журнал</string>
+  <string name="activity_wallet_tab_transactions">операции</string>
+  <string name="activity_wallet_graph_color_dialog_title">Выберите набор цветов</string>
+</resources>

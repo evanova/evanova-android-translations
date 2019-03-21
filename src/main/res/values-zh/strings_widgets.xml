@@ -1,0 +1,9 @@
+<resources>
+  <string name="widget_location_empty">位置不明</string>
+  <string name="widget_training_empty">训练队列是空的</string>
+  <string name="widget_training_next_title">下一个在队列中</string>
+  <string name="widget_training_next_empty">没有其他培训</string>
+  <string name="widget_training_next_current">％1$s ％2$d</string>
+  <string name="widget_training_ends">队列以 ％1$s 结尾</string>
+  <string name="widget_training_current">％1$s 等级 ％2$s</string>
+</resources>

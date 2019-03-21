@@ -1,0 +1,40 @@
+<resources>
+  <string name="activity_mailboxes_mail_title">％1个$ S</string>
+  <string name="activity_mailboxes_mail_description">来自 ％1$s 的邮件</string>
+  <string name="activity_mailboxes_mail_from">从</string>
+  <string name="activity_mailboxes_mail_to">至：</string>
+  <string name="activity_mailboxes_mail_reply">回复：％1$s</string>
+  <string name="activity_mailboxes_mailbox_title">％1个$ S</string>
+  <string name="activity_mailboxes_mailbox_description">％2$d 条消息（％1$d 未读）</string>
+  <string name="activity_mailboxes_killmails_title">杀死邮件</string>
+  <string name="activity_mailboxes_killmails_description">数据由ZKillboard提供）</string>
+  <string name="activity_mailboxes_list_messages_none">没有消息</string>
+  <string name="activity_mailboxes_list_messages_total">％d 条消息</string>
+  <string name="activity_mailboxes_list_messages_unread">％d 未读</string>
+  <string name="activity_mailboxes_killmail_pager_attackers">攻击者</string>
+  <string name="activity_mailboxes_killmail_pager_details">细节</string>
+  <string name="activity_mailboxes_killmail_dropped">下降</string>
+  <string name="activity_mailboxes_killmail_destroyed">摧毁</string>
+  <string name="activity_mailboxes_menu_reply">答复</string>
+  <string name="activity_mailboxes_menu_unread">未读</string>
+  <string name="activity_mailboxes_menu_delete">删除</string>
+  <string name="activity_mailboxes_menu_new">撰写</string>
+  <string name="activity_mailboxes_menu_send">发送</string>
+  <string name="activity_mailboxes_menu_read">读</string>
+  <string name="activity_mailboxes_menu_share">分享</string>
+  <string name="activity_mailboxes_menu_select_all">全选</string>
+  <string name="activity_mailboxes_menu_killmail_all">所有</string>
+  <string name="activity_mailboxes_menu_killmail_death">死亡</string>
+  <string name="activity_mailboxes_menu_killmail_final">最后的打击</string>
+  <string name="activity_mailboxes_menu_killmail_zkill">ZKillboard</string>
+  <string name="activity_mailboxes_mail_delete_error">无法删除游戏内邮件。</string>
+  <string name="activity_mailboxes_mail_delete_success">邮件在游戏中删除。</string>
+  <string name="activity_mailboxes_mail_send_error">无法发送游戏内邮件。</string>
+  <string name="activity_mailboxes_mail_send_success">邮件发送成功。</string>
+  <string name="activity_mailboxes_dialog_delete_title">删除邮件</string>
+  <string name="activity_mailboxes_dialog_delete_text">％1$d条消息将被删除。在线申请将尝试在游戏中删除它们。</string>
+  <string name="activity_mailboxes_edit_validation">某些字段缺失或无效。</string>
+  <string name="activity_mailboxes_widget_reply_title">回复：％1$s</string>
+  <string name="activity_mailboxes_widget_reply_body">\n来自</string>
+  <string name="activity_mailboxes_share_text">来自 ％1$s\n\n％2$s\n\n来自Evanova（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
+</resources>

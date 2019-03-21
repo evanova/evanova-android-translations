@@ -1,0 +1,31 @@
+<resources>
+  <string name="menu_accounts_sso">Anmeldung</string>
+  <string name="menu_search_title">Suche</string>
+  <string name="menu_item_market">Markt</string>
+  <string name="menu_item_select">Wählen</string>
+  <string name="menu_map_region">Region</string>
+  <string name="menu_market_region">Region</string>
+  <string name="menu_market_item">Artikel</string>
+  <string name="menu_market_sort_price_asc">Preis aufsteigend</string>
+  <string name="menu_market_sort_price_desc">Preis Desc</string>
+  <string name="menu_characters_show_training">Ausbildung</string>
+  <string name="menu_characters_show_location">Ort</string>
+  <string name="menu_characters_show_account">Konto</string>
+  <string name="menu_wallet_flip_list">Tagebuch</string>
+  <string name="menu_wallet_flip_graph">Geschichte</string>
+  <string name="menu_wallet_color_graph">Farben</string>
+  <string name="menu_routes_submit">Route</string>
+  <string name="menu_skills_all">Alles</string>
+  <string name="menu_skills_trainable">Trainierbar</string>
+  <string name="menu_skills_known">Bekannt</string>
+  <string name="menu_skills_add">Hinzufügen</string>
+  <string name="menu_skills_plan_delete">klar</string>
+  <string name="menu_skills_plan_save">sparen</string>
+  <string name="menu_skills_plan_revert">Zurückkehren</string>
+  <string name="menu_skills_plan_share">Aktie</string>
+  <string name="menu_wallpaperize">Als Hintergrundbild festlegen</string>
+  <string name="menu_wallpaperize_short">Tapete</string>
+  <string name="menu_backgroundify">Als Hintergrundsbild festlegen</string>
+  <string name="menu_backgroundify_short">Hintergrund</string>
+  <string name="menu_settings_character">Zeicheneinstellungen</string>
+</resources>

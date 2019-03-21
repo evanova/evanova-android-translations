@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="activity_account_title">Characters</string>
+    <string name="activity_account_description"></string>
+
+    <string name="activity_account_text_ship">%1$s (%2$s)</string>
+
+    <string name="activity_account_text_2">%1$d ESI scopes</string>
+    <string name="activity_account_text_3">Last logged %1$s (%2$d logins)</string>
+    <string name="activity_account_text_reload">This account needs to be re-imported.</string>
+    <string name="activity_account_text_reload_text">Use the Add button to replace it.</string>
+
+    <string name="activity_account_error_token">Authentication failed</string>
+    <string name="activity_account_context_delete">Delete</string>
+
+    <string name="activity_account_dialog_delete_title">Delete Characters</string>
+    <string name="activity_account_dialog_delete_text">All information from the selected character will be removed. Are you sure?</string>
+
+    <string name="activity_account_training_text_2_empty">Training queue is empty</string>
+    <string name="activity_account_training_text_2">%1$d skills in queue</string>
+    <string name="activity_account_training_text_3">Queue ends %1$s (%2$s)</string>
+    <string name="activity_account_training_text_4">%1$s %2$d (%3$s)</string>
+
+    <string name="activity_account_text_loading_title">Loading character information.</string>
+
+    <string name="activity_account_text_loading_0">Donate while you wait!</string>
+    <string name="activity_account_text_loading_0_text">Send ISK to Evanova Android to show your support.</string>
+
+    <string name="activity_account_text_loading_1">Get a free personalized in-game mail!</string>
+    <string name="activity_account_text_loading_1_text">Send ISK to Evanova Android and get a free thank you e-mail.</string>
+
+    <string name="activity_account_text_loading_2">Initiating account deletion.</string>
+    <string name="activity_account_text_loading_2_text">(just kidding, still loading&#8230;)</string>
+
+    <string name="activity_account_text_loading_3">Spai analysis in progress.</string>
+    <string name="activity_account_text_loading_3_text">Please wait while we confirm that you are spai.</string>
+
+    <string name="activity_account_text_loading_4">Warping to infinity and beyond.</string>
+    <string name="activity_account_text_loading_4_text">Did someone said jump?</string>
+
+    <string name="activity_account_text_loading_5">Can I import my Drake in Evanova?</string>
+    <string name="activity_account_text_loading_5_text">Yes, you can!</string>
+
+    <string name="activity_account_scopes_tab_character">Character</string>
+    <string name="activity_account_scopes_tab_corporation">Corporation</string>
+    <string name="activity_account_scopes_dialog">Select ESI scopes</string>
+
+    <string name="activity_account_tab_characters">Characters</string>
+    <string name="activity_account_tab_corporations">Corporations</string>
+
+    <string name="activity_account_scopes_essentials_title">Basic Character (required)</string>
+    <string name="activity_account_scopes_essentials_c_title">Basic Corporation (required)</string>
+    <string name="activity_account_scopes_members_title">Corporation members</string>
+    <string name="activity_account_scopes_messages_title">Mail, kill mails and notifications</string>
+    <string name="activity_account_scopes_industry_title">Industry and mining</string>
+    <string name="activity_account_scopes_assets_title">Assets</string>
+    <string name="activity_account_scopes_planetary_title">Planetary interaction</string>
+    <string name="activity_account_scopes_calendar_title">Calendar events</string>
+    <string name="activity_account_scopes_contacts_title">Contacts, standings and agents</string>
+    <string name="activity_account_scopes_contracts_title">Contracts</string>
+    <string name="activity_account_scopes_market_title">Market Orders</string>
+    <string name="activity_account_scopes_wallet_title">Wallet balance and transactions</string>
+    <string name="activity_account_scopes_fitting_title">Fittings</string>
+
+</resources>

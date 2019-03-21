@@ -1,0 +1,5 @@
+.gradle/
+build/
+.idea/
+i18n.iml
+out/

@@ -1,0 +1,40 @@
+<resources>
+  <string name="activity_mailboxes_mail_title">%1$s</string>
+  <string name="activity_mailboxes_mail_description">Mail de %1$s</string>
+  <string name="activity_mailboxes_mail_from">De</string>
+  <string name="activity_mailboxes_mail_to">À:</string>
+  <string name="activity_mailboxes_mail_reply">Re: %1$s</string>
+  <string name="activity_mailboxes_mailbox_title">%1$s</string>
+  <string name="activity_mailboxes_mailbox_description">%2$d messages (%1$d non lus)</string>
+  <string name="activity_mailboxes_killmails_title">Kill Mails</string>
+  <string name="activity_mailboxes_killmails_description">Données fournies par ZKillboard)</string>
+  <string name="activity_mailboxes_list_messages_none">Pas de message</string>
+  <string name="activity_mailboxes_list_messages_total">%d messages</string>
+  <string name="activity_mailboxes_list_messages_unread">%d non lus</string>
+  <string name="activity_mailboxes_killmail_pager_attackers">AAttaquants</string>
+  <string name="activity_mailboxes_killmail_pager_details">Détails</string>
+  <string name="activity_mailboxes_killmail_dropped">Dropped</string>
+  <string name="activity_mailboxes_killmail_destroyed">Détruit</string>
+  <string name="activity_mailboxes_menu_reply">Répondre</string>
+  <string name="activity_mailboxes_menu_unread">Non lu</string>
+  <string name="activity_mailboxes_menu_delete">Effacer</string>
+  <string name="activity_mailboxes_menu_new">Composer</string>
+  <string name="activity_mailboxes_menu_send">Envoyer</string>
+  <string name="activity_mailboxes_menu_read">Lu</string>
+  <string name="activity_mailboxes_menu_share">Partager</string>
+  <string name="activity_mailboxes_menu_select_all">Tout sélectionner</string>
+  <string name="activity_mailboxes_menu_killmail_all">Tout</string>
+  <string name="activity_mailboxes_menu_killmail_death">Mort</string>
+  <string name="activity_mailboxes_menu_killmail_final">Coup fata;</string>
+  <string name="activity_mailboxes_menu_killmail_zkill">ZKillboard</string>
+  <string name="activity_mailboxes_mail_delete_error">Impossible de supprimer le courrier en ligne.</string>
+  <string name="activity_mailboxes_mail_delete_success">Mail supprimé en ligne.</string>
+  <string name="activity_mailboxes_mail_send_error">Impossible d\'envoyer le courrier en ligne.</string>
+  <string name="activity_mailboxes_mail_send_success">Courrier envoyé avec succès.</string>
+  <string name="activity_mailboxes_dialog_delete_title">Supprimer les messages</string>
+  <string name="activity_mailboxes_dialog_delete_text">Les messages%1$d seront supprimés. L\'application tentera de les supprimer en ligne.</string>
+  <string name="activity_mailboxes_edit_validation">Certains champs sont manquants ou invalides.</string>
+  <string name="activity_mailboxes_widget_reply_title">Re: %1$s</string>
+  <string name="activity_mailboxes_widget_reply_body">\nEnvoyé depuis</string>
+  <string name="activity_mailboxes_share_text">De%1$s\n\n%2$s\n\nEnvoyé depuis Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
+</resources>

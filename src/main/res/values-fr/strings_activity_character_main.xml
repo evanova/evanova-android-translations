@@ -1,0 +1,13 @@
+<resources>
+  <string name="activity_character_location_unknown">Aucune information de localisation</string>
+  <string name="activity_character_balance_unknown">Solde de portefeuille non disponible</string>
+  <string name="activity_character_fatigue">Saut de fatigue %1$s</string>
+  <string name="activity_character_fatigue_none">Pas de fatigue de saut</string>
+  <string name="activity_character_status_title">Etat de sécurité %s</string>
+  <string name="activity_character_status_text">%1$s - sera attaqué dans %2$f</string>
+  <string name="activity_character_ship_unknown">Aucune information sur le navire</string>
+  <string name="activity_character_dialogs_wallpaperize_title">Définir le papier peint.</string>
+  <string name="activity_character_dialogs_wallpaperize_text">Cela remplacera le papier peint de votre appareil par ce portrait.</string>
+  <string name="activity_character_dialogs_backgroundify_title">Définir l\'arrière-plan.</string>
+  <string name="activity_character_dialogs_backgroundify_text">Cela remplacera l\'arrière-plan de l\'application par ce portrait.</string>
+</resources>

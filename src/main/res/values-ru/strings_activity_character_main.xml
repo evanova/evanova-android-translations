@@ -1,0 +1,13 @@
+<resources>
+  <string name="activity_character_location_unknown">Нет информации о местоположении</string>
+  <string name="activity_character_balance_unknown">Баланс кошелька недоступен</string>
+  <string name="activity_character_fatigue">Скачок усталости %1$s</string>
+  <string name="activity_character_fatigue_none">Нет усталости от прыжка</string>
+  <string name="activity_character_status_title">Состояние безопасности %s</string>
+  <string name="activity_character_status_text">%1$s - будет атакован в %2$f</string>
+  <string name="activity_character_ship_unknown">Нет информации о корабле</string>
+  <string name="activity_character_dialogs_wallpaperize_title">Установка обоев.</string>
+  <string name="activity_character_dialogs_wallpaperize_text">Это заменит обои вашего устройства с этим портретом.</string>
+  <string name="activity_character_dialogs_backgroundify_title">Установить фон.</string>
+  <string name="activity_character_dialogs_backgroundify_text">Это заменит фон приложения этим портретом.</string>
+</resources>

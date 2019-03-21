@@ -1,0 +1,18 @@
+<resources>
+  <string name="activity_character_button_fittings">Assembl.</string>
+  <string name="activity_character_button_messages">Courrier</string>
+  <string name="activity_character_button_assets">Biens</string>
+  <string name="activity_character_button_wallet">Portef.</string>
+  <string name="activity_character_button_orders">Marché</string>
+  <string name="activity_character_button_contracts">Contrat</string>
+  <string name="activity_character_button_industry">Industrie</string>
+  <string name="activity_character_button_planetary">Planètes</string>
+  <string name="activity_character_button_social">Social</string>
+  <string name="activity_character_button_calendar">Calendrier</string>
+  <string name="activity_corporation_button_assets">Biens</string>
+  <string name="activity_corporation_button_wallet">Portef.</string>
+  <string name="activity_corporation_button_orders">Marché</string>
+  <string name="activity_corporation_button_contracts">Contrat</string>
+  <string name="activity_corporation_button_industry">Industrie</string>
+  <string name="activity_corporation_button_social">Social</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+  <string name="activity_industry_tab_activities">工作</string>
+  <string name="activity_industry_tab_mining">矿业</string>
+  <string name="activity_industry_job_title">％1$s  - ％2$d 运行（％3$d max）</string>
+  <string name="activity_industry_job_active_2">从 ％1$s 开始</string>
+  <string name="activity_industry_job_active_3">结束 ％1$s</string>
+  <string name="activity_industry_job_delivered_2">已完成 ％1$s</string>
+  <string name="activity_industry_job_delivered_3">已交付 ％1$s</string>
+  <string name="activity_industry_job_paused_2">从 ％1$s开始</string>
+  <string name="activity_industry_job_paused_3">已暂停</string>
+  <string name="activity_industry_job_ready_2">已完成 ％1$s</string>
+  <string name="activity_industry_job_ready_3">等待 ％1$s</string>
+  <string name="activity_industry_job_cancelled_2">取消</string>
+  <string name="activity_industry_job_cancelled_3"/>
+  <string name="activity_industry_job_reverted_2">回复</string>
+  <string name="activity_industry_job_reverted_3"/>
+  <string name="activity_industry_job_unknown_2">未知</string>
+  <string name="activity_industry_job_unknown_3"/>
+  <string name="activity_industry_job_name_na">N/A</string>
+  <string name="activity_industry_job_name_manufacturing">制造业</string>
+  <string name="activity_industry_job_name_technology">技术</string>
+  <string name="activity_industry_job_name_time">时间效率</string>
+  <string name="activity_industry_job_name_material">材料效率</string>
+  <string name="activity_industry_job_name_copy">仿形</string>
+  <string name="activity_industry_job_name_duplicate">复制</string>
+  <string name="activity_industry_job_name_reverse">逆向工程</string>
+  <string name="activity_industry_job_name_invention">发明</string>
+  <string name="activity_industry_job_name_reactions">反应</string>
+  <string name="activity_industry_mining_item_one">％1$d S</string>
+  <string name="activity_industry_mining_item_multiple">％1$d x ％2$s</string>
+</resources>
