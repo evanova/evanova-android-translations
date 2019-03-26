@@ -17,9 +17,9 @@
   <string name="activity_mailboxes_killmail_destroyed">разрушенный</string>
   <string name="activity_mailboxes_menu_reply">Ответить</string>
   <string name="activity_mailboxes_menu_unread">Непрочитанный</string>
-  <string name="activity_mailboxes_menu_delete">удалять</string>
-  <string name="activity_mailboxes_menu_new">компоновать</string>
-  <string name="activity_mailboxes_menu_send">послать</string>
+  <string name="activity_mailboxes_menu_delete">удалить</string>
+  <string name="activity_mailboxes_menu_new">Новое</string>
+  <string name="activity_mailboxes_menu_send">Послать</string>
   <string name="activity_mailboxes_menu_read">Читать</string>
   <string name="activity_mailboxes_menu_share">Поделиться</string>
   <string name="activity_mailboxes_menu_select_all">Выбрать все</string>

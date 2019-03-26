@@ -24,6 +24,6 @@
   <string name="activity_routes_view_security">%s</string>
   <string name="activity_routes_view_jumps">%d скачок корабля</string>
   <string name="activity_routes_view_jumps_none">Без прыжка с корабля</string>
-  <string name="activity_routes_view_kills">%d убивает</string>
+  <string name="activity_routes_view_kills">%d убийств</string>
   <string name="activity_routes_view_kills_none">Нет корабля убить</string>
 </resources>

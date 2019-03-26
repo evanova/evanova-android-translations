@@ -15,26 +15,26 @@
   <string name="activity_fittings_menu_damage">возмещение убытков</string>
   <string name="activity_fittings_menu_rename">переименовывать</string>
   <string name="activity_fittings_title">арматура</string>
-  <string name="activity_fittings_export_subject_multiple">Фитинги от Evanova</string>
-  <string name="activity_fittings_export_success">Фитинги экспортируются</string>
+  <string name="activity_fittings_export_subject_multiple">Совместимости от Evanova</string>
+  <string name="activity_fittings_export_success">Совместимости экспортируются</string>
   <string name="activity_fittings_export_error">Экспорт не удался</string>
   <string name="activity_fittings_import_error">Не удалось импортировать</string>
   <string name="activity_fittings_import_success">Фитинги импортные</string>
   <string name="activity_fittings_access_denied">Доступ к этому ресурсу запрещен</string>
   <string name="activity_fittings_clipboard_empty">Буфер обмена пуст</string>
-  <string name="activity_fittings_dialog_delete_title">Удалить фитинг</string>
+  <string name="activity_fittings_dialog_delete_title">Удалить совместимость</string>
   <string name="activity_fittings_dialog_delete_text">Уверены ли вы?</string>
   <string name="activity_fittings_dialog_delete_online">Также удалите онлайн (используйте на свой страх и риск)</string>
-  <string name="activity_fittings_dialog_rename_title">Переименовать Фитинг</string>
+  <string name="activity_fittings_dialog_rename_title">Переименовать Совместимость</string>
   <string name="activity_fittings_dialog_rename_default">Создано с Evanova</string>
-  <string name="activity_fittings_dialog_add_title">Добавить фитинг</string>
+  <string name="activity_fittings_dialog_add_title">Добавить совместимость</string>
   <string name="activity_fittings_dialog_save_title">Сохранить примерку</string>
   <string name="activity_fittings_dialog_save_text">Вы не сохранили свои изменения. Хотели бы вы сделать это?</string>
-  <string name="activity_fittings_dialog_synchronize_title">Синхронизировать фитинги</string>
+  <string name="activity_fittings_dialog_synchronize_title">Синхронизировать Совместимости</string>
   <string name="activity_fittings_dialog_synchronize_text">Это позволит импортировать все онлайн-фитинги и заменить существующие.</string>
   <string name="activity_fittings_dialog_synchronize_check">Также сохраните новые детали, созданные с помощью Evanova.</string>
-  <string name="activity_fittings_dialog_import_title">Импортная арматура</string>
-  <string name="activity_fittings_group_local">Местные Фитинги</string>
+  <string name="activity_fittings_dialog_import_title">Импортировать совместимости</string>
+  <string name="activity_fittings_group_local">Местные Совместимости</string>
   <string name="activity_fittings_list_level">Уровень %1$d</string>
   <string name="activity_fittings_list_online">Загружен из %1$s на %2$s</string>
   <string name="activity_fittings_list_offline">Местная примерка</string>
@@ -46,7 +46,7 @@
   <string name="activity_fittings_implant_add_error">Не подходит для имплантата</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">Не подходит</item>
-    <item quantity="one">%d примерка</item>
-    <item quantity="other">%d фитинги</item>
+    <item quantity="one">%d совместимость</item>
+    <item quantity="other">%d совместимости</item>
   </plurals>
 </resources>
