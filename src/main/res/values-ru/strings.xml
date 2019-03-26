@@ -3,6 +3,8 @@
   <string name="app_description"/>
   <string name="app_dismiss">Отклонять</string>
   <string name="app_cancel">Отменить</string>
+  <string name="app_restart">Запустить снова</string>
+  <string name="app_clear">Очистить</string>
   <string name="app_ok">Хорошо</string>
   <string name="app_add">Добавить</string>
   <string name="app_close">Закрыть</string>

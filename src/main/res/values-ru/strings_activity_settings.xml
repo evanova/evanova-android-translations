@@ -22,8 +22,6 @@
   <string name="preferences_background_select">Выберите фон</string>
   <string name="preferences_display_title">Фон персонажа</string>
   <string name="preferences_display_summary">Выберите изображение, отображаемое в качестве фона экрана основного персонажа.</string>
-  <string name="preferences_character_dashboard_summary">Показывать события персонажа на главной панели.</string>
-  <string name="preferences_character_dashboard_title">Приборная доска</string>
   <string name="preferences_character_update_summary">Включить / исключить этого персонажа из фоновых обновлений, чтобы сэкономить заряд батареи. Вы по-прежнему сможете перезагрузить данные вручную.</string>
   <string name="preferences_character_update_title">Фоновое обновление</string>
   <string name="preferences_character_notifications_summary">Включить / отключить уведомления для этого персонажа. Обратите внимание, что настройки уведомлений приложения все еще применяются.</string>
@@ -90,7 +88,7 @@
     <item>Recent Notifications</item>
     <item>Skill Training</item>
   </string-array>
-  <string-array name="preferences_character_dashboard_list_values" translatable="false">
+  <string-array name="preferences_character_dashboard_filter_values" translatable="false">
     <item>preferences.dashboard.calendar</item>
     <item>preferences.dashboard.colonies</item>
     <item>preferences.dashboard.contracts</item>
@@ -135,18 +133,33 @@
     <item>365</item>
     <item>0</item>
   </string-array>
-  <string-array name="preferences_language_entries" translatable="false">
-    <item>English</item>
-    <item>Français</item>
-    <item>Deutsche</item>
-    <item>русский</item>
-    <item>中文</item>
-  </string-array>
-  <string-array name="preferences_language_values" translatable="false">
-    <item>en</item>
-    <item>fr</item>
-    <item>de</item>
-    <item>ru</item>
-    <item>zh</item>
-  </string-array>
+
+
+  <string name="preferences_language_dialog_summary">Измените язык интерфейса Evanova и базы данных товаров.
+        \n\nОбратите внимание, что это неполная функция, которая может привести к неправильному отображению или сбоям.
+        Посмотрите раздел О том, как вы можете помочь с переводом Evanova.</string>
+
+
+  <string name="preferences_language_dialog_ui">Применить к интерфейсу Evanova</string>
+  <string name="preferences_language_dialog_database">Применить к базе данных предметов Евы.</string>
+
+  <string name="preferences_category_cache">Кэш приложения</string>
+  <string name="preferences_cache_title">Данные Приложения</string>
+  <string name="preferences_cache_summary">Очистить кэшированные данные.</string>
+  <string name="preferences_cache_dialog_title">Очистить кэш</string>
+  <string name="preferences_cache_dialog_summary">Это очистит изображения Eve Online, хранящиеся в настоящее время от Evanova, а также недавно загруженные данные.</string>
+  <string name="preferences_category_location">локализация</string>
+
+  <string name="preferences_character_dashboard_show_title">дисплей</string>
+  <string name="preferences_character_dashboard_show_summary">Настройте, что отображать.</string>
+
+  <string name="preferences_character_dashboard_notifications">Фоновое обновление / Уведомления</string>
+
+  <string name="preferences_character_dashboard_category">Приборная доска</string>
+  <string name="preferences_character_dashboard_events_title">Только события</string>
+  <string name="preferences_character_dashboard_events_summary">Показывать персонажа только на выбранных событиях.</string>
+  <string name="preferences_character_dashboard_pinned_title">Всегда</string>
+  <string name="preferences_character_dashboard_pinned_summary">Всегда показывать этого персонажа</string>
+  <string name="preferences_cleared_message">Кэш был очищен.</string>
+
 </resources>

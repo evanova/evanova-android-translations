@@ -13,13 +13,7 @@
   <string name="activity_assets_flag_safety">Безопасность активов</string>
   <string name="activity_assets_flag_deliveries">Корп. Поставки</string>
   <string name="activity_assets_flag_impounded">конфискован</string>
-  <string name="activity_assets_flag_ag1">Актив корпорации 1</string>
-  <string name="activity_assets_flag_ag2">Актив корпорации 2</string>
-  <string name="activity_assets_flag_ag3">Актив корпорации 3</string>
-  <string name="activity_assets_flag_ag4">Актив корпорации 4</string>
-  <string name="activity_assets_flag_ag5">Актив корпорации 5</string>
-  <string name="activity_assets_flag_ag6">Актив корпорации 6</string>
-  <string name="activity_assets_flag_ag7">Актив корпорации 7</string>
+  <string name="activity_assets_flag_ag">Актив корпорации</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">Нет товаров</item>
     <item quantity="one">%d товар</item>
