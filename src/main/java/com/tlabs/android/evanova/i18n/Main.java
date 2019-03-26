@@ -15,8 +15,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.stream.Stream;
 
-//GOOGLE_APPLICATION_CREDENTIALS=D:\dev\eve\evanova2\i18n\Evanova for Eve Online-190319115707.json
-//GOOGLE_CLOUD_PROJECT=evanova-for-eve-online*/
 public class Main {
 
     private static final ObjectMapper mapper;
