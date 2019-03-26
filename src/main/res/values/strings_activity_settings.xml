@@ -35,8 +35,6 @@
     <string name="preferences_display_title">Character Background</string>
     <string name="preferences_display_summary">Choose the image displayed as the main character screen\'s background.</string>
 
-    <string name="preferences_character_dashboard_summary">Show character events on the main dashboard.</string>
-    <string name="preferences_character_dashboard_title">Dashboard</string>
     <string name="preferences_character_update_summary">Include / exclude this character from background updates to save battery. You will still be able to manually reload data.</string>
     <string name="preferences_character_update_title">Background Update</string>
     <string name="preferences_character_notifications_summary">Enable / disable notifications for this character. Note that the application\'s notifications settings still apply.</string>

@@ -8,7 +8,7 @@
   <string name="menu_market_item">Article</string>
   <string name="menu_market_sort_price_asc">Price Asc</string>
   <string name="menu_market_sort_price_desc">Price Desc</string>
-  <string name="menu_characters_show_training">Entraînement</string>
+  <string name="menu_characters_show_training">Apprentissage</string>
   <string name="menu_characters_show_location">Emplacement</string>
   <string name="menu_characters_show_account">Compte</string>
   <string name="menu_wallet_flip_list">Journal</string>

@@ -13,13 +13,7 @@
   <string name="activity_assets_flag_safety">资产安全</string>
   <string name="activity_assets_flag_deliveries">公司交付</string>
   <string name="activity_assets_flag_impounded">扣押</string>
-  <string name="activity_assets_flag_ag1">公司资产1</string>
-  <string name="activity_assets_flag_ag2">公司资产2</string>
-  <string name="activity_assets_flag_ag3">公司资产3</string>
-  <string name="activity_assets_flag_ag4">公司资产4</string>
-  <string name="activity_assets_flag_ag5">公司资产5</string>
-  <string name="activity_assets_flag_ag6">公司资产6</string>
-  <string name="activity_assets_flag_ag7">公司资产7</string>
+  <string name="activity_assets_flag_ag">公司资产</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">没有项目</item>
     <item quantity="one">％d项</item>

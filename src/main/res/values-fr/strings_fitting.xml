@@ -25,10 +25,10 @@
   <string name="fitting_ship_stats_header_navigation">La navigation</string>
   <string name="fitting_widget_modules_statistics_capacitor_stable">Stable à %1$d</string>
   <string name="fitting_widget_modules_statistics_capacitor_unstable">Dure %1$ds</string>
-  <string name="fitting_widget_modules_slots_high">Places élevées (%1$d /%2$d)</string>
-  <string name="fitting_widget_modules_slots_medium">Fentes moyennes (%1 $ j /%2 $ j)</string>
-  <string name="fitting_widget_modules_slots_low">Fentes basses (%1$d /%2$d)</string>
-  <string name="fitting_widget_modules_slots_rigs">Rigs (%1$d /%2$d)</string>
+  <string name="fitting_widget_modules_slots_high">Emplacement hauts (%1$d /%2$d)</string>
+  <string name="fitting_widget_modules_slots_medium">Emplacement moyens (%1 $ j /%2 $ j)</string>
+  <string name="fitting_widget_modules_slots_low">Emplacement bas (%1$d /%2$d)</string>
+  <string name="fitting_widget_modules_slots_rigs">Modifications (%1$d /%2$d)</string>
   <string name="fitting_widget_modules_slots_subsystems">Sous-systèmes (%1$d /%2$d)</string>
   <string name="fitting_widget_modules_slots_mode">Mode (%1$d /%2$d)</string>
   <string name="fitting_widget_modules_slots_services">Services (%1$d /%2$d)</string>

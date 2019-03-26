@@ -1,24 +1,24 @@
 <resources>
   <string name="app_name">Evanova</string>
   <string name="app_description"/>
-  <string name="app_dismiss">отклонять</string>
+  <string name="app_dismiss">Отклонять</string>
+  <string name="app_cancel">Отменить</string>
   <string name="app_restart">Запустить снова</string>
-  <string name="app_cancel">отменить</string>
   <string name="app_clear">Очистить</string>
   <string name="app_ok">Хорошо</string>
-  <string name="app_add">добавлять</string>
-  <string name="app_close">близко</string>
+  <string name="app_add">Добавить</string>
+  <string name="app_close">Закрыть</string>
   <string name="app_import">Импортировать</string>
   <string name="drawer_items">База данных</string>
   <string name="drawer_login">Добавить персонажа</string>
   <string name="drawer_characters">Персонажи</string>
   <string name="drawer_corporations">корпорации</string>
   <string name="drawer_about">Около</string>
-  <string name="drawer_settings">настройки</string>
+  <string name="drawer_settings">Настройки</string>
   <string name="drawer_skills">Навыки</string>
   <string name="drawer_routes">Маршруты</string>
   <string name="drawer_maps">Карты</string>
-  <string name="drawer_fittings">арматура</string>
-  <string name="drawer_server">сервер</string>
+  <string name="drawer_fittings">Совместимости</string>
+  <string name="drawer_server">Cервер</string>
   <string name="search_items_hint">Поиск предметов</string>
 </resources>

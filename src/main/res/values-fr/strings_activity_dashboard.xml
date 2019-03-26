@@ -14,14 +14,14 @@
   <string name="activity_dashboard_adapter_title_news">Eve Online</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
   <string name="activity_dashboard_adapter_training_when">%1$d compétences jusqu\'à %2$s</string>
-  <string name="activity_dashboard_adapter_training_title">File d\'attente d\'entraînement</string>
-  <string name="activity_dashboard_adapter_training_empty">La file d’entraînement est vide</string>
-  <string name="activity_dashboard_adapter_training_inactive">La file d’entraînement est inactive</string>
+  <string name="activity_dashboard_adapter_training_title">File d\'attente d\'apprentissage</string>
+  <string name="activity_dashboard_adapter_training_empty">La file d’apprentissage est vide</string>
+  <string name="activity_dashboard_adapter_training_inactive">La file d’apprentissage est inactive</string>
   <string name="activity_dashboard_adapter_colony_title">Colonie en %1$s</string>
   <string name="activity_dashboard_adapter_colony_expiring">Activité de colonie terminées à %1$s</string>
   <string name="activity_dashboard_adapter_colony_expired">Activité de colonie  inactives depuis %1$s</string>
   <string name="activity_dashboard_summary_title">Résumé</string>
-  <string name="activity_dashboard_summary_corporation_none_text">Aucune entreprise.</string>
+  <string name="activity_dashboard_summary_corporation_none_text">Aucune corporation.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Veuillez ré-importer vos personnages existants.</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Pas de personnage</item>
@@ -29,8 +29,8 @@
     <item quantity="other">%1$d personnages</item>
   </plurals>
   <plurals name="activity_dashboard_summary_corporations">
-    <item quantity="zero">Aucune entreprise</item>
-    <item quantity="one">%1$d entreprise</item>
-    <item quantity="other">%1$d entreprises</item>
+    <item quantity="zero">Aucune corporation</item>
+    <item quantity="one">%1$d corporation</item>
+    <item quantity="other">%1$d corporations</item>
   </plurals>
 </resources>

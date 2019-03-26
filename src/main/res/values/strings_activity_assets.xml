@@ -1,4 +1,5 @@
 <resources>
+    <string name="activity_assets_descriptions">Assets</string>
     <string name="activity_assets_locations">Locations</string>
     <string name="activity_assets_categories">Categories</string>
     <string name="activity_assets_items">Items</string>
@@ -15,13 +16,7 @@
     <string name="activity_assets_flag_deliveries">Corp. Deliveries</string>
     <string name="activity_assets_flag_impounded">Impounded</string>
 
-    <string name="activity_assets_flag_ag1">Corporation Assets 1</string>
-    <string name="activity_assets_flag_ag2">Corporation Assets 2</string>
-    <string name="activity_assets_flag_ag3">Corporation Assets 3</string>
-    <string name="activity_assets_flag_ag4">Corporation Assets 4</string>
-    <string name="activity_assets_flag_ag5">Corporation Assets 5</string>
-    <string name="activity_assets_flag_ag6">Corporation Assets 6</string>
-    <string name="activity_assets_flag_ag7">Corporation Assets 7</string>
+    <string name="activity_assets_flag_ag">Corporation Hangar</string>
 
     <plurals name="activity_assets_locations_group">
         <item quantity="zero">No item</item>

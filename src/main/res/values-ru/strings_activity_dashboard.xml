@@ -5,10 +5,9 @@
   <string name="activity_dashboard_o7">o7</string>
   <string name="activity_dashboard_button_sso">Добавить персонажа</string>
   <string name="activity_dashboard_update_title">Обновление приложения</string>
-  <string name="activity_dashboard_update_restart">Для вступления в силу некоторых изменений требуется перезагрузка.</string>
-  <string name="activity_dashboard_update_description">В Evanova было внесено большое количество изменений, улучшений и дополнений.\nЧтобы воспользоваться преимуществами новых функций, вам необходимо повторно импортировать существующие символы и разрешить им дополнительные области ESI.\nПроверьте подробный список в разделе about. изменений.</string>
-  <string name="activity_dashboard_update_about">Об Эвановой</string>
-  <string name="activity_dashboard_update_text">Обновление еванова</string>
+  <string name="activity_dashboard_update_description">В Evanova было внесено большое количество изменений, улучшений и дополнений.\nЧтобы воспользоваться преимуществами новых функций, вам необходимо повторно импортировать существующие персонажи и разрешить им дополнительные области ESI.\nПроверьте подробный список в разделе изменений.</string>
+  <string name="activity_dashboard_update_about">Об Эванова</string>
+  <string name="activity_dashboard_update_text">Обновление Эванова</string>
   <string name="activity_dashboard_recent">Недавние события</string>
   <string name="activity_dashboard_back">Еще одно обратное нажатие вытащит вас со станции.</string>
   <string name="activity_dashboard_adapter_title_news">Ева онлайн новости</string>
@@ -21,7 +20,7 @@
   <string name="activity_dashboard_adapter_colony_expiring">Некоторые выводы завершены в %1$s</string>
   <string name="activity_dashboard_adapter_colony_expired">Некоторые выводы неактивны, так как %1$s</string>
   <string name="activity_dashboard_summary_title">Резюме</string>
-  <string name="activity_dashboard_summary_corporation_none_text">Нет информации корпорации.</string>
+  <string name="activity_dashboard_summary_corporation_none_text">Нет информации о корпорации.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Пожалуйста, повторно импортируйте существующих персонажей.</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Нет персонажа</item>

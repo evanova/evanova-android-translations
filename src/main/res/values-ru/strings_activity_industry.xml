@@ -1,5 +1,5 @@
 <resources>
-  <string name="activity_industry_tab_activities">работы</string>
+  <string name="activity_industry_tab_activities">Работы</string>
   <string name="activity_industry_tab_mining">Добыча полезных ископаемых</string>
   <string name="activity_industry_job_title">%1$s - %2$d работает (%3$d max)</string>
   <string name="activity_industry_job_active_2">Начат на %1$s</string>

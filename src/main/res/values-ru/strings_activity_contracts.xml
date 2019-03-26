@@ -1,8 +1,8 @@
 <resources>
   <string name="activity_contracts_title">%1$s</string>
   <string name="activity_contracts_description">%1$d контракты</string>
-  <string name="activity_contracts_menu_asc">Asc</string>
-  <string name="activity_contracts_menu_desc">Описание изделия</string>
+  <string name="activity_contracts_menu_asc">Нараст</string>
+  <string name="activity_contracts_menu_desc">Убыв</string>
   <string name="activity_contracts_tab_all">Все</string>
   <string name="activity_contracts_tab_outstanding">выдающийся</string>
   <string name="activity_contracts_tab_current">Текущий</string>
@@ -49,6 +49,6 @@
   <string name="activity_contract_status_reversed">Перевернутый</string>
   <string name="activity_contract_status_failed">Не удалось</string>
   <string name="activity_contract_status_unknown">неизвестный</string>
-  <string name="activity_contract_contractor_unknown">Unassigned</string>
+  <string name="activity_contract_contractor_unknown">Нет выполнителя</string>
   <string name="activity_contract_issuer_by">Выдано %1$s</string>
 </resources>

@@ -23,8 +23,6 @@
   <string name="preferences_background_select">Wählen Sie einen Hintergrund aus</string>
   <string name="preferences_display_title">Charakter Hintergrund</string>
   <string name="preferences_display_summary">Wählen Sie das Bild aus, das als Hintergrund des Hauptbildschirms angezeigt wird.</string>
-  <string name="preferences_character_dashboard_summary">Zeigen Sie Zeichenereignisse im Haupt-Dashboard an.</string>
-  <string name="preferences_character_dashboard_title">Instrumententafel</string>
   <string name="preferences_character_update_summary">Schließen Sie dieses Zeichen aus Hintergrundaktualisierungen ein oder aus, um den Akku zu schonen. Sie können die Daten weiterhin manuell laden.</string>
   <string name="preferences_character_update_title">Hintergrundaktualisierung</string>
   <string name="preferences_character_notifications_summary">Benachrichtigungen für diesen Charakter aktivieren / deaktivieren. Beachten Sie, dass die Benachrichtigungseinstellungen der Anwendung weiterhin gelten.</string>

@@ -7,7 +7,7 @@
   <string name="activity_skills_skill_title">%1$s</string>
   <string name="activity_skills_skill_description">%1$s</string>
   <string name="activity_skills_tab_list">Compétences</string>
-  <string name="activity_skills_tab_training">Entraînement</string>
+  <string name="activity_skills_tab_training">Apprentissage</string>
   <string name="activity_skills_tab_details">Détails</string>
   <string name="activity_skills_tab_required">Requis pour</string>
   <string name="activity_skills_attributes_primary">Attribut primaire</string>
@@ -21,11 +21,11 @@
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
   <string name="activity_skills_export_title">File d\'attente de formation</string>
-  <string name="activity_skills_ends">Se termine% s</string>
-  <string name="activity_skills_queued">De%1$s à %2$s</string>
+  <string name="activity_skills_ends">Se termine %s</string>
+  <string name="activity_skills_queued">De %1$s à %2$s</string>
   <string name="activity_skills_completed">Formation terminée</string>
-  <string name="activity_skills_queue_empty">La file d’entraînement est vide</string>
-  <string name="activity_skills_queue_inactive">La file d’entraînement est inactive</string>
+  <string name="activity_skills_queue_empty">La file d’apprentissage est vide</string>
+  <string name="activity_skills_queue_inactive">La file d’apprentissage est inactive</string>
   <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
   <string name="activity_skills_queue_ends">La file d\'attente se termine %1$s (%2$s)</string>
   <string name="activity_skills_queue_count">%1$d compétences en attente - %2$d terminées - %3$d prévues</string>

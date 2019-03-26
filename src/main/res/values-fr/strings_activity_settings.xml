@@ -23,8 +23,6 @@
   <string name="preferences_background_select">Sélectionnez un fond</string>
   <string name="preferences_display_title">Fond de personnage</string>
   <string name="preferences_display_summary">Choisissez l’image affichée comme arrière-plan de l’écran du personnage principal.</string>
-  <string name="preferences_character_dashboard_summary">Afficher les événements de personnages sur le tableau de bord principal.</string>
-  <string name="preferences_character_dashboard_title">Tableau de bord</string>
   <string name="preferences_character_update_summary">Inclure / exclure ce personnage des mises à jour en arrière-plan pour économiser la batterie. Vous pourrez toujours recharger manuellement les données.</string>
   <string name="preferences_character_update_title">Mise à jour de fond</string>
   <string name="preferences_character_notifications_summary">Activer / désactiver les notifications pour ce personnage. Notez que les paramètres de notification de l\'application s\'appliquent toujours.</string>
