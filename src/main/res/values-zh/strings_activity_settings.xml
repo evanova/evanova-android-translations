@@ -23,8 +23,6 @@
   <string name="preferences_background_select">选择背景</string>
   <string name="preferences_display_title">人物背景</string>
   <string name="preferences_display_summary">选择显示为主角色屏幕背景的图像。</string>
-  <string name="preferences_character_dashboard_summary">在主仪表板上显示角色事件。</string>
-  <string name="preferences_character_dashboard_title">仪表板</string>
   <string name="preferences_character_update_summary">在后台更新中包含/排除此字符以节省电池电量。您仍然可以手动重新加载数据。</string>
   <string name="preferences_character_update_title">背景更新</string>
   <string name="preferences_character_notifications_summary">启用/禁用此角色的通知。请注意，应用程序的通知设置仍然适用。</string>

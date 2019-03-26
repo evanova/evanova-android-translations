@@ -36,5 +36,5 @@
   <string name="activity_mailboxes_edit_validation">Certains champs sont manquants ou invalides.</string>
   <string name="activity_mailboxes_widget_reply_title">Re: %1$s</string>
   <string name="activity_mailboxes_widget_reply_body">\nEnvoyé depuis</string>
-  <string name="activity_mailboxes_share_text">De%1$s\n\n%2$s\n\nEnvoyé depuis Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
+  <string name="activity_mailboxes_share_text">De %1$s\n\n%2$s\n\nEnvoyé depuis Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
 </resources>

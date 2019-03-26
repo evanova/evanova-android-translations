@@ -1,5 +1,5 @@
 <resources>
-  <string name="activity_character_button_fittings">Assembl.</string>
+  <string name="activity_character_button_fittings">Equip.</string>
   <string name="activity_character_button_messages">Courrier</string>
   <string name="activity_character_button_assets">Biens</string>
   <string name="activity_character_button_wallet">Portef.</string>

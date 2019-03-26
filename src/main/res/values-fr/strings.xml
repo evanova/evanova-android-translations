@@ -12,13 +12,13 @@
   <string name="drawer_items">Base de données</string>
   <string name="drawer_login">Ajouter un personnage</string>
   <string name="drawer_characters">Personnages</string>
-  <string name="drawer_corporations">Entreprises</string>
+  <string name="drawer_corporations">Corporations</string>
   <string name="drawer_about">A Propos</string>
-  <string name="drawer_settings">Réglages</string>
+  <string name="drawer_settings">Paramètres</string>
   <string name="drawer_skills">Compétences</string>
   <string name="drawer_routes">Itinéraires</string>
   <string name="drawer_maps">Plans</string>
-  <string name="drawer_fittings">Assemblages</string>
+  <string name="drawer_fittings">Equipements</string>
   <string name="drawer_server">Serveur</string>
   <string name="search_items_hint">Rechercher des articles</string>
 </resources>

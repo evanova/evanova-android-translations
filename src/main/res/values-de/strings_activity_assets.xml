@@ -13,13 +13,7 @@
   <string name="activity_assets_flag_safety">Sicherheit des Vermögens</string>
   <string name="activity_assets_flag_deliveries">Corp. Lieferungen</string>
   <string name="activity_assets_flag_impounded">Beschlagnahmt</string>
-  <string name="activity_assets_flag_ag1">Gesellschaftsvermögen 1</string>
-  <string name="activity_assets_flag_ag2">Gesellschaftsvermögen 2</string>
-  <string name="activity_assets_flag_ag3">Gesellschaftsvermögen 3</string>
-  <string name="activity_assets_flag_ag4">Gesellschaftsvermögen 4</string>
-  <string name="activity_assets_flag_ag5">Gesellschaftsvermögen 5</string>
-  <string name="activity_assets_flag_ag6">Gesellschaftsvermögen 6</string>
-  <string name="activity_assets_flag_ag7">Gesellschaftsvermögen 7</string>
+  <string name="activity_assets_flag_ag">Gesellschaftsvermögen</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">Kein Gegenstand</item>
     <item quantity="one">%d Element</item>

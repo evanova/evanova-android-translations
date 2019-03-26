@@ -23,8 +23,6 @@
   <string name="preferences_background_select">Выберите фон</string>
   <string name="preferences_display_title">Фон персонажа</string>
   <string name="preferences_display_summary">Выберите изображение, отображаемое в качестве фона экрана основного персонажа.</string>
-  <string name="preferences_character_dashboard_summary">Показывать события персонажа на главной панели.</string>
-  <string name="preferences_character_dashboard_title">Приборная доска</string>
   <string name="preferences_character_update_summary">Включить / исключить этого персонажа из фоновых обновлений, чтобы сэкономить заряд батареи. Вы по-прежнему сможете перезагрузить данные вручную.</string>
   <string name="preferences_character_update_title">Фоновое обновление</string>
   <string name="preferences_character_notifications_summary">Включить / отключить уведомления для этого персонажа. Обратите внимание, что настройки уведомлений приложения все еще применяются.</string>

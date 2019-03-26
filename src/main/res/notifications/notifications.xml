@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="eve_notifications_channel_training_id">Training</string>
+    <string name="eve_notifications_channel_training_description">Character training</string>
+
+    <string name="eve_notifications_channel_mail_id">Mail</string>
+    <string name="eve_notifications_channel_mail_description">Mail</string>
+
+    <string name="eve_notifications_channel_notification_id">Notifications</string>
+    <string name="eve_notifications_channel_notification_description">Notifications</string>
+
+    <string name="eve_notifications_channel_contracts_id">Contracts</string>
+    <string name="eve_notifications_channel_contracts_description">Outstanding Contracts</string>
+
+    <string name="eve_notifications_channel_industry_id">Industry</string>
+    <string name="eve_notifications_channel_industry_description">Industry Jobs and Mining</string>
+
+    <string name="eve_notifications_channel_calendar_id">Calendar</string>
+    <string name="eve_notifications_channel_calendar_description">Calendar Events</string>
+
+    <string name="eve_notifications_channel_colonies_id">Colonies</string>
+    <string name="eve_notifications_channel_colonies_description">Inactive Colony Installation</string>
+
+    <string name="eve_notifications_summary_title">%1$d items for %2$s</string>
+    <string name="eve_notifications_summary_text">%1$s - %2$s</string>
+    <string name="eve_notifications_summary_more">+ %1$d more</string>
+
+    <string name="eve_notifications_builder_training_progress_title">Training Queue</string>
+    <string name="eve_notifications_builder_training_progress_text">Training %1$s %2$d completes in %3$s</string>
+    <string name="eve_notifications_builder_training_completed_title">Training Queue Inactive</string>
+    <string name="eve_notifications_builder_training_completed_text">Training %1$s %2$d completed %3$s ago</string>
+    
+    <string name="eve_notifications_builder_mail_from">Mail from %1$s</string>
+    
+    <string name="eve_notifications_builder_industry_delivered">Industry job delivered at %1$s</string>
+    <string name="eve_notifications_builder_industry_ready">Industry job ready at %1$s</string>
+
+    <string name="eve_notifications_builder_contract_outstanding">Outstanding Contract</string>
+</resources>
