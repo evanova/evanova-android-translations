@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_skills_list_title">Skills</string>
@@ -30,7 +31,7 @@
 
     <string name="activity_skills_export_title">Training Queue</string>
 
-    <string name="activity_skills_ends">Ends %s</string>
+    <string name="activity_skills_ends">Ends %1$s</string>
     <string name="activity_skills_queued">From %1$s to %2$s</string>
     <string name="activity_skills_completed">Training completed</string>
     <string name="activity_skills_queue_empty">Training queue is empty</string>

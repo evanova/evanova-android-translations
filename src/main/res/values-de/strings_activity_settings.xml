@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="preferences_restart_message">Die Anwendung muss neu gestartet werden, damit die Änderungen wirksam werden.</string>
   <string name="preferences_cleared_message">Cache wurde gelöscht.</string>

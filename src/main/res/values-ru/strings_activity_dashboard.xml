@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_dashboard_text">У вас, кажется, нет персонажа, зарегистрированного в Evanova. Начните с добавления персонажа.</string>
   <string name="activity_dashboard_welcome">Добро пожаловать в Эванову</string>
   <string name="activity_dashboard_banner">Добро пожаловать в Эванову</string>
-  <string name="activity_dashboard_o7">o7</string>
-  <string name="activity_dashboard_button_sso">Добавить персонажа</string>
+    <string name="activity_dashboard_button_sso">Добавить персонажа</string>
   <string name="activity_dashboard_update_title">Обновление приложения</string>
   <string name="activity_dashboard_update_description">В Evanova было внесено большое количество изменений, улучшений и дополнений.\nЧтобы воспользоваться преимуществами новых функций, вам необходимо повторно импортировать существующие персонажи и разрешить им дополнительные области ESI.\nПроверьте подробный список в разделе изменений.</string>
   <string name="activity_dashboard_update_about">Об Эванова</string>

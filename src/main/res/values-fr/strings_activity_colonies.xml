@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_colonies_update">Mise à jour%1$s</string>
-  <string name="activity_colonies_planet_level">Niveau%1$d</string>
+  <string name="activity_colonies_update">Mise à jour %1$s</string>
+  <string name="activity_colonies_planet_level">Niveau %1$d</string>
   <string name="activity_colonies_pin_volume">%1$d m3</string>
-  <string name="activity_colonies_pin_amount">%1$d /%2$d m3</string>
+  <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
   <string name="activity_colonies_pin_cycle">Dernier cycle%1$s</string>
   <string name="activity_colonies_pin_expires">Expire le%1$s</string>
   <string name="activity_colonies_pin_content_title">%1$sx%2$d</string>

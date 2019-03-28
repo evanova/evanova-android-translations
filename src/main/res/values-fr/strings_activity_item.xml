@@ -1,14 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_item_widget_tab_description">Descr.</string>
   <string name="activity_item_widget_tab_attributes">Attributs.</string>
   <string name="activity_item_widget_tab_requirements">Compétences</string>
   <string name="activity_item_attribute_structure">Structure</string>
-  <string name="activity_item_attribute_fitting">Equipement</string>
+  <string name="activity_item_attribute_fitting">Assemblage</string>
   <string name="activity_item_attribute_armor">Armure</string>
   <string name="activity_item_attribute_shield">Bouclier</string>
   <string name="activity_item_attribute_capacitor">Condensateur</string>
   <string name="activity_item_attribute_targeting">Ciblage</string>
   <string name="activity_item_attribute_propulsion">Propulsion</string>
   <string name="activity_item_attribute_drones">Drones</string>
-  <string name="activity_item_traits_text">%1$.0f %2$s %3$s.</string>
+  <string name="activity_item_traits_text">%1$.0f%2$s%3$s.</string>
 </resources>

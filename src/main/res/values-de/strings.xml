@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Evanova</string>
   <string name="app_description"/>
@@ -21,4 +22,17 @@
   <string name="drawer_fittings">Beschläge</string>
   <string name="drawer_server">Server</string>
   <string name="search_items_hint">Artikel suchen</string>
+    <string name="activity_help_tab_about">Über</string>
+  <string name="activity_help_tab_changes">Änderungen</string>
+  <string name="activity_mailboxes_apply_online">Wenden Sie diese Aktion online an.</string>
+  <string name="activity_assets_description">Vermögenswerte</string>
+  <string name="activity_assets_description_corporation">Vermögenswerte der Gesellschaft</string>
+  <string name="preferences_character_dashboard_notifications">Hintergrundaktualisierung / Benachrichtigungen</string>
+  <string name="preferences_character_dashboard_category">Instrumententafel</string>
+  <string name="preferences_character_dashboard_events_title">Nur Veranstaltungen</string>
+  <string name="preferences_character_dashboard_events_summary">Zeichen nur für ausgewählte Ereignisse anzeigen.</string>
+  <string name="preferences_character_dashboard_pinned_summary">Zeigen Sie immer diesen Charakter</string>
+  <string name="preferences_character_dashboard_pinned_title">Immer</string>
+  <string name="preferences_character_dashboard_show_title">Anzeige</string>
+  <string name="preferences_character_dashboard_show_summary">Konfigurieren Sie, was angezeigt werden soll.</string>
 </resources>

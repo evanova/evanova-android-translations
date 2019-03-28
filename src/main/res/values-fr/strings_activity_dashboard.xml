@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_dashboard_text">Vous ne semblez pas avoir de personnage inscrit à Evanova. Commencez par en ajouter un.</string>
   <string name="activity_dashboard_welcome">Bienvenue sur Evanova</string>
   <string name="activity_dashboard_banner">Bienvenue sur Evanova</string>
-  <string name="activity_dashboard_o7">o7</string>
-  <string name="activity_dashboard_button_sso">Ajouter un personnage</string>
+    <string name="activity_dashboard_button_sso">Ajouter un personnage</string>
   <string name="activity_dashboard_update_title">Mise à jour de l\'application</string>
   <string name="activity_dashboard_update_restart">Un redémarrage est nécessaire pour que certaines modifications prennent effet.</string>
   <string name="activity_dashboard_update_description">De nombreux changements, améliorations et ajouts ont été apportés à Evanova.\nPour tirer parti des nouvelles fonctionnalités, vous devez réimporter vos personnages existants et leur autoriser des portées ESI supplémentaires. \nConsultez la section A Propos pour une liste détaillée des changements.</string>
@@ -12,7 +12,7 @@
   <string name="activity_dashboard_recent">Événements récents</string>
   <string name="activity_dashboard_back">Un retour de plus vous fera sortir de la station.</string>
   <string name="activity_dashboard_adapter_title_news">Eve Online</string>
-  <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
+  <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
   <string name="activity_dashboard_adapter_training_when">%1$d compétences jusqu\'à %2$s</string>
   <string name="activity_dashboard_adapter_training_title">File d\'attente d\'apprentissage</string>
   <string name="activity_dashboard_adapter_training_empty">La file d’apprentissage est vide</string>
@@ -33,4 +33,5 @@
     <item quantity="one">%1$d corporation</item>
     <item quantity="other">%1$d corporations</item>
   </plurals>
+  <string name="activity_dashboard_summary">Sommaire</string>
 </resources>

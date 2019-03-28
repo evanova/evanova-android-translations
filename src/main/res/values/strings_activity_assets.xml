@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="activity_assets_descriptions">Assets</string>
+    <string name="activity_assets_description">Assets</string>
+    <string name="activity_assets_description_corporation">Corporation Assets</string>
     <string name="activity_assets_locations">Locations</string>
     <string name="activity_assets_categories">Categories</string>
     <string name="activity_assets_items">Items</string>

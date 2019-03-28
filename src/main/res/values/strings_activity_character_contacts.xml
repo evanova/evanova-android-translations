@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_contacts_tab_contacts">Contacts</string>
@@ -7,5 +8,5 @@
     <string name="activity_contacts_labels_empty">No Label</string>
     <string name="activity_contacts_labels_count">%1$d contacts</string>
     <string name="activity_contacts_agents_started">Started %1$s</string>
-    <string name="activity_contacts_agents_research">(%1$d/day) - %2$d remaining</string>
+    <string name="activity_contacts_agents_research">(%1$d / day) - %2$d remaining</string>
 </resources>

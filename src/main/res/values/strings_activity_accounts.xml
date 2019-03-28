@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_account_title">Characters</string>
@@ -30,7 +31,7 @@
     <string name="activity_account_text_loading_1_text">Send ISK to Evanova Android and get a free thank you e-mail.</string>
 
     <string name="activity_account_text_loading_2">Initiating account deletion.</string>
-    <string name="activity_account_text_loading_2_text">(just kidding, still loading&#8230;)</string>
+    <string name="activity_account_text_loading_2_text">(just kidding, still loading)</string>
 
     <string name="activity_account_text_loading_3">Spai analysis in progress.</string>
     <string name="activity_account_text_loading_3_text">Please wait while we confirm that you are spai.</string>

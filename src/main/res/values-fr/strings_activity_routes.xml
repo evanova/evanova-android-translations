@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_routes_title">Itinéraires</string>
-  <string name="activity_routes_title_subtitle">Dotlan Data 3h</string>
+  <string name="activity_routes_title_subtitle">Données Dotlan 3h</string>
   <string name="activity_routes_title_title_jumps">%1$s à %2$s</string>
   <string name="activity_routes_title_subtitle_jumps">%1$d sauts (%2$d isotopes)</string>
   <string name="activity_routes_title_subtitle_options">%1$d sauts</string>
@@ -24,6 +25,6 @@
   <string name="activity_routes_view_security">%s</string>
   <string name="activity_routes_view_jumps">%d sauts de navire</string>
   <string name="activity_routes_view_jumps_none">Pas de saut de navire</string>
-  <string name="activity_routes_view_kills">%d tués</string>
-  <string name="activity_routes_view_kills_none">Aucun navire tué</string>
+  <string name="activity_routes_view_kills">%d eliminés</string>
+  <string name="activity_routes_view_kills_none">Aucun navire eliminé</string>
 </resources>

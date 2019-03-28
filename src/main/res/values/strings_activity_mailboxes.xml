@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_mailboxes_mail_title">%1$s</string>
@@ -48,8 +49,9 @@
     <string name="activity_mailboxes_edit_validation">Some fields are missing or invalid.</string>
 
     <string name="activity_mailboxes_widget_reply_title">Re: %1$s</string>
-    <string name="activity_mailboxes_widget_reply_body">\nSent from <a href="https://play.google.com/store/apps/details?id=com.tlabs.android.evanova">Evanova.</a>\n\n----------\n\n%1$s</string>
+    <string name="activity_mailboxes_widget_reply_body" translatable="false">\nSent from <a href="https://play.google.com/store/apps/details?id=com.tlabs.android.evanova">Evanova.</a>\n\n----------\n\n%1$s</string>
     <string name="activity_mailboxes_share_text">From %1$s\n\n%2$s\n\nSent from Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
+    <string name="activity_mailboxes_apply_online">Apply this action online.</string>
 
 
 </resources>

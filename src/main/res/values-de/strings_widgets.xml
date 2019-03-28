@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="widget_location_empty">Unbekannter Ort</string>
   <string name="widget_training_empty">Trainingswarteschlange ist leer</string>

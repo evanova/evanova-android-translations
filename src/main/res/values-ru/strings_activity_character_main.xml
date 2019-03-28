@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_character_location_unknown">Нет информации о местоположении</string>
   <string name="activity_character_balance_unknown">Баланс кошелька недоступен</string>

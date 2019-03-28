@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="preferences_restart_message">Чтобы изменения вступили в силу, необходимо перезапустить приложение.</string>
   <string name="preferences_category_online">EVE Online</string>

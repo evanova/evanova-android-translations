@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_colonies_update">Обновлено %1$s</string>
   <string name="activity_colonies_planet_level">Уровень %1$d</string>

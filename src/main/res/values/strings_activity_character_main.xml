@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_character_location_unknown">No location information</string>
@@ -6,7 +7,7 @@
     <string name="activity_character_fatigue">Jump fatigue %1$s</string>
     <string name="activity_character_fatigue_none">No jump fatigue</string>
 
-    <string name="activity_character_status_title">Security Status %s</string>
+    <string name="activity_character_status_title">Security Status %1$s</string>
     <string name="activity_character_status_text">%1$s - will be attacked in %2$f</string>
 
     <string name="activity_character_ship_unknown">No ship information</string>

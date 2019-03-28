@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_account_title">Personnages</string>
   <string name="activity_account_description"/>
   <string name="activity_account_text_ship">%1$s (%2$s)</string>
   <string name="activity_account_text_2">%1$d portées ESI</string>
-  <string name="activity_account_text_3">Dernière connexion%1$s (%2$d connexions)</string>
+  <string name="activity_account_text_3">Dernière connexion le %1$s (%2$d connexions)</string>
   <string name="activity_account_text_reload">Ce compte doit être réimporté.</string>
   <string name="activity_account_text_reload_text">Utilisez le bouton Ajouter pour le remplacer.</string>
   <string name="activity_account_error_token">Authentification échouée</string>
@@ -12,10 +13,10 @@
   <string name="activity_account_dialog_delete_text">Toutes les informations du personnage sélectionné seront supprimées. Êtes-vous sûr?</string>
   <string name="activity_account_training_text_2_empty">La file d’apprentissage est vide</string>
   <string name="activity_account_training_text_2">%1$d compétences en attente</string>
-  <string name="activity_account_training_text_3">La file d\'attente se termine %1$s (%2$s)</string>
+  <string name="activity_account_training_text_3">La file d\'apprentissage se termine %1$s (%2$s)</string>
   <string name="activity_account_training_text_4">%1$s %2$d (%3$s)</string>
   <string name="activity_account_text_loading_title">Chargement des informations sur le personnage.</string>
-  <string name="activity_account_text_loading_0">Faites un don en attendant!</string>
+  <string name="activity_account_text_loading_0">Faites un don en attendant !</string>
   <string name="activity_account_text_loading_0_text">Envoyez vos ISK à Evanova Android pour montrer votre soutien.</string>
   <string name="activity_account_text_loading_1">Recevez gratuitement un mail personnalisé en ligne!</string>
   <string name="activity_account_text_loading_1_text">Envoyez vos ISK à Evanova Android et recevez un e-mail de remerciement gratuit.</string>
@@ -26,7 +27,7 @@
   <string name="activity_account_text_loading_4">Saut à l\'infini et au-delà.</string>
   <string name="activity_account_text_loading_4_text">Est-ce que quelqu\'un a dit sauter?</string>
   <string name="activity_account_text_loading_5">Puis-je importer mon Drake dans Evanova?</string>
-  <string name="activity_account_text_loading_5_text">Oui, vous pouvez!</string>
+  <string name="activity_account_text_loading_5_text">Oui, vous pouvez !</string>
   <string name="activity_account_scopes_tab_character">Personnage</string>
   <string name="activity_account_scopes_tab_corporation">Corporation</string>
   <string name="activity_account_scopes_dialog">Sélectionner les portées ESI</string>
@@ -35,7 +36,7 @@
   <string name="activity_account_scopes_essentials_title">Personnage - base nécessaire</string>
   <string name="activity_account_scopes_essentials_c_title">Corporation - base nécessaire</string>
   <string name="activity_account_scopes_members_title">Membres de la corporation</string>
-  <string name="activity_account_scopes_messages_title">Mail, kill mails et notifications</string>
+  <string name="activity_account_scopes_messages_title">Courrier, kill mails et notifications</string>
   <string name="activity_account_scopes_industry_title">Industrie et mines</string>
   <string name="activity_account_scopes_assets_title">Biens</string>
   <string name="activity_account_scopes_planetary_title">Interaction planétaire</string>
@@ -44,5 +45,5 @@
   <string name="activity_account_scopes_contracts_title">Contrats</string>
   <string name="activity_account_scopes_market_title">Ordres de marché</string>
   <string name="activity_account_scopes_wallet_title">Portefeuille et transactions</string>
-  <string name="activity_account_scopes_fitting_title">Equipements</string>
+  <string name="activity_account_scopes_fitting_title">Assemblages</string>
 </resources>

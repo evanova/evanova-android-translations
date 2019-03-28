@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_item_widget_tab_description">DESCR。</string>
   <string name="activity_item_widget_tab_attributes">ATTRS。</string>
@@ -10,5 +11,5 @@
   <string name="activity_item_attribute_targeting">瞄准</string>
   <string name="activity_item_attribute_propulsion">动力</string>
   <string name="activity_item_attribute_drones">无人机</string>
-  <string name="activity_item_traits_text">％1$.0f ％2$s ％3$s。</string>
+  <string name="activity_item_traits_text">%1$.0f %2$s %3$s.</string>
 </resources>

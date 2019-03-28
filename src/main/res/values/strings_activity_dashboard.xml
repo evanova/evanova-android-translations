@@ -1,19 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="activity_dashboard_text">You don\'t seem to have any character registered in Evanova. Start by adding a character.</string>
     <string name="activity_dashboard_welcome">Welcome to Evanova</string>
     <string name="activity_dashboard_banner">Welcome to Evanova</string>
-    <string name="activity_dashboard_o7">o7</string>
+    <string name="activity_dashboard_o7" translatable="false">o7</string>
     <string name="activity_dashboard_button_sso">Add a character</string>
     <string name="activity_dashboard_update_title">Application update</string>
     <string name="activity_dashboard_update_restart">A restart is required for some changes to take effect.</string>
     <string name="activity_dashboard_update_description">
-        There has been a large number of changes, improvements and additions to Evanova.\n
-        To take advantage of the new features, you should re-import your existing characters and allow them additional ESI scopes.\n
-        Check the about section for a detailed list of changes.</string>
+        There has been a large number of changes, improvements and additions to Evanova.
+        To take advantage of the new features, you should re-import your existing characters and allow them additional ESI scopes.
+        \nCheck the about section for a detailed list of changes.</string>
     <string name="activity_dashboard_update_about">About Evanova</string>
     <string name="activity_dashboard_update_text">Evanova update</string>
     <string name="activity_dashboard_recent">Recent Events</string>
+    <string name="activity_dashboard_summary">Summary</string>
     <string name="activity_dashboard_back">One more back press will get you out of station.</string>
 
     <string name="activity_dashboard_adapter_title_news">Eve Online News</string>

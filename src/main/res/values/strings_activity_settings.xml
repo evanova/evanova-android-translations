@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="preferences_restart_message">The application needs to be restarted for those changes to take effect.</string>
     <string name="preferences_cleared_message">Cache has been cleared.</string>
@@ -35,20 +36,32 @@
     <string name="preferences_display_title">Character Background</string>
     <string name="preferences_display_summary">Choose the image displayed as the main character screen\'s background.</string>
 
+
+    <string name="preferences_character_dashboard_notifications">Background Update / Notifications</string>
+
+    <string name="preferences_character_dashboard_category">Dashboard</string>
+    <string name="preferences_character_dashboard_events_title">Events only</string>
+    <string name="preferences_character_dashboard_events_summary">Show character only on selected events.</string>
+    <string name="preferences_character_dashboard_pinned_title">Always</string>
+    <string name="preferences_character_dashboard_pinned_summary">Always show this character</string>
+
     <string name="preferences_character_update_summary">Include / exclude this character from background updates to save battery. You will still be able to manually reload data.</string>
     <string name="preferences_character_update_title">Background Update</string>
     <string name="preferences_character_notifications_summary">Enable / disable notifications for this character. Note that the application\'s notifications settings still apply.</string>
     <string name="preferences_character_notifications_title">Notifications</string>
 
-    <string name="preferences_character_dashboard_list_title">Dashboard Filter</string>
+    <string name="preferences_character_dashboard_show_title">Display</string>
+    <string name="preferences_character_dashboard_show_summary">Configure what to display.</string>
+
+    <string name="preferences_character_dashboard_list_title">Filter</string>
     <string name="preferences_character_dashboard_list_dialog">Select what to display on the dashboard.</string>
-    <string name="preferences_character_dashboard_list_summary">Configure what to display on the dashboard.</string>
+    <string name="preferences_character_dashboard_list_summary">Filter events that appear on the dashboard.</string>
 
     <string name="preferences_character_notifications_list_summary">Configure which notifications are display on your device\'s notification bar.</string>
     <string name="preferences_character_notifications_list_title">Notification Filter</string>
     <string name="preferences_character_notifications_list_dialog">Select which notifications to display</string>
 
-    <string name="preferences_character_expiration_list_title">Expiration Filter</string>
+    <string name="preferences_character_expiration_list_title">Expiration</string>
     <string name="preferences_character_expiration_list_dialog">Choose an expiration time</string>
     <string name="preferences_character_expiration_list_summary">Filter notifications or dashboard events by how old they are. This is useful if you have industry or other old items pending that you don\'t care about.</string>
 
@@ -119,7 +132,19 @@
         <item>3</item>
     </string-array>
 
-    <string-array name="preferences_character_dashboard_list_entries">
+    <string-array name="preferences_character_dashboard_show_entries">
+        <item>Never</item>
+        <item>Only events</item>
+        <item>Always</item>
+    </string-array>
+
+    <string-array name="preferences_character_dashboard_show_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="preferences_character_dashboard_filter_entries">
         <item>Calendar Events</item>
         <item>Colonies Activity</item>
         <item>Contracts</item>
@@ -129,7 +154,7 @@
         <item>Skill Training</item>
     </string-array>
 
-    <string-array name="preferences_character_dashboard_list_values" translatable="false">
+    <string-array name="preferences_character_dashboard_filter_values" translatable="false">
         <item>preferences.dashboard.calendar</item>
         <item>preferences.dashboard.colonies</item>
         <item>preferences.dashboard.contracts</item>

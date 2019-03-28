@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_fittings_menu_synchronize">同步</string>
   <string name="activity_fittings_menu_add">加</string>
@@ -9,13 +10,13 @@
   <string name="activity_fittings_menu_owners">拥有者</string>
   <string name="activity_fittings_menu_clipboard_import">导入剪贴板</string>
   <string name="activity_fittings_menu_clipboard_export">导出到剪贴板</string>
-  <string name="activity_fittings_menu_xml_import">导入Eve XML</string>
-  <string name="activity_fittings_menu_xml_export">导出Eve XML</string>
+  <string name="activity_fittings_menu_xml_import">导入 Eve XML</string>
+  <string name="activity_fittings_menu_xml_export">导出 Eve XML</string>
   <string name="activity_fittings_menu_fit">适合…</string>
   <string name="activity_fittings_menu_damage">赔偿</string>
   <string name="activity_fittings_menu_rename">改名</string>
   <string name="activity_fittings_title">配件</string>
-  <string name="activity_fittings_export_subject_multiple">配件来自Evanova</string>
+  <string name="activity_fittings_export_subject_multiple">配件来自 Evanova</string>
   <string name="activity_fittings_export_success">配件出口</string>
   <string name="activity_fittings_export_error">导出失败</string>
   <string name="activity_fittings_import_error">导入失败</string>
@@ -26,7 +27,7 @@
   <string name="activity_fittings_dialog_delete_text">你确定吗？</string>
   <string name="activity_fittings_dialog_delete_online">也在线删除（使用风险自负）</string>
   <string name="activity_fittings_dialog_rename_title">重命名配件</string>
-  <string name="activity_fittings_dialog_rename_default">由Evanova创建</string>
+  <string name="activity_fittings_dialog_rename_default">由 Evanova 创建</string>
   <string name="activity_fittings_dialog_add_title">添加配件</string>
   <string name="activity_fittings_dialog_save_title">保存适合</string>
   <string name="activity_fittings_dialog_save_text">您还没有保存更改。你想这样做吗？</string>
@@ -35,8 +36,8 @@
   <string name="activity_fittings_dialog_synchronize_check">还可以保存使用Evanova创建的新配件</string>
   <string name="activity_fittings_dialog_import_title">导入配件</string>
   <string name="activity_fittings_group_local">本地配件</string>
-  <string name="activity_fittings_list_level">等级 ％1$d</string>
-  <string name="activity_fittings_list_online">在 ％2$s 上从 ％1$s 加载</string>
+  <string name="activity_fittings_list_level">等级 %1$d</string>
+  <string name="activity_fittings_list_online">在 %2$s 上从 %1$s 加载</string>
   <string name="activity_fittings_list_offline">局部装修</string>
   <string name="activity_fittings_module_add_success">模块安装</string>
   <string name="activity_fittings_module_add_error">不适合模块</string>

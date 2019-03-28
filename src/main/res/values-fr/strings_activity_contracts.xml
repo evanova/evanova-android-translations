@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_contracts_title">%1$s</string>
   <string name="activity_contracts_description">%1$d contrats</string>

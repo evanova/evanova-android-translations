@@ -1,30 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_character_details_attributes_title">属性</string>
   <string name="activity_character_details_clones_title">克隆</string>
   <string name="activity_character_details_summary_title">历史</string>
-  <string name="activity_character_details_age">％1$s岁</string>
-  <string name="activity_character_details_birthdate">创建于 ％1$s</string>
-  <string name="activity_character_details_logged">上次记录 ％1$s（％2$d登录）</string>
-  <string name="activity_character_details_history_name"> ％1个$ S</string>
-  <string name="activity_character_details_history_deleted"/>
-  <string name="activity_character_details_history_duration">％1$s 的会员</string>
-  <string name="activity_character_details_history_since">从 ％1$s 开始</string>
-  <string name="activity_character_details_history_between">从 ％1$s 到 ％2$s</string>
+  <string name="activity_character_details_age">%1$s 岁</string>
+  <string name="activity_character_details_birthdate">创建于 %1$s</string>
+  <string name="activity_character_details_logged">上次记录 %1$s（%2$d 登录）</string>
+  <string name="activity_character_details_history_name">%1$s</string>
+  <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (删除 )</string>
+  <string name="activity_character_details_history_duration">%1$s 的会员</string>
+  <string name="activity_character_details_history_since">从 %1$s 开始</string>
+  <string name="activity_character_details_history_between">从 %1$s 到 %2$s</string>
   <string name="activity_character_details_location_none">没有位置信息</string>
   <string name="activity_character_details_clone_unknown">无名</string>
   <string name="activity_character_details_jump_activation_none">活性</string>
   <string name="activity_character_details_jump_last_none">没有跳转信息</string>
   <string name="activity_character_details_jump_fatigue_none">没有跳跃疲劳</string>
-  <string name="activity_character_details_attribute">％1$d</string>
+  <string name="activity_character_details_attribute">%1$d</string>
   <string name="activity_character_details_intelligence">情报</string>
   <string name="activity_character_details_charisma">魅力</string>
   <string name="activity_character_details_willpower">意志</string>
   <string name="activity_character_details_memory">记忆</string>
   <string name="activity_character_details_perception">知觉</string>
-  <string name="activity_character_details_clones_jump_on">最后跳转 ％1$s</string>
-  <string name="activity_character_details_clones_jump_ago">％1$s 之前</string>
+  <string name="activity_character_details_clones_jump_on">最后跳转 %1$s</string>
+  <string name="activity_character_details_clones_jump_ago">%1$s 之前</string>
   <string name="activity_character_details_clones_jump_unknown">最后一跳未知</string>
   <string name="activity_character_details_remap_last_unknown">未知</string>
   <string name="activity_character_details_remap_free_none">没有</string>
-  <string name="activity_character_details_remap_free">％1$d 重新映射可用</string>
+  <string name="activity_character_details_remap_free">%1$d 重新映射可用</string>
 </resources>

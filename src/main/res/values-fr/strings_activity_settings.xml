@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="preferences_restart_message">L\'application doit être redémarrée pour que ces modifications prennent effet.</string>
   <string name="preferences_cleared_message">Le cache a été vidé.</string>
   <string name="preferences_category_online">EVE Online Data</string>
   <string name="preferences_category_display">Afficher</string>
   <string name="preferences_category_notifications">Notifications</string>
-  <string name="preferences_online_metered_title">Ne pas utiliser les réseaux mesurés</string>
+  <string name="preferences_online_metered_title">Ne pas utiliser les réseaux mobiles.</string>
   <string name="preferences_online_metered_summary">Évitez d’utiliser des réseaux mobiles ou autres qui pourraient vous coûter cher.</string>
   <string name="preferences_notification_title_summary">Activer / Désactiver toutes les notifications (ceci remplace tout paramètre de notification de personnages)</string>
   <string name="preferences_notification_title">Activer les notifications</string>
@@ -24,7 +25,7 @@
   <string name="preferences_display_title">Fond de personnage</string>
   <string name="preferences_display_summary">Choisissez l’image affichée comme arrière-plan de l’écran du personnage principal.</string>
   <string name="preferences_character_update_summary">Inclure / exclure ce personnage des mises à jour en arrière-plan pour économiser la batterie. Vous pourrez toujours recharger manuellement les données.</string>
-  <string name="preferences_character_update_title">Mise à jour de fond</string>
+  <string name="preferences_character_update_title">Arrière-plan</string>
   <string name="preferences_character_notifications_summary">Activer / désactiver les notifications pour ce personnage. Notez que les paramètres de notification de l\'application s\'appliquent toujours.</string>
   <string name="preferences_character_notifications_title">Notifications</string>
   <string name="preferences_character_dashboard_list_title">Filtre de tableau de bord</string>
@@ -39,10 +40,10 @@
   <string name="preferences_category_location">Localisation</string>
   <string name="preferences_language_title">Langue (expérimental)</string>
   <string name="preferences_language_summary">Changez la langue de la base de données Eve et de certaines parties d’Evanova. Notez qu\'aucune traduction d\'interface utilisateur n\'est actuellement en place. Il s’agit d’une fonctionnalité expérimentale dont le fonctionnement n’est pas garanti; utilisez-la à vos risques et périls.</string>
-  <string name="preferences_language_dialog_summary">Changer la langue de l&amp;#39;interface Evanova et de la base de données des éléments. \ n \ nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect ou des plantages. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
-  <string name="preferences_language_dialog_ui">Appliquer à l&amp;#39;interface d&amp;#39;Evanova.</string>
+  <string name="preferences_language_dialog_summary">Changer la langue de l\\\'interface Evanova et de la base de données des éléments.\\n\\nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
+  <string name="preferences_language_dialog_ui">Appliquer à l\\\'interface d\\\'Evanova.</string>
   <string name="preferences_language_dialog_database">Appliquer à la base de données articles Eve.</string>
-  <string name="preferences_category_cache">Cache d&amp;#39;application</string>
+  <string name="preferences_category_cache">Cache d\\\'application</string>
   <string name="preferences_cache_title">Application Data</string>
   <string name="preferences_cache_summary">Effacer les données en cache d&amp;#39;Evanova.</string>
   <string name="preferences_cache_dialog_title">Vider le cache</string>

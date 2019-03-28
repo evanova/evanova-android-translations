@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_dashboard_text">In Evanova scheinen keine Charaktere registriert zu sein. Beginnen Sie mit dem Hinzufügen eines Charakters.</string>
   <string name="activity_dashboard_welcome">Willkommen in Evanova</string>
   <string name="activity_dashboard_banner">Willkommen in Evanova</string>
-  <string name="activity_dashboard_o7">o7</string>
-  <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
+    <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
   <string name="activity_dashboard_update_title">Anwendungsupdate</string>
   <string name="activity_dashboard_update_restart">Ein Neustart ist erforderlich, damit einige Änderungen wirksam werden.</string>
   <string name="activity_dashboard_update_description">Es wurden zahlreiche Änderungen, Verbesserungen und Ergänzungen in Evanova vorgenommen.\nUm die neuen Funktionen zu nutzen, sollten Sie Ihre vorhandenen Zeichen erneut importieren und ihnen zusätzliche ESI-Bereiche zulassen.\nWeitere Informationen finden Sie im Abschnitt &amp;quot;about&amp;quot; von Änderungen.</string>
@@ -33,4 +33,5 @@
     <item quantity="one">%1$d Corporation</item>
     <item quantity="other">%1$d Unternehmen</item>
   </plurals>
+  <string name="activity_dashboard_summary">Zusammenfassung</string>
 </resources>

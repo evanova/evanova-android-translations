@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_contacts_tab_contacts">往来</string>
   <string name="activity_contacts_tab_standings">排名</string>
   <string name="activity_contacts_tab_agents">代理</string>
   <string name="activity_contacts_labels_empty">无标签</string>
-  <string name="activity_contacts_labels_count">％1$d联系人</string>
-  <string name="activity_contacts_agents_started">已开始 ％1$s</string>
-  <string name="activity_contacts_agents_research">（％1$d /天） - 剩余 ％2$d</string>
+  <string name="activity_contacts_labels_count">%1$d 联系人</string>
+  <string name="activity_contacts_agents_started">已开始 %1$s</string>
+  <string name="activity_contacts_agents_research">（%1$d / 天） - 剩余 %2$d</string>
 </resources>

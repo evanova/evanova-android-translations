@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_character_button_fittings">Beschläge</string>
-  <string name="activity_character_button_messages">Mails</string>
+  <string name="activity_character_button_messages">Post</string>
   <string name="activity_character_button_assets">Vermögenswerte</string>
   <string name="activity_character_button_wallet">Brieftasche</string>
   <string name="activity_character_button_orders">Aufträge</string>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_fittings_menu_synchronize">Synchroniser</string>
   <string name="activity_fittings_menu_add">Ajouter</string>
@@ -14,12 +15,12 @@
   <string name="activity_fittings_menu_fit">Adapter sur…</string>
   <string name="activity_fittings_menu_damage">Dégâts</string>
   <string name="activity_fittings_menu_rename">Renommer</string>
-  <string name="activity_fittings_title">Equipements</string>
-  <string name="activity_fittings_export_subject_multiple">Equipements</string>
-  <string name="activity_fittings_export_success">Equipement exporté</string>
+  <string name="activity_fittings_title">Assemblages</string>
+  <string name="activity_fittings_export_subject_multiple">Assemblages</string>
+  <string name="activity_fittings_export_success">Assemblage exporté</string>
   <string name="activity_fittings_export_error">L\'exportation a échoué</string>
   <string name="activity_fittings_import_error">Échec de l\'importation</string>
-  <string name="activity_fittings_import_success">Equipements importés</string>
+  <string name="activity_fittings_import_success">Assemblages importés</string>
   <string name="activity_fittings_access_denied">L\'accès à cette ressource a été refusé</string>
   <string name="activity_fittings_clipboard_empty">Le presse-papiers est vide</string>
   <string name="activity_fittings_dialog_delete_title">Supprimer l\'équipement</string>
@@ -34,19 +35,19 @@
   <string name="activity_fittings_dialog_synchronize_text">Cela importera tous les équipements en ligne et remplacera les équipements existants.</string>
   <string name="activity_fittings_dialog_synchronize_check">Enregistrez également les nouveaux équipements créés avec Evanova</string>
   <string name="activity_fittings_dialog_import_title">Importer un équipement</string>
-  <string name="activity_fittings_group_local">Equipements Locaux</string>
+  <string name="activity_fittings_group_local">Assemblages Locaux</string>
   <string name="activity_fittings_list_level">Niveau %1$d</string>
   <string name="activity_fittings_list_online">Chargé à partir de %1$s sur %2$s</string>
-  <string name="activity_fittings_list_offline">Equipement local</string>
+  <string name="activity_fittings_list_offline">Assemblage local</string>
   <string name="activity_fittings_module_add_success">Module équipé</string>
   <string name="activity_fittings_module_add_error">Impossible d\'equiper ce module</string>
   <string name="activity_fittings_drone_add_success">Drone équipé</string>
-  <string name="activity_fittings_drone_add_error">Impossible d\'equiper ce drone</string>
+  <string name="activity_fittings_drone_add_error">Impossible d\'équiper ce drone</string>
   <string name="activity_fittings_implant_add_success">Implant équipé</string>
   <string name="activity_fittings_implant_add_error">Impossible d\'equiper cet implant</string>
   <plurals name="activity_fittings_group_count">
-    <item quantity="zero">Aucun équipement</item>
-    <item quantity="one">%d équipement</item>
-    <item quantity="other">%d équipements</item>
+    <item quantity="zero">Aucun aassemblage</item>
+    <item quantity="one">%d assemblage</item>
+    <item quantity="other">%d assemblages</item>
   </plurals>
 </resources>

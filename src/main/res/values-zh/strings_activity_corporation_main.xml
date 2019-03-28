@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_corporations_title">％1$s（％2$s）</string>
-  <string name="activity_corporations_members">％1$d 会员</string>
+  <string name="activity_corporations_title">%1$s (%2$s)</string>
+  <string name="activity_corporations_members">%1$d 会员</string>
   <string name="activity_corporations_no_alliance">不在联盟中</string>
   <string name="activity_corporations_no_balance">余额不可用</string>
   <string name="activity_corporation_npc">NPC公司</string>
-  <string name="activity_corporation_ceo">％1$s（CEO）</string>
-  <string name="activity_corporation_founder">％1$s（创始人）</string>
+  <string name="activity_corporation_ceo">%1$s (CEO)</string>
+  <string name="activity_corporation_founder">%1$s（创始人）</string>
 </resources>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Evanova</string>
   <string name="app_description"/>
@@ -21,4 +22,17 @@
   <string name="drawer_fittings">配件</string>
   <string name="drawer_server">服务器</string>
   <string name="search_items_hint">搜索项目</string>
+    <string name="activity_help_tab_about">关于</string>
+  <string name="activity_help_tab_changes">变化</string>
+  <string name="activity_mailboxes_apply_online">在线应用此操作。</string>
+  <string name="activity_assets_description">资产</string>
+  <string name="activity_assets_description_corporation">公司资产</string>
+  <string name="preferences_character_dashboard_notifications">背景更新/通知</string>
+  <string name="preferences_character_dashboard_category">仪表板</string>
+  <string name="preferences_character_dashboard_events_title">仅限活动</string>
+  <string name="preferences_character_dashboard_pinned_summary">始终显示此角色</string>
+  <string name="preferences_character_dashboard_pinned_title">总是</string>
+  <string name="preferences_character_dashboard_show_title">显示</string>
+  <string name="preferences_character_dashboard_events_summary">仅在选定事件上显示字符</string>
+  <string name="preferences_character_dashboard_show_summary">配置要显示的内容。</string>
 </resources>

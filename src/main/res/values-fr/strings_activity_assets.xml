@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_assets_locations">Emplacements</string>
   <string name="activity_assets_categories">Catégories</string>
   <string name="activity_assets_items">Articles</string>
   <string name="activity_assets_flag_other">Autre</string>
-  <string name="activity_assets_flag_high">Emplacement Haut</string>
+  <string name="activity_assets_flag_high">High Slot</string>
   <string name="activity_assets_flag_med">Emplacement Moyen</string>
-  <string name="activity_assets_flag_low">Emplacement Bas</string>
+  <string name="activity_assets_flag_low">Emplacement bas</string>
   <string name="activity_assets_flag_rig">Modifications</string>
   <string name="activity_assets_flag_hangar">Hangar</string>
   <string name="activity_assets_flag_cargo">Cargaison</string>
