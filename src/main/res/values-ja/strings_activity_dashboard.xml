@@ -1,0 +1,37 @@
+<resources>
+  <string name="activity_dashboard_text">Evanovaに登録されているキャラクターがいないようです。文字を追加することから始めます。</string>
+  <string name="activity_dashboard_welcome">Evanovaへようこそ</string>
+  <string name="activity_dashboard_banner">Evanovaへようこそ</string>
+  <string name="activity_dashboard_o7">o7</string>
+  <string name="activity_dashboard_button_sso">キャラクターを追加</string>
+  <string name="activity_dashboard_update_title">アプリケーション更新</string>
+  <string name="activity_dashboard_update_restart">一部の変更を有効にするには再起動が必要です。</string>
+  <string name="activity_dashboard_update_description">Evanovaには多数の変更、改良、追加が行われています。新機能を利用するには、既存の文字を再インポートし、それらに追加のESIスコープを許可する必要があります。 \ n変更の詳細な一覧については、aboutセクションを確認してください。</string>
+  <string name="activity_dashboard_update_about">Evanovaについて</string>
+  <string name="activity_dashboard_update_text">Evanovaアップデート</string>
+  <string name="activity_dashboard_recent">最近のイベント</string>
+  <string name="activity_dashboard_summary">概要</string>
+  <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
+  <string name="activity_dashboard_adapter_title_news">イブオンラインニュース</string>
+  <string name="activity_dashboard_adapter_training_skill">％1 $ s％2 $ d</string>
+  <string name="activity_dashboard_adapter_training_when">％2 $ sまで％1 $ dのスキル</string>
+  <string name="activity_dashboard_adapter_training_title">トレーニングキュー</string>
+  <string name="activity_dashboard_adapter_training_empty">トレーニングキューが空です</string>
+  <string name="activity_dashboard_adapter_training_inactive">トレーニングキューは無効です</string>
+  <string name="activity_dashboard_adapter_colony_title">％1 $ sのコロニー</string>
+  <string name="activity_dashboard_adapter_colony_expiring">いくつかのピンは％1 $ sで完了しています</string>
+  <string name="activity_dashboard_adapter_colony_expired">いくつかのピンは％1 $ s以降非アクティブです</string>
+  <string name="activity_dashboard_summary_title">概要</string>
+  <string name="activity_dashboard_summary_corporation_none_text">会社情報はありません。</string>
+  <string name="activity_dashboard_summary_corporation_none_description">既存のキャラクターを再インポートしてください。</string>
+  <plurals name="activity_dashboard_summary_characters">
+    <item quantity="zero">文字なし</item>
+    <item quantity="one">％1 $ d文字</item>
+    <item quantity="other">％1 $ d文字</item>
+  </plurals>
+  <plurals name="activity_dashboard_summary_corporations">
+    <item quantity="zero">法人なし</item>
+    <item quantity="one">％1 $ d法人</item>
+    <item quantity="other">％1 $ d法人</item>
+  </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+  <string name="activity_character_button_fittings">フィッティング</string>
+  <string name="activity_character_button_messages">メール</string>
+  <string name="activity_character_button_assets">資産</string>
+  <string name="activity_character_button_wallet">財布</string>
+  <string name="activity_character_button_orders">ご注文</string>
+  <string name="activity_character_button_contracts">契約する</string>
+  <string name="activity_character_button_industry">業界</string>
+  <string name="activity_character_button_planetary">惑星</string>
+  <string name="activity_character_button_social">ソーシャル</string>
+  <string name="activity_character_button_calendar">カレンダー</string>
+  <string name="activity_corporation_button_assets">資産</string>
+  <string name="activity_corporation_button_wallet">財布</string>
+  <string name="activity_corporation_button_orders">ご注文</string>
+  <string name="activity_corporation_button_contracts">契約する</string>
+  <string name="activity_corporation_button_industry">業界</string>
+  <string name="activity_corporation_button_social">ソーシャル</string>
+</resources>

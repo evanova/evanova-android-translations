@@ -1,0 +1,32 @@
+<resources>
+  <string name="menu_accounts_sso">ログイン</string>
+  <string name="menu_search_title">サーチ</string>
+  <string name="menu_reload_title">更新する</string>
+  <string name="menu_item_market">市場</string>
+  <string name="menu_item_select">選択する</string>
+  <string name="menu_map_region">領域</string>
+  <string name="menu_market_region">領域</string>
+  <string name="menu_market_item">項目</string>
+  <string name="menu_market_sort_price_asc">価格Asc</string>
+  <string name="menu_market_sort_price_desc">価格説明</string>
+  <string name="menu_characters_show_training">トレーニング</string>
+  <string name="menu_characters_show_location">ロケーション</string>
+  <string name="menu_characters_show_account">アカウント</string>
+  <string name="menu_wallet_flip_list">ジャーナル</string>
+  <string name="menu_wallet_flip_graph">歴史</string>
+  <string name="menu_wallet_color_graph">色</string>
+  <string name="menu_routes_submit">ルート</string>
+  <string name="menu_skills_all">すべて</string>
+  <string name="menu_skills_trainable">トレーニング可能</string>
+  <string name="menu_skills_known">知られている</string>
+  <string name="menu_skills_add">追加する</string>
+  <string name="menu_skills_plan_delete">クリア</string>
+  <string name="menu_skills_plan_save">保存する</string>
+  <string name="menu_skills_plan_revert">元に戻す</string>
+  <string name="menu_skills_plan_share">シェア</string>
+  <string name="menu_wallpaperize">壁紙として設定</string>
+  <string name="menu_wallpaperize_short">壁紙</string>
+  <string name="menu_backgroundify">背景として設定</string>
+  <string name="menu_backgroundify_short">バックグラウンド</string>
+  <string name="menu_settings_character">キャラクター設定</string>
+</resources>

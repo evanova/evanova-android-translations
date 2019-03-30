@@ -1,0 +1,13 @@
+<resources>
+  <string name="activity_character_location_unknown">位置情報なし</string>
+  <string name="activity_character_balance_unknown">財布の残高は利用できません</string>
+  <string name="activity_character_fatigue">倦怠感％1 $ sをジャンプ</string>
+  <string name="activity_character_fatigue_none">ジャンプ疲労なし</string>
+  <string name="activity_character_status_title">セキュリティステータス％1 $ s</string>
+  <string name="activity_character_status_text">％1 $ s  - ％2 $ fで攻撃されます</string>
+  <string name="activity_character_ship_unknown">船の情報なし</string>
+  <string name="activity_character_dialogs_wallpaperize_title">壁紙を設定します。</string>
+  <string name="activity_character_dialogs_wallpaperize_text">これはあなたのデバイスの壁紙をこのポートレートに置き換えます。</string>
+  <string name="activity_character_dialogs_backgroundify_title">背景を設定します。</string>
+  <string name="activity_character_dialogs_backgroundify_text">これは、アプリケーションの背景をこのポートレートに置き換えます。</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="activity_market_statistics_high">高い</string>
+  <string name="activity_market_statistics_low">低い</string>
+  <string name="activity_market_statistics_average">平均</string>
+  <string name="activity_market_order_expired">期限切れ</string>
+  <string name="activity_market_buy">購入</string>
+  <string name="activity_market_sell">売る</string>
+  <string name="activity_market_history">歴史</string>
+  <string name="activity_market_regions_title">地域</string>
+  <string name="activity_market_regions_text">領域</string>
+</resources>

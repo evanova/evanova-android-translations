@@ -1,0 +1,7 @@
+<resources>
+  <string name="activity_server_status_time">％1 $ s</string>
+  <string name="activity_server_status_online">サーバーはオンラインです</string>
+  <string name="activity_server_status_offline">サーバーはオフラインです</string>
+  <string name="activity_server_status_players">％1 $ sプレイヤーがオンラインです。</string>
+  <string name="activity_server_status_unknown">サーバーの状態が不明</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_contacts_tab_contacts">連絡先</string>
+  <string name="activity_contacts_tab_standings">順位表</string>
+  <string name="activity_contacts_tab_agents">エージェント</string>
+  <string name="activity_contacts_labels_empty">ラベルなし</string>
+  <string name="activity_contacts_labels_count">％1 $ d人の連絡先</string>
+  <string name="activity_contacts_agents_started">％1 $ sを開始しました</string>
+  <string name="activity_contacts_agents_research">（％1 $ d /日） - 残り％2 $ d</string>
+</resources>

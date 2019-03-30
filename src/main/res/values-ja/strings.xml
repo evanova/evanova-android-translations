@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">エヴァノバ</string>
+  <string name="app_description"/>
+  <string name="app_dismiss">やめる</string>
+  <string name="app_restart">再起動</string>
+  <string name="app_cancel">キャンセル</string>
+  <string name="app_clear">クリア</string>
+  <string name="app_ok">OK</string>
+  <string name="app_add">追加する</string>
+  <string name="app_close">閉じる</string>
+  <string name="app_import">インポート</string>
+  <string name="drawer_items">データベース</string>
+  <string name="drawer_login">キャラクターを追加</string>
+  <string name="drawer_characters">キャラクター</string>
+  <string name="drawer_corporations">法人</string>
+  <string name="drawer_about">約</string>
+  <string name="drawer_settings">設定</string>
+  <string name="drawer_skills">スキル</string>
+  <string name="drawer_routes">ルート</string>
+  <string name="drawer_maps">地図</string>
+  <string name="drawer_fittings">フィッティング</string>
+  <string name="drawer_server">サーバ</string>
+  <string name="search_items_hint">アイテムを検索する</string>
+</resources>

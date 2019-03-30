@@ -1,0 +1,29 @@
+<resources>
+  <string name="activity_routes_title">ルート</string>
+  <string name="activity_routes_title_subtitle">ドットランデータ3時間</string>
+  <string name="activity_routes_title_title_jumps">％1 $ sから％2 $ sへ</string>
+  <string name="activity_routes_title_subtitle_jumps">％1 $ dジャンプ（％2 $ d同位体）</string>
+  <string name="activity_routes_title_subtitle_options">％1 $ dジャンプ</string>
+  <string name="activity_routes_tab_fastest">最速</string>
+  <string name="activity_routes_tab_high">高等</string>
+  <string name="activity_routes_tab_low">低秒</string>
+  <string name="activity_routes_tab_select">ルート</string>
+  <string name="activity_routes_tab_recent_options">最近</string>
+  <string name="activity_routes_tab_recent_jumps">ジャンプ</string>
+  <string name="activity_routes_hint_from">から</string>
+  <string name="activity_routes_hint_to">に</string>
+  <string name="activity_routes_hint_freighter">貨物船</string>
+  <string name="activity_routes_freighter_check">ジャンプフレイター</string>
+  <string name="activity_routes_skills_freighters">ジャンプフレイター</string>
+  <string name="activity_routes_skills_calibration">ジャンプドライブキャリブレーション</string>
+  <string name="activity_routes_skills_conservation">燃料節約</string>
+  <string name="activity_routes_option_incursions">侵入を避ける</string>
+  <string name="activity_routes_option_systems">太陽系</string>
+  <string name="activity_routes_view_isotopes">同位体％d</string>
+  <string name="activity_routes_view_distance">％飛ぶ</string>
+  <string name="activity_routes_view_security">％s</string>
+  <string name="activity_routes_view_jumps">％d船がジャンプ</string>
+  <string name="activity_routes_view_jumps_none">船のジャンプなし</string>
+  <string name="activity_routes_view_kills">％dキル</string>
+  <string name="activity_routes_view_kills_none">船を殺さない</string>
+</resources>

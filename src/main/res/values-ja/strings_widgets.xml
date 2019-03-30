@@ -1,0 +1,9 @@
+<resources>
+  <string name="widget_location_empty">不明な場所</string>
+  <string name="widget_training_empty">トレーニングキューが空です</string>
+  <string name="widget_training_next_title">次のキュー</string>
+  <string name="widget_training_next_empty">他のトレーニングはありません</string>
+  <string name="widget_training_next_current">％1 $ s％2 $ d</string>
+  <string name="widget_training_ends">キューは％1 $ sで終了します</string>
+  <string name="widget_training_current">％1 $ sレベル％2 $ s</string>
+</resources>

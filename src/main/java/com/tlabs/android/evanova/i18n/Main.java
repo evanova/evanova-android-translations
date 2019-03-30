@@ -35,7 +35,7 @@ public class Main {
         }
 
         final File output = new File("D:\\dev\\eve\\evanova2\\i18n\\build\\i18n\\");
-        Stream.of("fr", "ru", "zh", "de")
+        Stream.of("fr", "ru", "zh", "de", "ja")
             .parallel()
             .forEach(l -> {
                 try {
@@ -72,7 +72,6 @@ public class Main {
     private static void translate(final File from, final File to, final XMLTranslator translator) throws IOException {
         final StringXML original = mapper.readValue(from, StringXML.class);
         StringXML translated;
-
         if (to.exists()) {
             final StringXML existing = mapper.readValue(to, StringXML.class);
             translated = translator.update(original, existing);
