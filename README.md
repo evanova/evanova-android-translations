@@ -14,13 +14,22 @@ If you wish to contribute to the supported languages, you can either edit the XM
 ### What to look for?
 
 This repository contains directories with XML files for each of the supported languages in Evanova. 
+All translations are based on the files found in 
 
-  * values: English - which is also used as a reference for other languages.
-  * values-fr: French
-  * values-de: German
-  * values-ru: Russian  
-  * values-zh: Simplified Chinese
+ * values: English - which is also used as a reference for other languages.
+ 
+ 
+The following languages need reviewing:
+  
+  * German (src/main/res/values-de)
+  * Japanese (src/main/res/values-ja)
 
+Feel free to correct the following languages should you find any mistake:
+
+  * French (src/main/res/values-fr)
+  * Russian (src/main/res/values-ru)
+  * Simplified Chinese (src/main/res/values-zh)
+  
 You can edit any of the files for your language and submit your changes with a pull request. Only the content of entries in XML files need to be reviewed, with some care regarding what to change:
 
 #### string
