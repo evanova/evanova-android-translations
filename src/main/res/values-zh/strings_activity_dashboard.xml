@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_dashboard_text">你似乎没有在 Evanova 注册任何角色。首先添加一个角色。</string>
-  <string name="activity_dashboard_welcome">欢迎来到 Evanova </string>
-  <string name="activity_dashboard_banner">欢迎来到 Evanova </string>
-    <string name="activity_dashboard_button_sso">添加一个角色</string>
+  <string name="activity_dashboard_text">你似乎没有在 Evanova 登录任何账号，现在添加一个吧</string>
+  <string name="activity_dashboard_welcome">欢迎使用 Evanova </string>
+  <string name="activity_dashboard_banner">欢迎使用 Evanova </string>
+    <string name="activity_dashboard_button_sso">添加一个人物</string>
   <string name="activity_dashboard_update_title">应用程序更新</string>
-  <string name="activity_dashboard_update_restart">需要重新启动才能使某些更改生效。</string>
-  <string name="activity_dashboard_update_description">对 Evanova 进行了大量更改，改进和添加。\n要利用新功能，您应重新导入现有字符并允许其他ESI范围。\n请查看about部分以获取详细列表变化</string>
+  <string name="activity_dashboard_update_restart">需要重新启动才能使某些更改生效</string>
+  <string name="activity_dashboard_update_description">Evanova 已进行了大量修改、改进和添加。\n要使用新功能，你需重新登录人物并勾选其他ESI授权范围。\n请查看 关于 部分以获取更新详情</string>
   <string name="activity_dashboard_update_about">关于 Evanova </string>
   <string name="activity_dashboard_update_text">Evanova 更新</string>
-  <string name="activity_dashboard_recent">最近发生的事件</string>
-  <string name="activity_dashboard_back">另外一次背压会让你离开车站。</string>
-  <string name="activity_dashboard_adapter_title_news">夏娃在线新闻</string>
+  <string name="activity_dashboard_recent">动态</string>
+  <string name="activity_dashboard_back">再次点击将离开空间站</string>
+  <string name="activity_dashboard_adapter_title_news">EVE Online 新闻</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%1$d 技能，直到 %2$s</string>
-  <string name="activity_dashboard_adapter_training_title">训练队列</string>
-  <string name="activity_dashboard_adapter_training_empty">训练队列是空的</string>
-  <string name="activity_dashboard_adapter_training_inactive">训练队列无效</string>
-  <string name="activity_dashboard_adapter_colony_title">殖民地在 %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expiring">一些引脚在 %1$s 内完成</string>
-  <string name="activity_dashboard_adapter_colony_expired">有些引脚处于非活动状态，因为 %1$s</string>
+  <string name="activity_dashboard_adapter_training_when">%1$d 技能，持续到 %2$s</string>
+  <string name="activity_dashboard_adapter_training_title">技能学习队列</string>
+  <string name="activity_dashboard_adapter_training_empty">技能学习队列为空</string>
+  <string name="activity_dashboard_adapter_training_inactive">技能学习队列暂停</string>
+  <string name="activity_dashboard_adapter_colony_title">克隆位于 %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expiring">一些技能完成于 %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expired">一些技能暂停于 %1$s</string>
   <string name="activity_dashboard_summary_title">摘要</string>
-  <string name="activity_dashboard_summary_corporation_none_text">没有公司信息。</string>
-  <string name="activity_dashboard_summary_corporation_none_description">请重新导入现有字符。</string>
+  <string name="activity_dashboard_summary_corporation_none_text">无公司信息</string>
+  <string name="activity_dashboard_summary_corporation_none_description">请重新登录此人物</string>
   <plurals name="activity_dashboard_summary_characters">
-    <item quantity="zero">没有性格</item>
-    <item quantity="one">%1$d 字符</item>
-    <item quantity="other">%1$d 个字符</item>
+    <item quantity="zero">无人物</item>
+    <item quantity="one">%1$d 人物</item>
+    <item quantity="other">%1$d 人物</item>
   </plurals>
   <plurals name="activity_dashboard_summary_corporations">
-    <item quantity="zero">没有公司</item>
+    <item quantity="zero">无公司</item>
     <item quantity="one">%1$d 公司</item>
     <item quantity="other">%1$d 公司</item>
   </plurals>

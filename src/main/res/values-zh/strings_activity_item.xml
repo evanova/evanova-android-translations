@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_item_widget_tab_description">DESCR。</string>
-  <string name="activity_item_widget_tab_attributes">ATTRS。</string>
+  <string name="activity_item_widget_tab_description">描述</string>
+  <string name="activity_item_widget_tab_attributes">属性</string>
   <string name="activity_item_widget_tab_requirements">技能</string>
-  <string name="activity_item_attribute_structure">结构体</string>
-  <string name="activity_item_attribute_fitting">配件</string>
-  <string name="activity_item_attribute_armor">盔甲</string>
-  <string name="activity_item_attribute_shield">屏蔽</string>
-  <string name="activity_item_attribute_capacitor">电容器</string>
-  <string name="activity_item_attribute_targeting">瞄准</string>
-  <string name="activity_item_attribute_propulsion">动力</string>
+  <string name="activity_item_attribute_structure">结构</string>
+  <string name="activity_item_attribute_fitting">装配</string>
+  <string name="activity_item_attribute_armor">装甲</string>
+  <string name="activity_item_attribute_shield">护盾</string>
+  <string name="activity_item_attribute_capacitor">电容</string>
+  <string name="activity_item_attribute_targeting">目标锁定</string>
+  <string name="activity_item_attribute_propulsion">导航</string>
   <string name="activity_item_attribute_drones">无人机</string>
   <string name="activity_item_traits_text">%1$.0f %2$s %3$s.</string>
 </resources>

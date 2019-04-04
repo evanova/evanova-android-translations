@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_wallet_title">%1$s</string>
-  <string name="activity_wallet_division1">掌握钱包</string>
+  <string name="activity_wallet_division1">主钱包</string>
   <string name="activity_wallet_division2">第二个钱包</string>
   <string name="activity_wallet_division3">第三个钱包</string>
   <string name="activity_wallet_division4">第四个钱包</string>
-  <string name="activity_wallet_division5">第五钱包</string>
+  <string name="activity_wallet_division5">第五个钱包</string>
   <string name="activity_wallet_division6">第六个钱包</string>
-  <string name="activity_wallet_division7">第7个钱包</string>
-  <string name="activity_wallet_balance">平衡</string>
-  <string name="activity_wallet_credit">信用</string>
-  <string name="activity_wallet_from">来自 %1$s</string>
-  <string name="activity_wallet_to">至 %1$s</string>
+  <string name="activity_wallet_division7">第七个钱包</string>
+  <string name="activity_wallet_balance">单价</string>
+  <string name="activity_wallet_credit">总价</string>
+  <string name="activity_wallet_from">从 %1$s</string>
+  <string name="activity_wallet_to">到 %1$s</string>
   <string name="activity_wallet_graph_history">历史</string>
   <string name="activity_wallet_graph_revenue">收入</string>
-  <string name="activity_wallet_graph_expenses">花费</string>
+  <string name="activity_wallet_graph_expenses">支出</string>
   <string name="activity_wallet_history_label">历史</string>
   <string name="activity_wallet_history_description">最近3个月</string>
   <string name="activity_wallet_transaction_qty">%1$d 个单位。</string>
   <string name="activity_wallet_transaction_seller">卖家</string>
   <string name="activity_wallet_transaction_price">价钱</string>
-  <string name="activity_wallet_transaction_buyer">买方</string>
+  <string name="activity_wallet_transaction_buyer">买家</string>
   <string name="activity_wallet_tab_journal">日志</string>
   <string name="activity_wallet_tab_transactions">交易</string>
   <string name="activity_wallet_graph_color_dialog_title">选择一组颜色</string>
