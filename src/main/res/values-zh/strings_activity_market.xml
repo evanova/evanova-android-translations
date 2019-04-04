@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_market_statistics_high">高</string>
-  <string name="activity_market_statistics_low">低</string>
+  <string name="activity_market_statistics_high">最高</string>
+  <string name="activity_market_statistics_low">最低</string>
   <string name="activity_market_statistics_average">平均</string>
-  <string name="activity_market_order_expired">过期</string>
-  <string name="activity_market_buy">购买</string>
-  <string name="activity_market_sell">卖</string>
+  <string name="activity_market_order_expired">到期</string>
+  <string name="activity_market_buy">买单</string>
+  <string name="activity_market_sell">卖单</string>
   <string name="activity_market_history">历史</string>
-  <string name="activity_market_regions_title">地区</string>
-  <string name="activity_market_regions_text">区域</string>
+  <string name="activity_market_regions_title">星域</string>
+  <string name="activity_market_regions_text">星域</string>
 </resources>

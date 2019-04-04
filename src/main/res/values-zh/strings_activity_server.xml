@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_server_status_time">%1$s</string>
   <string name="activity_server_status_online">服务器在线</string>
-  <string name="activity_server_status_offline">服务器处于脱机状</string>
-  <string name="activity_server_status_players">%1$s 玩家在线。</string>
+  <string name="activity_server_status_offline">服务器离线</string>
+  <string name="activity_server_status_players">%1$s 玩家在线</string>
   <string name="activity_server_status_unknown">服务器状态未知</string>
 </resources>

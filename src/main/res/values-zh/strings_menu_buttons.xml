@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_character_button_fittings">配件</string>
+  <string name="activity_character_button_fittings">装配</string>
   <string name="activity_character_button_messages">邮件</string>
   <string name="activity_character_button_assets">资产</string>
   <string name="activity_character_button_wallet">钱包</string>
-  <string name="activity_character_button_orders">命令</string>
+  <string name="activity_character_button_orders">订单</string>
   <string name="activity_character_button_contracts">合同</string>
-  <string name="activity_character_button_industry">行业</string>
-  <string name="activity_character_button_planetary">行星</string>
-  <string name="activity_character_button_social">社会</string>
+  <string name="activity_character_button_industry">工业</string>
+  <string name="activity_character_button_planetary">行星开发</string>
+  <string name="activity_character_button_social">社交</string>
   <string name="activity_character_button_calendar">日历</string>
   <string name="activity_corporation_button_assets">资产</string>
   <string name="activity_corporation_button_wallet">钱包</string>
-  <string name="activity_corporation_button_orders">命令</string>
+  <string name="activity_corporation_button_orders">订单</string>
   <string name="activity_corporation_button_contracts">合同</string>
-  <string name="activity_corporation_button_industry">行业</string>
-  <string name="activity_corporation_button_social">社会</string>
+  <string name="activity_corporation_button_industry">工业</string>
+  <string name="activity_corporation_button_social">社交</string>
 </resources>
