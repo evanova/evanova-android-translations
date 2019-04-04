@@ -1,9 +1,9 @@
 <resources>
-  <string name="activity_corporations_title">％1 $ s（％2 $ s）</string>
-  <string name="activity_corporations_members">％1 $ dメンバー</string>
+  <string name="activity_corporations_title">%1$s（%2$s）</string>
+  <string name="activity_corporations_members">%1$dメンバー</string>
   <string name="activity_corporations_no_alliance">同盟ではない</string>
   <string name="activity_corporations_no_balance">残高はありません</string>
   <string name="activity_corporation_npc">NPC株式会社</string>
-  <string name="activity_corporation_ceo">％1 $ s（CEO）</string>
-  <string name="activity_corporation_founder">％1 $ s（創設者）</string>
+  <string name="activity_corporation_ceo">%1$s（CEO）</string>
+  <string name="activity_corporation_founder">%1$s（創設者）</string>
 </resources>

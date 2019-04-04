@@ -80,15 +80,7 @@
     <item>2</item>
     <item>3</item>
   </string-array>
-  <string-array name="preferences_character_dashboard_list_entries" translatable="false">
-    <item>Calendar Events</item>
-    <item>Colonies Activity</item>
-    <item>Contracts</item>
-    <item>Industry Jobs</item>
-    <item>Recent Mails</item>
-    <item>Recent Notifications</item>
-    <item>Skill Training</item>
-  </string-array>
+
   <string-array name="preferences_character_dashboard_filter_values" translatable="false">
     <item>preferences.dashboard.calendar</item>
     <item>preferences.dashboard.colonies</item>

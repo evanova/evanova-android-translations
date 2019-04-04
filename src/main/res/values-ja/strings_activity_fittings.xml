@@ -35,8 +35,8 @@
   <string name="activity_fittings_dialog_synchronize_check">Evanovaで作成した新しい建具も保存する</string>
   <string name="activity_fittings_dialog_import_title">輸入フィッティング</string>
   <string name="activity_fittings_group_local">ローカルフィッティング</string>
-  <string name="activity_fittings_list_level">レベル％1 $ d</string>
-  <string name="activity_fittings_list_online">％2 $ sの％1 $ sからロードされました</string>
+  <string name="activity_fittings_list_level">レベル%1$d</string>
+  <string name="activity_fittings_list_online">%2$sの%1$sからロードされました</string>
   <string name="activity_fittings_list_offline">ローカルフィッティング</string>
   <string name="activity_fittings_module_add_success">モジュール装着</string>
   <string name="activity_fittings_module_add_error">モジュールに収まりません</string>
@@ -46,7 +46,7 @@
   <string name="activity_fittings_implant_add_error">インプラントに合わない</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">フィッティングなし</item>
-    <item quantity="one">％dフィッティング</item>
-    <item quantity="other">継手％d</item>
+    <item quantity="one">%dフィッティング</item>
+    <item quantity="other">継手%d</item>
   </plurals>
 </resources>

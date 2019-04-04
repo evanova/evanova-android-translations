@@ -1,5 +1,5 @@
 <resources>
-  <string name="activity_wallet_title">％1 $ s</string>
+  <string name="activity_wallet_title">%1$s</string>
   <string name="activity_wallet_division1">マスターウォレット</string>
   <string name="activity_wallet_division2">セカンドウォレット</string>
   <string name="activity_wallet_division3">第3財布</string>
@@ -9,14 +9,14 @@
   <string name="activity_wallet_division7">第7財布</string>
   <string name="activity_wallet_balance">バランス</string>
   <string name="activity_wallet_credit">クレジット</string>
-  <string name="activity_wallet_from">％1 $ sから</string>
-  <string name="activity_wallet_to">％1 $ sに</string>
+  <string name="activity_wallet_from">%1$sから</string>
+  <string name="activity_wallet_to">%1$sに</string>
   <string name="activity_wallet_graph_history">歴史</string>
   <string name="activity_wallet_graph_revenue">収入</string>
   <string name="activity_wallet_graph_expenses">経費</string>
   <string name="activity_wallet_history_label">歴史</string>
   <string name="activity_wallet_history_description">最後の3ヶ月</string>
-  <string name="activity_wallet_transaction_qty">％1 $ d個のユニット。</string>
+  <string name="activity_wallet_transaction_qty">%1$d個のユニット。</string>
   <string name="activity_wallet_transaction_seller">売り手</string>
   <string name="activity_wallet_transaction_price">価格</string>
   <string name="activity_wallet_transaction_buyer">買い手</string>

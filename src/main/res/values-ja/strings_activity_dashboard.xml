@@ -13,25 +13,25 @@
   <string name="activity_dashboard_summary">概要</string>
   <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
   <string name="activity_dashboard_adapter_title_news">イブオンラインニュース</string>
-  <string name="activity_dashboard_adapter_training_skill">％1 $ s％2 $ d</string>
-  <string name="activity_dashboard_adapter_training_when">％2 $ sまで％1 $ dのスキル</string>
+  <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
+  <string name="activity_dashboard_adapter_training_when">%2$sまで%1$dのスキル</string>
   <string name="activity_dashboard_adapter_training_title">トレーニングキュー</string>
   <string name="activity_dashboard_adapter_training_empty">トレーニングキューが空です</string>
   <string name="activity_dashboard_adapter_training_inactive">トレーニングキューは無効です</string>
-  <string name="activity_dashboard_adapter_colony_title">％1 $ sのコロニー</string>
-  <string name="activity_dashboard_adapter_colony_expiring">いくつかのピンは％1 $ sで完了しています</string>
-  <string name="activity_dashboard_adapter_colony_expired">いくつかのピンは％1 $ s以降非アクティブです</string>
+  <string name="activity_dashboard_adapter_colony_title">%1$sのコロニー</string>
+  <string name="activity_dashboard_adapter_colony_expiring">いくつかのピンは%1$sで完了しています</string>
+  <string name="activity_dashboard_adapter_colony_expired">いくつかのピンは%1$s以降非アクティブです</string>
   <string name="activity_dashboard_summary_title">概要</string>
   <string name="activity_dashboard_summary_corporation_none_text">会社情報はありません。</string>
   <string name="activity_dashboard_summary_corporation_none_description">既存のキャラクターを再インポートしてください。</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">文字なし</item>
-    <item quantity="one">％1 $ d文字</item>
-    <item quantity="other">％1 $ d文字</item>
+    <item quantity="one">%1$d文字</item>
+    <item quantity="other">%1$d文字</item>
   </plurals>
   <plurals name="activity_dashboard_summary_corporations">
     <item quantity="zero">法人なし</item>
-    <item quantity="one">％1 $ d法人</item>
-    <item quantity="other">％1 $ d法人</item>
+    <item quantity="one">%1$d法人</item>
+    <item quantity="other">%1$d法人</item>
   </plurals>
 </resources>

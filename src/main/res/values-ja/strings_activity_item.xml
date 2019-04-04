@@ -10,5 +10,5 @@
   <string name="activity_item_attribute_targeting">ターゲティング</string>
   <string name="activity_item_attribute_propulsion">推進</string>
   <string name="activity_item_attribute_drones">ドローン</string>
-  <string name="activity_item_traits_text">％1 $ .0f％2 $ s％3 $ s。</string>
+  <string name="activity_item_traits_text">％1 $ .0f%2$s％3 $ s。</string>
 </resources>

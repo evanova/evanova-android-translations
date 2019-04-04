@@ -1,15 +1,15 @@
 <resources>
   <string name="activity_industry_tab_activities">仕事</string>
   <string name="activity_industry_tab_mining">採鉱</string>
-  <string name="activity_industry_job_title">％1 $ s  - ％2 $ dが実行されます（最大％3 $ d）</string>
-  <string name="activity_industry_job_active_2">％1 $ sから開始しました</string>
-  <string name="activity_industry_job_active_3">％1 $ sで終了</string>
-  <string name="activity_industry_job_delivered_2">％1 $ sを完了しました</string>
-  <string name="activity_industry_job_delivered_3">％1 $ sで配信</string>
-  <string name="activity_industry_job_paused_2">％1 $ sから開始</string>
+  <string name="activity_industry_job_title">%1$s  - %2$dが実行されます（最大％3 $ d）</string>
+  <string name="activity_industry_job_active_2">%1$sから開始しました</string>
+  <string name="activity_industry_job_active_3">%1$sで終了</string>
+  <string name="activity_industry_job_delivered_2">%1$sを完了しました</string>
+  <string name="activity_industry_job_delivered_3">%1$sで配信</string>
+  <string name="activity_industry_job_paused_2">%1$sから開始</string>
   <string name="activity_industry_job_paused_3">一時停止</string>
-  <string name="activity_industry_job_ready_2">％1 $ sを完了しました</string>
-  <string name="activity_industry_job_ready_3">％1 $ sで待機中</string>
+  <string name="activity_industry_job_ready_2">%1$sを完了しました</string>
+  <string name="activity_industry_job_ready_3">%1$sで待機中</string>
   <string name="activity_industry_job_cancelled_2">キャンセル</string>
   <string name="activity_industry_job_cancelled_3"/>
   <string name="activity_industry_job_reverted_2">元に戻す</string>
@@ -26,6 +26,6 @@
   <string name="activity_industry_job_name_reverse">リバースエンジニアリング</string>
   <string name="activity_industry_job_name_invention">発明</string>
   <string name="activity_industry_job_name_reactions">反応</string>
-  <string name="activity_industry_mining_item_one">％1 $ s</string>
-  <string name="activity_industry_mining_item_multiple">％1 $ dx％2 $ s</string>
+  <string name="activity_industry_mining_item_one">%1$s</string>
+  <string name="activity_industry_mining_item_multiple">%1$dx%2$s</string>
 </resources>

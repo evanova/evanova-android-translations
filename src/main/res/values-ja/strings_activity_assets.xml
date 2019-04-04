@@ -18,22 +18,22 @@
   <string name="activity_assets_flag_ag">コーポレーション格納庫</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">アイテムなし</item>
-    <item quantity="one">％d項目</item>
-    <item quantity="other">％d個のアイテム</item>
+    <item quantity="one">%d項目</item>
+    <item quantity="other">%d個のアイテム</item>
   </plurals>
   <plurals name="activity_assets_categories_group">
     <item quantity="zero">アイテムなし</item>
-    <item quantity="one">％d項目</item>
-    <item quantity="other">％d個のアイテム</item>
+    <item quantity="one">%d項目</item>
+    <item quantity="other">%d個のアイテム</item>
   </plurals>
   <plurals name="activity_assets_items_group">
     <item quantity="zero">アイテムなし</item>
-    <item quantity="one">％dの場所</item>
-    <item quantity="other">％dの場所</item>
+    <item quantity="one">%dの場所</item>
+    <item quantity="other">%dの場所</item>
   </plurals>
   <plurals name="activity_assets_container_description">
-    <item quantity="zero">％1 $ s（空）</item>
-    <item quantity="one">％1 $ s（％2 $ d個の商品）</item>
-    <item quantity="other">％1 $ s（％2 $ d個のアイテム）</item>
+    <item quantity="zero">%1$s（空）</item>
+    <item quantity="one">%1$s（%2$d個の商品）</item>
+    <item quantity="other">%1$s（%2$d個のアイテム）</item>
   </plurals>
 </resources>
