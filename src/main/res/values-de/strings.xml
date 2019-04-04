@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Evanova</string>
-  <string name="app_description"/>
   <string name="app_dismiss">Entlassen</string>
   <string name="app_restart">Neustart</string>
   <string name="app_cancel">Stornieren</string>

@@ -1,5 +1,4 @@
 <resources>
-  <string name="app_description"/>
   <string name="app_dismiss">やめる</string>
   <string name="app_restart">再起動</string>
   <string name="app_cancel">キャンセル</string>

@@ -5,7 +5,7 @@
   <string name="activity_character_fatigue">跳跃疲劳 %1$s</string>
   <string name="activity_character_fatigue_none">无跳跃疲劳</string>
   <string name="activity_character_status_title">安全等级 %1$s</string>
-  <string name="activity_character_status_text">%1$s  - 将在 %2$f 中可被攻击</string>
+  <string name="activity_character_status_text">%1$s - 将在 %2$f 中可被攻击</string>
   <string name="activity_character_ship_unknown">无舰船信息</string>
   <string name="activity_character_dialogs_wallpaperize_title">设置壁纸</string>
   <string name="activity_character_dialogs_wallpaperize_text">将此人物头像设置为你的设备的壁纸</string>

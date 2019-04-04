@@ -43,7 +43,7 @@
   <string name="preferences_language_summary">更改 EVE 数据库和 Evanova 界面语言。请注意，这是一项试验性功能，无法保证可以正常使用，自行机智。</string>
   <string name="preferences_language_dialog_summary">更改 Evanova 界面和数据库的语言。\n\n请注意，这是一个不完整的功能，可能会导致错误的显示或程序崩溃。如果你有兴趣，请查看“关于”部分，了解如何帮助翻译Evanova。</string>
   <string name="preferences_language_dialog_ui">Evanova界面语言</string>
-  <string name="preferences_language_dialog_database">EVE数据库语言</string>
+  <string name="preferences_language_dialog_database">EVE 数据库语言</string>
   <string name="preferences_category_cache">应用缓存</string>
   <string name="preferences_cache_title">应用数据</string>
   <string name="preferences_cache_summary">清除 Evanova 的缓存数据</string>
