@@ -28,5 +28,5 @@
   <string name="menu_wallpaperize_short">Hintergrund</string>
   <string name="menu_backgroundify">Als Hintergrundbild festlegen</string>
   <string name="menu_backgroundify_short">Hintergrund</string>
-  <string name="menu_settings_character">Schriftart</string>
+  <string name="menu_settings_character">Einstellungen</string>
 </resources>
