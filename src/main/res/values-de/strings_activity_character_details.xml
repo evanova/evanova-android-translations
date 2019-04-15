@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_character_details_attributes_title">Attribute</string>
   <string name="activity_character_details_clones_title">Klone</string>
-  <string name="activity_character_details_summary_title">Geschichte</string>
+  <string name="activity_character_details_summary_title">Verlauf</string>
   <string name="activity_character_details_age">%1$s alt</string>
   <string name="activity_character_details_birthdate">Erstellt am %1$s</string>
   <string name="activity_character_details_logged">Zuletzt protokollierte %1$s (%2$d Anmeldungen)</string>
@@ -12,10 +12,10 @@
   <string name="activity_character_details_history_since">Seit %1$s</string>
   <string name="activity_character_details_history_between">Von %1$s bis %2$s</string>
   <string name="activity_character_details_location_none">Keine Standortinformationen</string>
-  <string name="activity_character_details_clone_unknown">Unbenannt</string>
+  <string name="activity_character_details_clone_unknown">Unbekannt</string>
   <string name="activity_character_details_jump_activation_none">Aktiv</string>
   <string name="activity_character_details_jump_last_none">Keine Sprunginformation</string>
-  <string name="activity_character_details_jump_fatigue_none">Keine Sprungmüdigkeit</string>
+  <string name="activity_character_details_jump_fatigue_none">Keine Sprungverzögerung</string>
   <string name="activity_character_details_attribute">%1$d</string>
   <string name="activity_character_details_intelligence">Intelligenz</string>
   <string name="activity_character_details_charisma">Charisma</string>
@@ -25,7 +25,7 @@
   <string name="activity_character_details_clones_jump_on">Letzter Sprung auf %1$s</string>
   <string name="activity_character_details_clones_jump_ago">Vor %1$s</string>
   <string name="activity_character_details_clones_jump_unknown">Letzter Sprung unbekannt</string>
-  <string name="activity_character_details_remap_last_unknown">unbekannte</string>
+  <string name="activity_character_details_remap_last_unknown">Unbekannt</string>
   <string name="activity_character_details_remap_free_none">Keiner</string>
   <string name="activity_character_details_remap_free">%1$d Neuzuordnungen verfügbar</string>
 </resources>
