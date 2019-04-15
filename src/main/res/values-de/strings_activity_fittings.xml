@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_fittings_menu_synchronize">Synchronisieren</string>
   <string name="activity_fittings_menu_add">Hinzufügen</string>
-  <string name="activity_fittings_menu_share">Aktie</string>
+  <string name="activity_fittings_menu_share">Teilen</string>
   <string name="activity_fittings_menu_charges">Gebühren</string>
   <string name="activity_fittings_menu_delete">Löschen</string>
   <string name="activity_fittings_menu_copy">Kopieren</string>
@@ -11,16 +11,16 @@
   <string name="activity_fittings_menu_clipboard_import">Zwischenablage importieren</string>
   <string name="activity_fittings_menu_clipboard_export">In die Zwischenablage exportieren</string>
   <string name="activity_fittings_menu_xml_import">Eve XML importieren</string>
-  <string name="activity_fittings_menu_xml_export">Exportieren Sie Eve XML</string>
+  <string name="activity_fittings_menu_xml_export">Eve XML exportieren</string>
   <string name="activity_fittings_menu_fit">Anpassen…</string>
-  <string name="activity_fittings_menu_damage">Schäden</string>
+  <string name="activity_fittings_menu_damage">Schaden</string>
   <string name="activity_fittings_menu_rename">Umbenennen</string>
-  <string name="activity_fittings_title">Beschläge</string>
-  <string name="activity_fittings_export_subject_multiple">Beschläge von Evanova</string>
-  <string name="activity_fittings_export_success">Beschläge exportiert</string>
+  <string name="activity_fittings_title">Fittings</string>
+  <string name="activity_fittings_export_subject_multiple">Fittings aus Evanova</string>
+  <string name="activity_fittings_export_success">Fitting exportiert</string>
   <string name="activity_fittings_export_error">Export fehlgeschlagen</string>
   <string name="activity_fittings_import_error">Import fehlgeschlagen</string>
-  <string name="activity_fittings_import_success">Beschläge importiert</string>
+  <string name="activity_fittings_import_success">Fitting importiert</string>
   <string name="activity_fittings_access_denied">Der Zugriff auf diese Ressource wurde verweigert</string>
   <string name="activity_fittings_clipboard_empty">Die Zwischenablage ist leer</string>
   <string name="activity_fittings_dialog_delete_title">Fitting löschen</string>
@@ -30,10 +30,10 @@
   <string name="activity_fittings_dialog_rename_default">Mit Evanova erstellt</string>
   <string name="activity_fittings_dialog_add_title">Fitting hinzufügen</string>
   <string name="activity_fittings_dialog_save_title">Fitting speichern</string>
-  <string name="activity_fittings_dialog_save_text">Sie haben Ihre Änderungen nicht gespeichert. Möchten Sie das tun?</string>
-  <string name="activity_fittings_dialog_synchronize_title">Beschläge synchronisieren</string>
+  <string name="activity_fittings_dialog_save_text">Möchten Sie Ihre Änderungen speichern?</string>
+  <string name="activity_fittings_dialog_synchronize_title">Fittings synchronisieren</string>
   <string name="activity_fittings_dialog_synchronize_text">Dadurch werden alle Online-Fittings importiert und vorhandene ersetzt.</string>
-  <string name="activity_fittings_dialog_synchronize_check">Speichern Sie auch neue Beschläge, die mit Evanova erstellt wurden</string>
+  <string name="activity_fittings_dialog_synchronize_check">Speichern Sie auch neue Fittings, die mit Evanova erstellt wurden</string>
   <string name="activity_fittings_dialog_import_title">Fitting importieren</string>
   <string name="activity_fittings_group_local">Lokale Fittings</string>
   <string name="activity_fittings_list_level">Stufe %1$d</string>
@@ -46,7 +46,7 @@
   <string name="activity_fittings_implant_add_success">Implantat angepasst</string>
   <string name="activity_fittings_implant_add_error">Implantat kann nicht angepasst werden</string>
   <plurals name="activity_fittings_group_count">
-    <item quantity="zero">Kein passender</item>
+    <item quantity="zero">Kein passendes</item>
     <item quantity="one">%d passend</item>
     <item quantity="other">%d Armaturen</item>
   </plurals>
