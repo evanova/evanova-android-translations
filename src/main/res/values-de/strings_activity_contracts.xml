@@ -2,8 +2,8 @@
 <resources>
   <string name="activity_contracts_title">%1$s</string>
   <string name="activity_contracts_description">%1$d Verträge</string>
-  <string name="activity_contracts_menu_asc">Asc</string>
-  <string name="activity_contracts_menu_desc">Desc</string>
+  <string name="activity_contracts_menu_asc">aufsteigend</string>
+  <string name="activity_contracts_menu_desc">absteigend</string>
   <string name="activity_contracts_tab_all">Alles</string>
   <string name="activity_contracts_tab_outstanding">Hervorragend</string>
   <string name="activity_contracts_tab_current">Aktuell</string>
@@ -49,7 +49,7 @@
   <string name="activity_contract_status_rejected">Abgelehnt</string>
   <string name="activity_contract_status_reversed">Rückgängig gemacht</string>
   <string name="activity_contract_status_failed">Gescheitert</string>
-  <string name="activity_contract_status_unknown">unbekannte</string>
+  <string name="activity_contract_status_unknown">Unbekannt</string>
   <string name="activity_contract_contractor_unknown">Nicht zugewiesen</string>
   <string name="activity_contract_issuer_by">Ausgestellt von %1$s</string>
 </resources>
