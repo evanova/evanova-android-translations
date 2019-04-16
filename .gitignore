@@ -3,3 +3,6 @@ build/
 .idea/
 i18n.iml
 out/
+src/main/res/values/attrs.xml
+src/main/res/values/colors.xml
+src/main/res/values/styles.xml
