@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_account_title">Zeichen</string>
+  <string name="activity_account_title">Charaktere</string>
   <string name="activity_account_description"/>
   <string name="activity_account_text_ship">%1$s (%2$s)</string>
   <string name="activity_account_text_2">%1$d ESI-Bereiche</string>
   <string name="activity_account_text_3">Zuletzt protokollierte %1$s (%2$d Anmeldungen)</string>
   <string name="activity_account_text_reload">Dieses Konto muss erneut importiert werden.</string>
-  <string name="activity_account_text_reload_text">Verwenden Sie die Schaltfläche Hinzufügen, um sie zu ersetzen.</string>
+  <string name="activity_account_text_reload_text">Verwenden Sie die Schaltfläche Hinzufügen, um es zu ersetzen.</string>
   <string name="activity_account_error_token">Authentifizierung fehlgeschlagen</string>
   <string name="activity_account_context_delete">Löschen</string>
-  <string name="activity_account_dialog_delete_title">Zeichen löschen</string>
+  <string name="activity_account_dialog_delete_title">Charaktere löschen</string>
   <string name="activity_account_dialog_delete_text">Alle Informationen des ausgewählten Charakters werden entfernt. Bist du sicher?</string>
   <string name="activity_account_training_text_2_empty">Trainingswarteschlange ist leer</string>
   <string name="activity_account_training_text_2">%1$d Fähigkeiten in der Warteschlange</string>
@@ -26,17 +26,17 @@
   <string name="activity_account_text_loading_3_text">Bitte warten Sie, bis wir bestätigen, dass Sie Spai sind.</string>
   <string name="activity_account_text_loading_4">Warping ins Unendliche und darüber hinaus.</string>
   <string name="activity_account_text_loading_4_text">Hat jemand gesagt, springen?</string>
-  <string name="activity_account_text_loading_5">Kann ich meinen Drake in Evanova importieren?</string>
+  <string name="activity_account_text_loading_5">Kann ich meine Drake in Evanova importieren?</string>
   <string name="activity_account_text_loading_5_text">Ja, du kannst!</string>
   <string name="activity_account_scopes_tab_character">Charakter</string>
-  <string name="activity_account_scopes_tab_corporation">Konzern</string>
+  <string name="activity_account_scopes_tab_corporation">Corporation</string>
   <string name="activity_account_scopes_dialog">Wählen Sie ESI-Bereiche aus</string>
-  <string name="activity_account_tab_characters">Zeichen</string>
-  <string name="activity_account_tab_corporations">Unternehmen</string>
-  <string name="activity_account_scopes_essentials_title">Grundzeichen (erforderlich)</string>
-  <string name="activity_account_scopes_essentials_c_title">Basic Corporation (erforderlich)</string>
-  <string name="activity_account_scopes_members_title">Mitglieder der Gesellschaft</string>
-  <string name="activity_account_scopes_messages_title">Mail, töten Sie Mails und Benachrichtigungen</string>
+  <string name="activity_account_tab_characters">Charaktere</string>
+  <string name="activity_account_tab_corporations">Corporations</string>
+  <string name="activity_account_scopes_essentials_title">Grunddaten (erforderlich)</string>
+  <string name="activity_account_scopes_essentials_c_title">Grunddaten Corporation (erforderlich)</string>
+  <string name="activity_account_scopes_members_title">Mitglieder der Corporation</string>
+  <string name="activity_account_scopes_messages_title">Mails und Benachrichtigungen</string>
   <string name="activity_account_scopes_industry_title">Industrie und Bergbau</string>
   <string name="activity_account_scopes_assets_title">Vermögenswerte</string>
   <string name="activity_account_scopes_planetary_title">Planetarische Interaktion</string>
@@ -45,5 +45,5 @@
   <string name="activity_account_scopes_contracts_title">Verträge</string>
   <string name="activity_account_scopes_market_title">Marktaufträge</string>
   <string name="activity_account_scopes_wallet_title">Guthaben und Transaktionen</string>
-  <string name="activity_account_scopes_fitting_title">Beschläge</string>
+  <string name="activity_account_scopes_fitting_title">Fittings</string>
 </resources>
