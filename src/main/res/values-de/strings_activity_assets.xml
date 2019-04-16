@@ -8,10 +8,10 @@
   <string name="activity_assets_flag_med">Mid Slot</string>
   <string name="activity_assets_flag_low">Low Slot</string>
   <string name="activity_assets_flag_rig">Rigs</string>
-  <string name="activity_assets_flag_hangar">Halle</string>
+  <string name="activity_assets_flag_hangar">Hangar</string>
   <string name="activity_assets_flag_cargo">Ladung</string>
   <string name="activity_assets_flag_drones">Drone Bay</string>
-  <string name="activity_assets_flag_safety">Sicherheit des Vermögens</string>
+  <string name="activity_assets_flag_safety">Sicherheitslevel</string>
   <string name="activity_assets_flag_deliveries">Corp. Lieferungen</string>
   <string name="activity_assets_flag_impounded">Beschlagnahmt</string>
   <string name="activity_assets_flag_ag">Gesellschaftsvermögen</string>
