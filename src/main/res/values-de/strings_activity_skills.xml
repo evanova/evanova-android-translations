@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_skills_list_title">Kompetenzen</string>
+  <string name="activity_skills_list_title">Fähigkeiten</string>
   <string name="activity_skills_list_description"/>
-  <string name="activity_skills_list_description_all">Alles</string>
+  <string name="activity_skills_list_description_all">Alle</string>
   <string name="activity_skills_list_description_trainable">Trainierbar</string>
   <string name="activity_skills_list_description_known">Bekannt</string>
   <string name="activity_skills_skill_title">%1$s</string>
   <string name="activity_skills_skill_description">%1$s</string>
-  <string name="activity_skills_tab_list">Kompetenzen</string>
+  <string name="activity_skills_tab_list">Fähigkeiten</string>
   <string name="activity_skills_tab_training">Ausbildung</string>
-  <string name="activity_skills_tab_details">Einzelheiten</string>
+  <string name="activity_skills_tab_details">Details</string>
   <string name="activity_skills_tab_required">Benötigt für</string>
   <string name="activity_skills_attributes_primary">Primärattribut</string>
   <string name="activity_skills_attributes_secondary">Sekundärattribut</string>
@@ -31,10 +31,10 @@
   <string name="activity_skills_queue_ends">Warteschlange endet %1$s (%2$s)</string>
   <string name="activity_skills_queue_count">%1$d Fertigkeiten in Warteschlange - %2$d beendet - %3$d geplant</string>
   <string name="activity_skills_queue_saved">Ihre bösen Pläne, Eve Online zu erobern, wurden aufgezeichnet.</string>
-  <string name="activity_skills_queue_reverted">Fertigkeitsplan zurückgesetzt.</string>
-  <string name="activity_skills_queue_cleared">Fertigkeitsplan gelöscht.</string>
+  <string name="activity_skills_queue_reverted">Trainingsplan zurückgesetzt.</string>
+  <string name="activity_skills_queue_cleared">Trainingsplan gelöscht.</string>
   <string name="activity_skills_queue_removed">Fertigkeiten aus dem Plan entfernt.</string>
   <string name="activity_skills_queue_added">Fertigkeiten zum Plan hinzugefügt.</string>
   <string name="activity_skills_dialog_save_title">Planung speichern</string>
-  <string name="activity_skills_dialog_save_text">Sie haben Änderungen in Ihrer Skillplanung vorgenommen. Möchten Sie sie retten?</string>
+  <string name="activity_skills_dialog_save_text">Sie haben Änderungen in Ihrer Skillplanung vorgenommen. Möchten Sie sie sichern?</string>
 </resources>
