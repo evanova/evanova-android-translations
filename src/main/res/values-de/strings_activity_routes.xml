@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_routes_title">Routen</string>
+  <string name="activity_routes_title">Navigation</string>
   <string name="activity_routes_title_subtitle">Dotlan-Daten 3h</string>
   <string name="activity_routes_title_title_jumps">%1$s bis %2$s</string>
   <string name="activity_routes_title_subtitle_jumps">%1$d Sprünge (%2$d Isotope)</string>
   <string name="activity_routes_title_subtitle_options">%1$d Sprünge</string>
-  <string name="activity_routes_tab_fastest">Am schnellsten</string>
+  <string name="activity_routes_tab_fastest">Schnellste</string>
   <string name="activity_routes_tab_high">High Sec</string>
-  <string name="activity_routes_tab_low">Niedrige sek</string>
-  <string name="activity_routes_tab_select">Route</string>
+  <string name="activity_routes_tab_low">Low Sec</string>
+  <string name="activity_routes_tab_select">Navigation</string>
   <string name="activity_routes_tab_recent_options">Kürzlich</string>
-  <string name="activity_routes_tab_recent_jumps">Springt</string>
+  <string name="activity_routes_tab_recent_jumps">Sprünge</string>
   <string name="activity_routes_hint_from">Von</string>
   <string name="activity_routes_hint_to">Zu</string>
   <string name="activity_routes_hint_freighter">Frachter</string>
-  <string name="activity_routes_freighter_check">Frachter springen</string>
-  <string name="activity_routes_skills_freighters">Frachter springen</string>
+  <string name="activity_routes_freighter_check">Sprungfrachter</string>
+  <string name="activity_routes_skills_freighters">Sprungfrachter</string>
   <string name="activity_routes_skills_calibration">Jump Drive-Kalibrierung</string>
   <string name="activity_routes_skills_conservation">Kraftstoffeinsparung</string>
-  <string name="activity_routes_option_incursions">Einfälle vermeiden</string>
+  <string name="activity_routes_option_incursions">Übergriffe vermeiden</string>
   <string name="activity_routes_option_systems">Sonnensysteme</string>
   <string name="activity_routes_view_isotopes">%d Isotope</string>
   <string name="activity_routes_view_distance">%fliegen</string>
   <string name="activity_routes_view_security">%s</string>
-  <string name="activity_routes_view_jumps">%d Schiff springt</string>
-  <string name="activity_routes_view_jumps_none">Kein Schiffssprung</string>
-  <string name="activity_routes_view_kills">%d tötet</string>
-  <string name="activity_routes_view_kills_none">Kein Schiff töten</string>
+  <string name="activity_routes_view_jumps">%d Sprünge</string>
+  <string name="activity_routes_view_jumps_none">Keine Sprünge</string>
+  <string name="activity_routes_view_kills">%d Abschüsse</string>
+  <string name="activity_routes_view_kills_none">Keine Abschüsse</string>
 </resources>

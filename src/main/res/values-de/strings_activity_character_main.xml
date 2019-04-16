@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_character_location_unknown">Keine Standortinformationen</string>
-  <string name="activity_character_balance_unknown">Brieftasche Guthaben nicht verfügbar</string>
-  <string name="activity_character_fatigue">Sprungmüdigkeit %1$s</string>
-  <string name="activity_character_fatigue_none">Keine Sprungmüdigkeit</string>
+  <string name="activity_character_balance_unknown">Konto Guthaben nicht verfügbar</string>
+  <string name="activity_character_fatigue">Sprungverzögerung %1$s</string>
+  <string name="activity_character_fatigue_none">Keine Sprungverzögerung</string>
   <string name="activity_character_status_title">Sicherheitsstatus %s</string>
   <string name="activity_character_status_text">%1$s - wird in %2$f angegriffen</string>
   <string name="activity_character_ship_unknown">Keine Schiffsinformationen</string>
