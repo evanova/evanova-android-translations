@@ -174,16 +174,17 @@
         <item>Inactive Colony Installation</item>
     </string-array>
 
-    <!-- These are also notification channel ids -->
-    <string-array name="preferences_character_notifications_list_values">
-        <item>Training</item>
-        <item>Mail</item>
-        <item>Notifications</item>
-        <item>Contracts</item>
-        <item>Industry</item>
-        <item>Calendar</item>
-        <item>Colonies</item>
+    <!-- These are notification channel ids -->
+    <string-array name="preferences_character_notifications_list_values" translatable="false">
+        <item>training</item>
+        <item>mail</item>
+        <item>notifications</item>
+        <item>contracts</item>
+        <item>industry</item>
+        <item>calendar</item>
+        <item>planetary</item>
     </string-array>
+
 
     <string-array name="preferences_character_expiration_list_entries">
         <item>1 Day</item>

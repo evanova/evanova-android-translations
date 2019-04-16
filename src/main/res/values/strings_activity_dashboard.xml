@@ -8,10 +8,7 @@
     <string name="activity_dashboard_button_sso">Add a character</string>
     <string name="activity_dashboard_update_title">Application update</string>
     <string name="activity_dashboard_update_restart">A restart is required for some changes to take effect.</string>
-    <string name="activity_dashboard_update_description">
-        There has been a large number of changes, improvements and additions to Evanova.
-        To take advantage of the new features, you should re-import your existing characters and allow them additional ESI scopes.
-        \nCheck the about section for a detailed list of changes.</string>
+    <string name="activity_dashboard_update_description">Check the about section for a detailed list of changes.</string>
     <string name="activity_dashboard_update_about">About Evanova</string>
     <string name="activity_dashboard_update_text">Evanova update</string>
     <string name="activity_dashboard_recent">Recent Events</string>

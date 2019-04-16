@@ -6,7 +6,7 @@
     <string name="activity_dashboard_button_sso">添加一个人物</string>
   <string name="activity_dashboard_update_title">应用程序更新</string>
   <string name="activity_dashboard_update_restart">需要重新启动才能使某些更改生效</string>
-  <string name="activity_dashboard_update_description">Evanova 已进行了大量修改、改进和添加。\n要使用新功能，你需重新登录人物并勾选其他ESI授权范围。\n请查看 关于 部分以获取更新详情</string>
+  <string name="activity_dashboard_update_description">请查看 关于 部分以获取更新详情</string>
   <string name="activity_dashboard_update_about">关于 Evanova </string>
   <string name="activity_dashboard_update_text">Evanova 更新</string>
   <string name="activity_dashboard_recent">动态</string>

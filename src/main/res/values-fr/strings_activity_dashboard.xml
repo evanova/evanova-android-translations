@@ -6,7 +6,7 @@
     <string name="activity_dashboard_button_sso">Ajouter un personnage</string>
   <string name="activity_dashboard_update_title">Mise à jour de l\'application</string>
   <string name="activity_dashboard_update_restart">Un redémarrage est nécessaire pour que certaines modifications prennent effet.</string>
-  <string name="activity_dashboard_update_description">De nombreux changements, améliorations et ajouts ont été apportés à Evanova.\nPour tirer parti des nouvelles fonctionnalités, vous devez réimporter vos personnages existants et leur autoriser des portées ESI supplémentaires. \nConsultez la section A Propos pour une liste détaillée des changements.</string>
+  <string name="activity_dashboard_update_description">Consultez la section A Propos pour une liste détaillée des changements.</string>
   <string name="activity_dashboard_update_about">À propos d\'Evanova</string>
   <string name="activity_dashboard_update_text">Mise à jour</string>
   <string name="activity_dashboard_recent">Événements récents</string>

@@ -23,7 +23,7 @@
     <string name="activity_routes_skills_conservation">Fuel Conservation</string>
 
     <string name="activity_routes_option_incursions">Avoid incursions</string>
-    <string name="activity_routes_option_systems">Solar Systems</string>
+    <string name="activity_routes_option_systems">Prefer Station Systems</string>
 
     <string name="activity_routes_view_isotopes">%d isotopes</string>
     <string name="activity_routes_view_distance">%f LY</string>

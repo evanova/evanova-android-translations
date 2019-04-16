@@ -6,7 +6,7 @@
   <string name="activity_dashboard_button_sso">キャラクターを追加</string>
   <string name="activity_dashboard_update_title">アプリケーション更新</string>
   <string name="activity_dashboard_update_restart">一部の変更を有効にするには再起動が必要です。</string>
-  <string name="activity_dashboard_update_description">Evanovaには多数の変更、改良、追加が行われています。新機能を利用するには、既存の文字を再インポートし、それらに追加のESIスコープを許可する必要があります。 \ n変更の詳細な一覧については、aboutセクションを確認してください。</string>
+  <string name="activity_dashboard_update_description">\n変更の詳細な一覧については、aboutセクションを確認してください。</string>
   <string name="activity_dashboard_update_about">Evanovaについて</string>
   <string name="activity_dashboard_update_text">Evanovaアップデート</string>
   <string name="activity_dashboard_recent">最近のイベント</string>

@@ -6,7 +6,7 @@
     <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
   <string name="activity_dashboard_update_title">Anwendungsupdate</string>
   <string name="activity_dashboard_update_restart">Ein Neustart ist erforderlich, damit einige Änderungen wirksam werden.</string>
-  <string name="activity_dashboard_update_description">Es wurden zahlreiche Änderungen, Verbesserungen und Ergänzungen in Evanova vorgenommen.\nUm die neuen Funktionen zu nutzen, sollten Sie Ihre vorhandenen Zeichen erneut importieren und ihnen zusätzliche ESI-Bereiche zulassen.\nWeitere Informationen finden Sie im Abschnitt &amp;quot;about&amp;quot; von Änderungen.</string>
+  <string name="activity_dashboard_update_description">Weitere Informationen finden Sie im Abschnitt &amp;quot;about&amp;quot; von Änderungen.</string>
   <string name="activity_dashboard_update_about">Über Evanova</string>
   <string name="activity_dashboard_update_text">Evanova-Update</string>
   <string name="activity_dashboard_recent">Die jüngsten Ereignisse</string>

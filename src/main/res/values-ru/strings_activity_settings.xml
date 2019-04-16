@@ -99,15 +99,7 @@
     <item>Calendar Events</item>
     <item>Inactive Colony Installation</item>
   </string-array>
-  <string-array name="preferences_character_notifications_list_values" translatable="false">
-    <item>Training</item>
-    <item>Mail</item>
-    <item>Notifications</item>
-    <item>Contracts</item>
-    <item>Industry</item>
-    <item>Calendar</item>
-    <item>Colonies</item>
-  </string-array>
+
   <string-array name="preferences_character_expiration_list_entries" translatable="false">
     <item>1 Day</item>
     <item>2 Days</item>
