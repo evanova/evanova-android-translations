@@ -2,8 +2,8 @@
 <resources>
   <string name="activity_contracts_title">%1$s</string>
   <string name="activity_contracts_description">%1$d Verträge</string>
-  <string name="activity_contracts_menu_asc">aufsteigend</string>
-  <string name="activity_contracts_menu_desc">absteigend</string>
+  <string name="activity_contracts_menu_asc">Auf.</string>
+  <string name="activity_contracts_menu_desc">Abs.</string>
   <string name="activity_contracts_tab_all">Alles</string>
   <string name="activity_contracts_tab_outstanding">Hervorragend</string>
   <string name="activity_contracts_tab_current">Aktuell</string>
