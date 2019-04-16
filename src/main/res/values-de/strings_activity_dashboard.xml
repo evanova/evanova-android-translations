@@ -6,11 +6,11 @@
     <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
   <string name="activity_dashboard_update_title">Anwendungsupdate</string>
   <string name="activity_dashboard_update_restart">Ein Neustart ist erforderlich, damit einige Änderungen wirksam werden.</string>
-  <string name="activity_dashboard_update_description">Es wurden zahlreiche Änderungen, Verbesserungen und Ergänzungen in Evanova vorgenommen.\nUm die neuen Funktionen zu nutzen, sollten Sie Ihre vorhandenen Zeichen erneut importieren und ihnen zusätzliche ESI-Bereiche zulassen.\nWeitere Informationen finden Sie im Abschnitt &amp;quot;about&amp;quot; von Änderungen.</string>
+  <string name="activity_dashboard_update_description">Es wurden zahlreiche Änderungen, Verbesserungen und Ergänzungen in Evanova vorgenommen.\nUm die neuen Funktionen zu nutzen, sollten Sie Ihre vorhandenen Charaktere erneut importieren und ihnen zusätzliche ESI-Bereiche zuweisen.\nWeitere Informationen finden Sie im Abschnitt &amp;quot;about&amp;quot; von Änderungen.</string>
   <string name="activity_dashboard_update_about">Über Evanova</string>
   <string name="activity_dashboard_update_text">Evanova-Update</string>
   <string name="activity_dashboard_recent">Die jüngsten Ereignisse</string>
-  <string name="activity_dashboard_back">Durch nochmaliges Drücken der Taste wird der Sender verlassen.</string>
+  <string name="activity_dashboard_back">Durch nochmaliges Drücken der Taste wird diese Seite geschlossen.</string>
   <string name="activity_dashboard_adapter_title_news">Eve Online News</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
   <string name="activity_dashboard_adapter_training_when">%1$d Fähigkeiten bis %2$s</string>
@@ -18,18 +18,18 @@
   <string name="activity_dashboard_adapter_training_empty">Trainingswarteschlange ist leer</string>
   <string name="activity_dashboard_adapter_training_inactive">Trainingswarteschlange ist inaktiv</string>
   <string name="activity_dashboard_adapter_colony_title">Kolonie in %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expiring">Einige Pins sind in %1$s abgeschlossen</string>
-  <string name="activity_dashboard_adapter_colony_expired">Einige Pins sind seit %1$s inaktiv</string>
+  <string name="activity_dashboard_adapter_colony_expiring">Einige Aktivitäten sind in %1$s abgeschlossen</string>
+  <string name="activity_dashboard_adapter_colony_expired">Einige Aktivitäten sind seit %1$s inaktiv</string>
   <string name="activity_dashboard_summary_title">Zusammenfassung</string>
-  <string name="activity_dashboard_summary_corporation_none_text">Keine Unternehmensinformationen.</string>
-  <string name="activity_dashboard_summary_corporation_none_description">Bitte importieren Sie Ihre vorhandenen Zeichen erneut.</string>
+  <string name="activity_dashboard_summary_corporation_none_text">Keine Corporations-Informationen.</string>
+  <string name="activity_dashboard_summary_corporation_none_description">Bitte importieren Sie Ihre vorhandenen Beschreibung erneut.</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Kein Charakter</item>
     <item quantity="one">%1$d Zeichen</item>
     <item quantity="other">%1$d Zeichen</item>
   </plurals>
   <plurals name="activity_dashboard_summary_corporations">
-    <item quantity="zero">Keine Gesellschaft</item>
+    <item quantity="zero">Keine Corporation</item>
     <item quantity="one">%1$d Corporation</item>
     <item quantity="other">%1$d Unternehmen</item>
   </plurals>
