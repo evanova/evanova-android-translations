@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_dismiss">Entlassen</string>
+  <string name="app_dismiss">Schliessen</string>
   <string name="app_restart">Neustart</string>
-  <string name="app_cancel">Stornieren</string>
-  <string name="app_clear">klar</string>
+  <string name="app_cancel">Abbrechen</string>
+  <string name="app_clear">löschen</string>
   <string name="app_ok">OK</string>
   <string name="app_add">Hinzufügen</string>
   <string name="app_close">Schließen</string>
-  <string name="app_import">Einführen</string>
+  <string name="app_import">Import</string>
   <string name="drawer_items">Datenbank</string>
   <string name="drawer_login">Einen Charakter hinzufügen</string>
-  <string name="drawer_characters">Zeichen</string>
+  <string name="drawer_characters">Charaktere</string>
   <string name="drawer_corporations">Unternehmen</string>
   <string name="drawer_about">Über</string>
-  <string name="drawer_settings">die Einstellungen</string>
-  <string name="drawer_skills">Kompetenzen</string>
+  <string name="drawer_settings">Einstellungen</string>
+  <string name="drawer_skills">Fähigkeiten</string>
   <string name="drawer_routes">Routen</string>
   <string name="drawer_maps">Karten</string>
-  <string name="drawer_fittings">Beschläge</string>
+  <string name="drawer_fittings">Fittings</string>
   <string name="drawer_server">Server</string>
   <string name="search_items_hint">Artikel suchen</string>
     <string name="activity_help_tab_about">Über</string>
@@ -26,9 +26,9 @@
   <string name="activity_assets_description">Vermögenswerte</string>
   <string name="activity_assets_description_corporation">Vermögenswerte der Gesellschaft</string>
   <string name="preferences_character_dashboard_notifications">Hintergrundaktualisierung / Benachrichtigungen</string>
-  <string name="preferences_character_dashboard_category">Instrumententafel</string>
-  <string name="preferences_character_dashboard_events_title">Nur Veranstaltungen</string>
-  <string name="preferences_character_dashboard_events_summary">Zeichen nur für ausgewählte Ereignisse anzeigen.</string>
+  <string name="preferences_character_dashboard_category">Benachrichtigungsfeld</string>
+  <string name="preferences_character_dashboard_events_title">Nur Events</string>
+  <string name="preferences_character_dashboard_events_summary">Charakter nur für ausgewählte Ereignisse anzeigen.</string>
   <string name="preferences_character_dashboard_pinned_summary">Zeigen Sie immer diesen Charakter</string>
   <string name="preferences_character_dashboard_pinned_title">Immer</string>
   <string name="preferences_character_dashboard_show_title">Anzeige</string>
