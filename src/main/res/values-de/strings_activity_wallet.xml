@@ -21,7 +21,7 @@
   <string name="activity_wallet_transaction_seller">Verkäufer</string>
   <string name="activity_wallet_transaction_price">Preis</string>
   <string name="activity_wallet_transaction_buyer">Käufer</string>
-  <string name="activity_wallet_tab_journal">Tagebuch</string>
+  <string name="activity_wallet_tab_journal">Verlauf</string>
   <string name="activity_wallet_tab_transactions">Transaktionen</string>
   <string name="activity_wallet_graph_color_dialog_title">Wählen Sie eine Reihe von Farben</string>
 </resources>

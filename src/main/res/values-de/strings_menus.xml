@@ -12,7 +12,7 @@
   <string name="menu_characters_show_training">Training</string>
   <string name="menu_characters_show_location">Ort</string>
   <string name="menu_characters_show_account">Konto</string>
-  <string name="menu_wallet_flip_list">Tagebuch</string>
+  <string name="menu_wallet_flip_list">Verlauf</string>
   <string name="menu_wallet_flip_graph">Transaktionen</string>
   <string name="menu_wallet_color_graph">Farben</string>
   <string name="menu_routes_submit">Route</string>
