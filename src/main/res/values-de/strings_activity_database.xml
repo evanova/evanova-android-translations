@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_database_title">Artikeldatenbank</string>
+
   <string name="activity_database_tab_items">Artikel</string>
   <string name="activity_database_tab_recent">Kürzlich</string>
+
 </resources>

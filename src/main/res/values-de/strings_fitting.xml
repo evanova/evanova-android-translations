@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="fitting_widget_pager_statistics_title">Statistiken.</string>
   <string name="fitting_widget_pager_modules_title">Module</string>
   <string name="fitting_widget_pager_drones_title">Drohnen</string>
   <string name="fitting_widget_pager_implants_title">Implantate</string>
+
   <string name="fitting_ship_stats_turrets">Geschütze</string>
   <string name="fitting_ship_stats_launchers">Raketen</string>
   <string name="fitting_ship_stats_volley">Volley</string>
@@ -23,8 +26,10 @@
   <string name="fitting_ship_stats_header_resistance">Schaden / Resistenzen</string>
   <string name="fitting_ship_stats_header_targeting">Aufschalten</string>
   <string name="fitting_ship_stats_header_navigation">Navigation</string>
+
   <string name="fitting_widget_modules_statistics_capacitor_stable">Stabil %1$ds</string>
   <string name="fitting_widget_modules_statistics_capacitor_unstable">Hält %1$ds</string>
+
   <string name="fitting_widget_modules_slots_high">High Slots (%1$d / %2$d)</string>
   <string name="fitting_widget_modules_slots_medium">Mid Slots (%1$d / %2$d)</string>
   <string name="fitting_widget_modules_slots_low">Low Slots (%1$d / %2$d)</string>
@@ -34,13 +39,16 @@
   <string name="fitting_widget_modules_slots_services">Services (%1$d / %2$d)</string>
   <string name="fitting_widget_modules_slots_structures">Strukturen (%1$d / %2$d)</string>
   <string name="fitting_widget_modules_slots_unknown">Unbekannt</string>
+
   <string name="fitting_widget_modules_item_cpu">%1$.2f</string>
   <string name="fitting_widget_modules_item_power">%1$.2f</string>
   <string name="fitting_widget_modules_item_capacitor">%1$.2f / s</string>
   <string name="fitting_widget_modules_item_charges_none">Kostenlos</string>
+
   <string name="fitting_widget_drones_squadron_heavy">Schwere Drohnen (%1$d / %2$d)</string>
   <string name="fitting_widget_drones_squadron_light">Leichte Drohnen (%1$d / %2$d)</string>
   <string name="fitting_widget_drones_squadron_support">Support-Drohnen (%1$d / %2$d)</string>
   <string name="fitting_widget_drones_squadron_none">Drohnen (%1$d / %2$d)</string>
+
   <string name="fitting_widget_implants_slot_empty">Leerer Slot</string>
 </resources>

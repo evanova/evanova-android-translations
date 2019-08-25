@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="activity_assets_description">Vermögenswerte</string>
+  <string name="activity_assets_description_corporation">Vermögenswerte der Gesellschaft</string>
   <string name="activity_assets_locations">Standorte</string>
   <string name="activity_assets_categories">Kategorien</string>
   <string name="activity_assets_items">Artikel</string>
+
   <string name="activity_assets_flag_other">Andere</string>
   <string name="activity_assets_flag_high">High Slot</string>
   <string name="activity_assets_flag_med">Mid Slot</string>
@@ -14,25 +17,31 @@
   <string name="activity_assets_flag_safety">Sicherheitslevel</string>
   <string name="activity_assets_flag_deliveries">Corp. Lieferungen</string>
   <string name="activity_assets_flag_impounded">Beschlagnahmt</string>
+
   <string name="activity_assets_flag_ag">Gesellschaftsvermögen</string>
+
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">Kein Gegenstand</item>
     <item quantity="one">%d Element</item>
     <item quantity="other">%d Elemente</item>
   </plurals>
+
   <plurals name="activity_assets_categories_group">
     <item quantity="zero">Kein Gegenstand</item>
     <item quantity="one">%d Element</item>
     <item quantity="other">%d Elemente</item>
   </plurals>
+
   <plurals name="activity_assets_items_group">
     <item quantity="zero">Kein Gegenstand</item>
     <item quantity="one">%d Speicherort</item>
     <item quantity="other">%d Standorte</item>
   </plurals>
+
   <plurals name="activity_assets_container_description">
     <item quantity="zero">%1$s (leer)</item>
     <item quantity="one">%1$s (%2$d Artikel)</item>
     <item quantity="other">%1$s (%2$d Elemente)</item>
   </plurals>
+
 </resources>

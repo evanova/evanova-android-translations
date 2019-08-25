@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="activity_market_statistics_high">Hoch</string>
   <string name="activity_market_statistics_low">Niedrig</string>
   <string name="activity_market_statistics_average">Durchschnitt</string>
+
   <string name="activity_market_order_expired">Abgelaufen</string>
   <string name="activity_market_buy">Kaufen</string>
   <string name="activity_market_sell">Verkaufen</string>
   <string name="activity_market_history">Verlauf</string>
   <string name="activity_market_regions_title">Regionen</string>
   <string name="activity_market_regions_text">Region</string>
+
 </resources>
