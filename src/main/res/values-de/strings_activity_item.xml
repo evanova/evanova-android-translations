@@ -2,13 +2,13 @@
 <resources>
   <string name="activity_item_widget_tab_description">Beschreibung</string>
   <string name="activity_item_widget_tab_attributes">Attribute</string>
-  <string name="activity_item_widget_tab_requirements">Fähigkeiten</string>
+  <string name="activity_item_widget_tab_requirements">Voraussetzungen</string>
 
   <string name="activity_item_attribute_structure">Struktur</string>
-  <string name="activity_item_attribute_fitting">Passend zu</string>
-  <string name="activity_item_attribute_armor">Rüstung</string>
+  <string name="activity_item_attribute_fitting">Ausrüstung</string>
+  <string name="activity_item_attribute_armor">Panzerung</string>
   <string name="activity_item_attribute_shield">Schild</string>
-  <string name="activity_item_attribute_capacitor">Kapazität</string>
+  <string name="activity_item_attribute_capacitor">Energiespeicher</string>
   <string name="activity_item_attribute_targeting">Zielaufschaltung</string>
   <string name="activity_item_attribute_propulsion">Antrieb</string>
   <string name="activity_item_attribute_drones">Drohnen</string>

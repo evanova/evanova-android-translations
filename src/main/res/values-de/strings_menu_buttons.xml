@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <string name="activity_character_button_fittings">Ausrüstungen</string>
+  <string name="activity_character_button_fittings">Fittings</string>
   <string name="activity_character_button_messages">Post</string>
   <string name="activity_character_button_assets">Inventar</string>
   <string name="activity_character_button_wallet">Konto</string>
   <string name="activity_character_button_orders">Aufträge</string>
   <string name="activity_character_button_contracts">Verträge</string>
   <string name="activity_character_button_industry">Industrie</string>
-  <string name="activity_character_button_planetary">Planetarisch</string>
+  <string name="activity_character_button_planetary">Planeten</string>
   <string name="activity_character_button_social">Sozial</string>
   <string name="activity_character_button_calendar">Kalender</string>
 

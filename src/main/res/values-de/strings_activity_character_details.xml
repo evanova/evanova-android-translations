@@ -4,9 +4,9 @@
   <string name="activity_character_details_clones_title">Klone</string>
   <string name="activity_character_details_summary_title">Verlauf</string>
 
-  <string name="activity_character_details_age">%1$s alt</string>
+  <string name="activity_character_details_age">Alter: %1$s/string>
   <string name="activity_character_details_birthdate">Erstellt am %1$s</string>
-  <string name="activity_character_details_logged">Zuletzt protokollierte %1$s (%2$d Anmeldungen)</string>
+  <string name="activity_character_details_logged">Letzter Login %1$s (%2$d Logins)</string>
 
   <string name="activity_character_details_history_name">%1$s</string>
   <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (gelöscht)</string>
@@ -23,16 +23,16 @@
 
   <string name="activity_character_details_attribute">%1$d</string>
   <string name="activity_character_details_intelligence">Intelligenz</string>
-  <string name="activity_character_details_charisma">Charisma</string>
+  <string name="activity_character_details_charisma">Ausstrahlung</string>
   <string name="activity_character_details_willpower">Willenskraft</string>
-  <string name="activity_character_details_memory">Erinnerung</string>
-  <string name="activity_character_details_perception">Wahrnehmung</string>
+  <string name="activity_character_details_memory">Gedächtnis</string>
+  <string name="activity_character_details_perception">Auffassungsgabe</string>
 
   <string name="activity_character_details_clones_jump_on">Letzter Sprung auf %1$s</string>
   <string name="activity_character_details_clones_jump_ago">Vor %1$s</string>
   <string name="activity_character_details_clones_jump_unknown">Letzter Sprung unbekannt</string>
 
   <string name="activity_character_details_remap_last_unknown">Unbekannt</string>
-  <string name="activity_character_details_remap_free_none">Keiner</string>
-  <string name="activity_character_details_remap_free">%1$d Neuzuordnungen verfügbar</string>
+  <string name="activity_character_details_remap_free_none">Keine</string>
+  <string name="activity_character_details_remap_free">%1$d Umprogrammierungen verfügbar</string>
 </resources>

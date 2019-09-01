@@ -10,10 +10,10 @@
   <string name="activity_wallet_division6">6. Konto</string>
   <string name="activity_wallet_division7">7. Konto</string>
 
-  <string name="activity_wallet_balance">Guthaben</string>
-  <string name="activity_wallet_credit">Kredit</string>
-  <string name="activity_wallet_from">Von %1$s</string>
-  <string name="activity_wallet_to">Zu %1$s</string>
+  <string name="activity_wallet_balance">Kontostand</string>
+  <string name="activity_wallet_credit">Summe</string>
+  <string name="activity_wallet_from">von %1$s</string>
+  <string name="activity_wallet_to">an %1$s</string>
 
   <string name="activity_wallet_graph_history">Verlauf</string>
   <string name="activity_wallet_graph_revenue">Umsatz</string>
@@ -22,7 +22,7 @@
   <string name="activity_wallet_history_label">Verlauf</string>
   <string name="activity_wallet_history_description">Letzte 3 Monate</string>
 
-  <string name="activity_wallet_transaction_qty">%1$d Einheit (en).</string>
+  <string name="activity_wallet_transaction_qty">%1$d Einheit(en)</string>
   <string name="activity_wallet_transaction_seller">Verkäufer</string>
   <string name="activity_wallet_transaction_price">Preis</string>
 
@@ -31,6 +31,6 @@
   <string name="activity_wallet_tab_journal">Verlauf</string>
   <string name="activity_wallet_tab_transactions">Transaktionen</string>
 
-  <string name="activity_wallet_graph_color_dialog_title">Wählen Sie eine Reihe von Farben</string>
+  <string name="activity_wallet_graph_color_dialog_title">Wähle eine Reihe von Farben</string>
 
 </resources>

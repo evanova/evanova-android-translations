@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_assets_description">Vermögenswerte</string>
-  <string name="activity_assets_description_corporation">Vermögenswerte der Gesellschaft</string>
+  <string name="activity_assets_description">Persönlicher Besitz</string>
+  <string name="activity_assets_description_corporation">Besitz der Corporation</string>
   <string name="activity_assets_locations">Standorte</string>
   <string name="activity_assets_categories">Kategorien</string>
   <string name="activity_assets_items">Artikel</string>
 
   <string name="activity_assets_flag_other">Andere</string>
-  <string name="activity_assets_flag_high">High Slot</string>
-  <string name="activity_assets_flag_med">Mid Slot</string>
-  <string name="activity_assets_flag_low">Low Slot</string>
+  <string name="activity_assets_flag_high">Hoch</string>
+  <string name="activity_assets_flag_med">Mittelgroß</string>
+  <string name="activity_assets_flag_low">Niedrig</string>
   <string name="activity_assets_flag_rig">Rigs</string>
   <string name="activity_assets_flag_hangar">Hangar</string>
-  <string name="activity_assets_flag_cargo">Ladung</string>
-  <string name="activity_assets_flag_drones">Drone Bay</string>
-  <string name="activity_assets_flag_safety">Sicherheitslevel</string>
+  <string name="activity_assets_flag_cargo">Frachtraum</string>
+  <string name="activity_assets_flag_drones">Drohnenhangar</string>
+  <string name="activity_assets_flag_safety">Besitzsicherheit</string>
   <string name="activity_assets_flag_deliveries">Corp. Lieferungen</string>
   <string name="activity_assets_flag_impounded">Beschlagnahmt</string>
 
-  <string name="activity_assets_flag_ag">Gesellschaftsvermögen</string>
+  <string name="activity_assets_flag_ag">Corporationshangar</string>
 
   <plurals name="activity_assets_locations_group">
-    <item quantity="zero">Kein Gegenstand</item>
-    <item quantity="one">%d Element</item>
-    <item quantity="other">%d Elemente</item>
+    <item quantity="zero">Keine Gegenstände</item>
+    <item quantity="one">%d Gegenstand</item>
+    <item quantity="other">%d Gegenstände</item>
   </plurals>
 
   <plurals name="activity_assets_categories_group">
-    <item quantity="zero">Kein Gegenstand</item>
-    <item quantity="one">%d Element</item>
-    <item quantity="other">%d Elemente</item>
+    <item quantity="zero">Keine Gegenstände</item>
+    <item quantity="one">%d Gegenstand</item>
+    <item quantity="other">%d Gegenstände</item>
   </plurals>
 
   <plurals name="activity_assets_items_group">
-    <item quantity="zero">Kein Gegenstand</item>
-    <item quantity="one">%d Speicherort</item>
+    <item quantity="zero">Keine Gegenstände</item>
+    <item quantity="one">%d Standort</item>
     <item quantity="other">%d Standorte</item>
   </plurals>
 
   <plurals name="activity_assets_container_description">
     <item quantity="zero">%1$s (leer)</item>
-    <item quantity="one">%1$s (%2$d Artikel)</item>
-    <item quantity="other">%1$s (%2$d Elemente)</item>
+    <item quantity="one">%1$s (%2$d Gegenstand)</item>
+    <item quantity="other">%1$s (%2$d Gegenstände)</item>
   </plurals>
 
 </resources>

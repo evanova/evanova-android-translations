@@ -4,142 +4,144 @@
   <string name="preferences_cleared_message">Cache wurde gelöscht.</string>
 
   <string name="preferences_category_online">EVE Online-Daten</string>
-  <string name="preferences_category_display">Anzeige</string>
+  <string name="preferences_category_display">Darstellung</string>
 
   <string name="preferences_category_notifications">Benachrichtigungen</string>
 
   <string name="preferences_online_metered_title">Verwendung mobiler Daten</string>
-  <string name="preferences_online_metered_summary">Vermeiden Sie die Nutzung mobiler oder anderer Netzwerke, dies kann zusätzliche Kosten verursachen</string>
+  <string name="preferences_online_metered_summary">Vermeide die Nutzung mobiler Daten oder anderer kostenpflichtigen Netzwerke</string>
 
-  <string name="preferences_notification_title_summary">Alle Benachrichtigungen aktivieren / deaktivieren (dadurch werden alle Benachrichtigungseinstellungen für Zeichen überschrieben)</string>
+  <string name="preferences_notification_title_summary">Alle Benachrichtigungen aktivieren / deaktivieren (dadurch werden alle Charakter-spezifischen Benachrichtigungseinstellungen überschrieben)</string>
   <string name="preferences_notification_title">Benachrichtigungen aktivieren</string>
 
   <string name="preferences_frequency_title">Aktualisierungsfrequenz</string>
-  <string name="preferences_frequency_summary">Legen Sie fest, wie oft Daten im Hintergrund aktualisiert werden. Beachten Sie, dass häufiges aktualisieren die Batterie schneller entlädt.</string>
+  <string name="preferences_frequency_summary">Leg fest, wie oft Daten im Hintergrund aktualisiert werden. Beachte, dass häufiges aktualisieren die Batterie schneller entlädt.</string>
 
-  <string name="preferences_notification_cancel_title">Benachrichtigungen</string>
-  <string name="preferences_notification_cancel_summary">Benachrichtigung automatisch deaktivieren</string>
+  <string name="preferences_notification_cancel_title">Auto-Deaktivierung</string>
+  <string name="preferences_notification_cancel_summary">Benachrichtigungen automatisch deaktivieren</string>
 
-  <string name="preferences_drawer_dock_title">angedocktes Fenster</string>
-  <string name="preferences_drawer_dock_summary">Halten Sie das Fenster immer im Vordrgrund (nur bei Bildschirmen mit hoher Auflösung verfügbar).</string>
+  <string name="preferences_drawer_dock_title">Angedocktes Menü</string>
+  <string name="preferences_drawer_dock_summary">Zeige das Menü immer an (nur bei hoher Auflösung verfügbar).</string>
 
   <string name="preferences_dashboard_news_title">Eve News</string>
-  <string name="preferences_dashboard_news_summary">Eve News im Dashboard anzeigen (Neustart erforderlich).</string>
+  <string name="preferences_dashboard_news_summary">Eve News in der Übersicht anzeigen (Neustart erforderlich).</string>
 
-  <string name="preferences_locale_title">Verwenden Sie die Eve-Zeit</string>
-  <string name="preferences_locale_summary">Zeigen Sie zeitbasierte Informationen in Eve-Zeit anstelle der Uhrzeit Ihres Geräts an.</string>
+  <string name="preferences_locale_title">Verwende die Eve-Zeit</string>
+  <string name="preferences_locale_summary">Zeigt zeitbasierte Informationen in Eve-Zeit anstelle der Uhrzeit deines Geräts an.</string>
 
-  <string name="preferences_background_title">Hintergrundbild in Evanova</string>
-  <string name="preferences_background_summary">Ändern Sie den Hintergrund</string>
+  <string name="preferences_background_title">App-Hintergrundbild</string>
+  <string name="preferences_background_summary">Ändere den Hintergrund der App</string>
   <string name="preferences_background_select">Hintergrund auswählen</string>
 
   <string name="preferences_display_title">Charakterbild als Hintergrund</string>
-  <string name="preferences_display_summary">Wählen Sie den Charakter aus, der als Hintergrund des Hauptbildschirms angezeigt werden soll.</string>
+  <string name="preferences_display_summary">Wähle den Charakter aus, der als Hintergrund des Hauptbildschirms angezeigt werden soll.</string>
 
 
   <string name="preferences_character_dashboard_notifications">Hintergrundaktualisierung / Benachrichtigungen</string>
 
-  <string name="preferences_character_dashboard_category">Instrumententafel</string>
+  <string name="preferences_character_dashboard_category">Übersicht</string>
   <string name="preferences_character_dashboard_events_title">Nur Veranstaltungen</string>
-  <string name="preferences_character_dashboard_events_summary">Zeichen nur für ausgewählte Ereignisse anzeigen.</string>
-  <string name="preferences_character_dashboard_pinned_summary">Zeigen Sie immer diesen Charakter</string>
+  <string name="preferences_character_dashboard_events_summary">Charakter nur bei ausgewählten Events anzeigen.</string>
   <string name="preferences_character_dashboard_pinned_title">Immer</string>
+  <string name="preferences_character_dashboard_pinned_summary">Zeige den Charakter immer an</string>
 
-  <string name="preferences_character_update_summary">Aktivieren der Hintergrundaktualisierung um den Akku zu schonen. Sie können die Daten weiterhin manuell laden.</string>
+  <string name="preferences_character_update_summary">Hintergrundaktualisierung für diesen Charakter aktivieren / deaktivieren, um den Akku zu schonen. Du kannst die Daten weiterhin manuell laden.</string>
   <string name="preferences_character_update_title">Hintergrundaktualisierung</string>
-  <string name="preferences_character_notifications_summary">Benachrichtigungen für diesen Charakter aktivieren / deaktivieren. Beachten Sie, dass die Benachrichtigungseinstellungen der Anwendung weiterhin gelten.</string>
+  <string name="preferences_character_notifications_summary">Benachrichtigungen für diesen Charakter aktivieren / deaktivieren. Beachte, dass die Benachrichtigungseinstellungen der Anwendung weiterhin gelten.</string>
   <string name="preferences_character_notifications_title">Benachrichtigungen</string>
 
   <string name="preferences_character_dashboard_show_title">Anzeige</string>
-  <string name="preferences_character_dashboard_show_summary">Konfigurieren Sie, was angezeigt werden soll.</string>
+  <string name="preferences_character_dashboard_show_summary">Konfiguriere, was angezeigt werden soll.</string>
 
   <string name="preferences_character_dashboard_list_title">Dashboard-Filter</string>
-  <string name="preferences_character_dashboard_list_dialog">Wählen Sie aus, was auf dem Dashboard angezeigt werden soll.</string>
-  <string name="preferences_character_dashboard_list_summary">Konfigurieren Sie, was auf dem Dashboard angezeigt werden soll.</string>
+  <string name="preferences_character_dashboard_list_dialog">Was soll auf dem Dashboard angezeigt werden?</string>
+  <string name="preferences_character_dashboard_list_summary">Konfiguriere, was auf dem Dashboard angezeigt werden soll.</string>
 
   <string name="preferences_character_notifications_list_summary">Konfigurieren Sie, welche Benachrichtigungen in der Benachrichtigungsleiste Ihres Geräts angezeigt werden soll.</string>
   <string name="preferences_character_notifications_list_title">Benachrichtigungsfilter</string>
-  <string name="preferences_character_notifications_list_dialog">Wählen Sie aus, welche Benachrichtigungen angezeigt werden sollen</string>
+  <string name="preferences_character_notifications_list_dialog">Welche Benachrichtigungen sollen angezeigt werden?</string>
 
   <string name="preferences_character_expiration_list_title">Zeitraum einstellen</string>
-  <string name="preferences_character_expiration_list_dialog">Wählen Sie einen Zeitraum</string>
-  <string name="preferences_character_expiration_list_summary">Filtern Sie Benachrichtigungen oder Dashboard-Ereignisse nach ihrem Alter. Dies ist nützlich, wenn Industrie oder andere alte Informationen ausstehen, welche nicht mehr Interessant sind.</string>
+  <string name="preferences_character_expiration_list_dialog">Wähle einen Zeitraum</string>
+  <string name="preferences_character_expiration_list_summary">Filtert Benachrichtigungen oder Dashboard-Ereignisse nach ihrem Alter. Dies ist nützlich, wenn Industrie oder andere alte Informationen ausstehen, welche nicht mehr Interessant sind.</string>
 
   <string name="preferences_category_location">Lokalisierung</string>
   <string name="preferences_language_title">Sprache (experimentell)</string>
 
-  <string name="preferences_language_summary">Ändern Sie die Sprache der Eve-Datenbank und einiger Teile von Evanova. Beachten Sie, dass derzeit keine UI-Übersetzung vorhanden ist. Dies ist eine experimentelle Funktion, die nicht garantiert funktioniert. Verwenden Sie sie daher auf eigene Gefahr.</string>
+  <string name="preferences_language_summary">Ändert die Sprache der Eve-Datenbank und einiger Teile von Evanova. Beachte, dass derzeit keine UI-Übersetzung vorhanden ist. Dies ist eine experimentelle Funktion, die nicht garantiert funktioniert. Verwende sie daher auf eigene Gefahr.</string>
 
 
-  <string name="preferences_language_dialog_summary">Ändern Sie die Sprache der Evanova-Benutzeroberfläche und der Artikeldatenbank. \ n \ nHinweis, dass dies eine unvollständige Funktion ist und falsche Anzeige oder Abstürze verursachen kann. Im Abschnitt &amp;quot;Über&amp;quot; erfahren Sie, wie Sie Evanova übersetzen können.</string>
+  <string name="preferences_language_dialog_summary">Ändere die Sprache der Evanova-Benutzeroberfläche und der Artikeldatenbank.
+      \n\nBeachte, dass dies eine unvollständige Funktion ist und falsche Anzeigen oder Abstürze verursachen kann.
+      Im Abschnitt "Über" erfährst du, wie du bei der Übersetzung von Evanova helfen kannst.</string>
 
-  <string name="preferences_language_dialog_ui">Übernehmen Sie die Evanova-Schnittstelle.</string>
+  <string name="preferences_language_dialog_ui">Auf die Oberfläche von Evanova anwenden.</string>
   <string name="preferences_language_dialog_database">Auf die Eve-Datenbank anwenden.</string>
 
   <string name="preferences_category_cache">Anwendungs-Cache</string>
   <string name="preferences_cache_title">Anwendungsdaten</string>
-  <string name="preferences_cache_summary">Löschen Sie zwischengespeicherte Daten von Evanova.</string>
+  <string name="preferences_cache_summary">Lösche zwischengespeicherte Daten von Evanova.</string>
   <string name="preferences_cache_dialog_title">Cache leeren</string>
   <string name="preferences_cache_dialog_summary">Dadurch werden die von Evanova aktuell gespeicherten Eve Online-Bilder sowie die zuletzt heruntergeladenen Daten gelöscht.</string>
 
     <string-array name="preferences_frequency_entries">
-        <item>Disabled</item>
-        <item>15mn</item>
-        <item>Half Hourly</item>
-        <item>Hourly</item>
-        <item>4 Hours</item>
-        <item>Half Daily (default)</item>
-        <item>Daily</item>
+        <item>Deaktiviert</item>
+        <item>15-minütig</item>
+        <item>Halbstündlich</item>
+        <item>Stündlich</item>
+        <item>Alle 4 Stunden</item>
+        <item>Jeden halben Tag (Standard)</item>
+        <item>Täglich</item>
     </string-array>
 
     <string-array name="preferences_background_entries">
-        <item>Nothing</item>
+        <item>Nichts</item>
         <item>Planet</item>
-        <item>Moon</item>
-        <item>Pick…</item>
+        <item>Mond</item>
+        <item>Wählen…</item>
     </string-array>
 
     <string-array name="preferences_display_entries">
-        <item>Nothing</item>
-        <item>Application Background</item>
-        <item>Character Ship</item>
-        <item>Character Portrait</item>
+        <item>Nichts</item>
+        <item>App-Hintergrund</item>
+        <item>Schiff des Characters</item>
+        <item>Portrait des Characters</item>
     </string-array>
 
     <string-array name="preferences_character_dashboard_show_entries">
-        <item>Never</item>
-        <item>Only events</item>
-        <item>Always</item>
+        <item>Nie</item>
+        <item>Nur Events</item>
+        <item>Immer</item>
     </string-array>
 
     <string-array name="preferences_character_dashboard_filter_entries">
-        <item>Calendar Events</item>
-        <item>Colonies Activity</item>
-        <item>Contracts</item>
-        <item>Industry Jobs</item>
-        <item>Recent Mails</item>
-        <item>Recent Notifications</item>
-        <item>Skill Training</item>
+        <item>Kalender-Events</item>
+        <item>Kolonie-Aktivitäten</item>
+        <item>Verträge</item>
+        <item>Industrieaufträge</item>
+        <item>Neue Mails</item>
+        <item>Neue Benachrichtigungen</item>
+        <item>Skilltraining</item>
     </string-array>
 
     <string-array name="preferences_character_notifications_list_entries">
-        <item>Character training</item>
-        <item>Mail</item>
-        <item>Notifications</item>
-        <item>Outstanding Contracts</item>
-        <item>Industry Jobs and Mining</item>
-        <item>Calendar Events</item>
-        <item>Inactive Colony Installation</item>
+        <item>Skilltraining</item>
+        <item>Mails</item>
+        <item>Benachrichtigungen</item>
+        <item>Offene Verträge</item>
+        <item>Industrieaufträge and Mining</item>
+        <item>Kalender-Events</item>
+        <item>Inaktive Kolonie-Installationen</item>
     </string-array>
 
     <string-array name="preferences_character_expiration_list_entries">
-        <item>1 Day</item>
-        <item>2 Days</item>
-        <item>1 Week</item>
-        <item>1 Month (default)</item>
-        <item>6 Month</item>
-        <item>1 Year</item>
-        <item>Never</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
+        <item>1 Monat (Standard)</item>
+        <item>6 Monat</item>
+        <item>1 Jahr</item>
+        <item>Nie</item>
     </string-array>
 
 </resources>

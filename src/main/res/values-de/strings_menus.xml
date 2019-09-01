@@ -3,7 +3,7 @@
 
   <string name="menu_accounts_sso">Anmeldung</string>
   <string name="menu_search_title">Suche</string>
-  <string name="menu_reload_title">Refresh</string>
+  <string name="menu_reload_title">Aktualisieren</string>
   <string name="menu_item_market">Markt</string>
   <string name="menu_item_select">Wählen</string>
 
@@ -31,13 +31,13 @@
 
   <string name="menu_skills_plan_delete">Leeren</string>
   <string name="menu_skills_plan_save">Sichern</string>
-  <string name="menu_skills_plan_revert">Zurückkehren</string>
+  <string name="menu_skills_plan_revert">Zurücksetzen</string>
   <string name="menu_skills_plan_share">Teilen</string>
 
   <string name="menu_wallpaperize">Als Hintergrundbild festlegen</string>
   <string name="menu_wallpaperize_short">Hintergrund</string>
 
-  <string name="menu_backgroundify">Als Hintergrundbild festlegen</string>
-  <string name="menu_backgroundify_short">Hintergrund</string>
-  <string name="menu_settings_character">Einstellungen</string>
+  <string name="menu_backgroundify">Als App-Hintergrundbild festlegen</string>
+  <string name="menu_backgroundify_short">App-Hintergrund</string>
+  <string name="menu_settings_character">Charakter-Einstellungen</string>
 </resources>
