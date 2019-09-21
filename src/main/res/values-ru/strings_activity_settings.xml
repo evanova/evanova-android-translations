@@ -36,7 +36,7 @@
   <string name="preferences_character_expiration_list_title">Фильтр истечения</string>
   <string name="preferences_character_expiration_list_dialog">Выберите срок действия</string>
   <string name="preferences_character_expiration_list_summary">Фильтруйте уведомления или события панели мониторинга по возрасту. Это полезно, если у вас есть индустрия или другие старые вещи, которые вам не нужны</string>
-  <string name="preferences_language_title">Язык (экспериментальный)</string>
+  <string name="preferences_language_title">Язык</string>
   <string name="preferences_language_summary">Измените язык базы данных Евы и некоторых частей Evanova. Обратите внимание, что в настоящее время нет перевода пользовательского интерфейса. Это экспериментальная функция, которая не гарантируется, поэтому используйте ее на свой страх и риск.</string>
   <string-array name="preferences_frequency_entries" translatable="false">
     <item>Disabled</item>

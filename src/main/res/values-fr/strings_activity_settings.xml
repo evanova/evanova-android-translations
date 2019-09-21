@@ -38,7 +38,7 @@
   <string name="preferences_character_expiration_list_dialog">Choisissez une heure d\'expiration</string>
   <string name="preferences_character_expiration_list_summary">Filtrez les notifications ou les événements de tableau de bord en fonction de leur âge. Ceci est utile si vous avez de l’ancienne industrie ou d’autres objets en attente qui ne vous intéressent pas.</string>
   <string name="preferences_category_location">Localisation</string>
-  <string name="preferences_language_title">Langue (expérimental)</string>
+  <string name="preferences_language_title">Langue</string>
   <string name="preferences_language_summary">Changez la langue de la base de données Eve et de certaines parties d’Evanova. Notez qu\'aucune traduction d\'interface utilisateur n\'est actuellement en place. Il s’agit d’une fonctionnalité expérimentale dont le fonctionnement n’est pas garanti; utilisez-la à vos risques et périls.</string>
   <string name="preferences_language_dialog_summary">Changer la langue de l\\\'interface Evanova et de la base de données des éléments.\\n\\nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
   <string name="preferences_language_dialog_ui">Appliquer à l\\\'interface d\\\'Evanova.</string>

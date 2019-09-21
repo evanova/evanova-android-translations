@@ -45,7 +45,7 @@
   <string name="preferences_character_expiration_list_dialog">有効期限を選択してください</string>
   <string name="preferences_character_expiration_list_summary">通知またはダッシュボードイベントを、それらが何歳であるかによってフィルタ処理します。あなたが産業や他の古いアイテムを持っているのであればあなたは気にしないでください。</string>
   <string name="preferences_category_location">ローカライゼーション</string>
-  <string name="preferences_language_title">言語（実験的）</string>
+  <string name="preferences_language_title">言語</string>
   <string name="preferences_language_summary">EvanovaのインターフェースとEveアイテムデータベースの言語を変更します。</string>
   <string name="preferences_language_dialog_summary">Evanovaインターフェースとアイテムデータベースの言語を変更します。 \ n \ nこれは不完全な機能であり、誤った表示やクラッシュを引き起こす可能性があることに注意してください。 Evanovaの翻訳を手助けする方法については、Aboutセクションを確認してください。</string>
   <string name="preferences_language_dialog_ui">Evanovaのインターフェースに適用する。</string>

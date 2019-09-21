@@ -66,7 +66,7 @@
   <string name="preferences_character_expiration_list_summary">Filtert Benachrichtigungen oder Dashboard-Ereignisse nach ihrem Alter. Dies ist nützlich, wenn Industrie oder andere alte Informationen ausstehen, welche nicht mehr Interessant sind.</string>
 
   <string name="preferences_category_location">Lokalisierung</string>
-  <string name="preferences_language_title">Sprache (experimentell)</string>
+  <string name="preferences_language_title">Sprache</string>
 
   <string name="preferences_language_summary">Ändert die Sprache der Eve-Datenbank und einiger Teile von Evanova. Beachte, dass derzeit keine UI-Übersetzung vorhanden ist. Dies ist eine experimentelle Funktion, die nicht garantiert funktioniert. Verwende sie daher auf eigene Gefahr.</string>
 

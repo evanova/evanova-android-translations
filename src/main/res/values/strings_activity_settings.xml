@@ -66,7 +66,7 @@
     <string name="preferences_character_expiration_list_summary">Filter notifications or dashboard events by how old they are. This is useful if you have industry or other old items pending that you don\'t care about.</string>
 
     <string name="preferences_category_location">Localisation</string>
-    <string name="preferences_language_title">Language (Experimental)</string>
+    <string name="preferences_language_title">Language</string>
 
     <string name="preferences_language_summary">Change the language of Evanova\'s interface and Eve items database.</string>
 
