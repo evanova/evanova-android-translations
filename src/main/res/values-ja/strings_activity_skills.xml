@@ -16,7 +16,7 @@
   <string name="activity_skills_multiplier">トレーニング時間乗数</string>
   <string name="activity_skills_requirement_text">%1$s%2$d</string>
   <string name="activity_skills_group_description">%1$dスキル</string>
-  <string name="activity_skills_character_group_description">%2$d /%1$dのスキルが訓練されました - 訓練中の％3 $ d  - 計画された％4 $ d</string>
+  <string name="activity_skills_character_group_description">%2$d / %1$dのスキルが訓練されました - 訓練中の％3$d  - 計画された％4$d</string>
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>

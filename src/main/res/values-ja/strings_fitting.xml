@@ -34,9 +34,9 @@
   <string name="fitting_widget_modules_slots_services">サービス（%1$d /%2$d）</string>
   <string name="fitting_widget_modules_slots_structures">構造体（%1$d /%2$d）</string>
   <string name="fitting_widget_modules_slots_unknown">道の</string>
-  <string name="fitting_widget_modules_item_cpu">％1 $ .2f</string>
-  <string name="fitting_widget_modules_item_power">％1 $ .2f</string>
-  <string name="fitting_widget_modules_item_capacitor">％1 $ .2f / s</string>
+  <string name="fitting_widget_modules_item_cpu">％1$.2f</string>
+  <string name="fitting_widget_modules_item_power">％1$.2f</string>
+  <string name="fitting_widget_modules_item_capacitor">％1$.2f / s</string>
   <string name="fitting_widget_modules_item_charges_none">無償</string>
   <string name="fitting_widget_drones_squadron_heavy">ヘビードローン（%1$d /%2$d）</string>
   <string name="fitting_widget_drones_squadron_light">ライトドローン（%1$d /%2$d）</string>

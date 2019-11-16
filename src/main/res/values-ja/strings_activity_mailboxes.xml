@@ -35,7 +35,7 @@
   <string name="activity_mailboxes_dialog_delete_text">%1$d件のメッセージが削除されます。これをオンラインで適用するとゲーム内でそれらを削除しようとします。</string>
   <string name="activity_mailboxes_edit_validation">一部のフィールドが欠落しているか無効です。</string>
   <string name="activity_mailboxes_widget_reply_title">再：%1$s</string>
-  <string name="activity_mailboxes_widget_reply_body">\ n送信元</string>
-  <string name="activity_mailboxes_share_text">%1$s \ n \ n%2$s \ n \ nからEvanovaから送信（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
+  <string name="activity_mailboxes_widget_reply_body">\n送信元</string>
+  <string name="activity_mailboxes_share_text">%1$s \n \n%2$s \n \nからEvanovaから送信（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
   <string name="activity_mailboxes_apply_online">このアクションをオンラインで適用してください。</string>
 </resources>

@@ -47,6 +47,7 @@ public final class GoogleTranslator implements Translator {
                     Translate.TranslateOption.targetLanguage(this.languageTo));
             return translation.getTranslatedText();
         } catch (Exception e) {
+            System.err.println(e.getLocalizedMessage());
             LOG.error("Error translating '{}'\n{}", text, e.getLocalizedMessage());
             return text;
         }
