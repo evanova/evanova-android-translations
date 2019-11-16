@@ -30,17 +30,14 @@
     <string name="activity_account_text_loading_1">Get a free personalized in-game mail!</string>
     <string name="activity_account_text_loading_1_text">Send ISK to Evanova Android and get a free thank you e-mail.</string>
 
-    <string name="activity_account_text_loading_2">Initiating account deletion.</string>
-    <string name="activity_account_text_loading_2_text">(just kidding, still loading)</string>
+    <string name="activity_account_text_loading_2">Spai analysis in progress.</string>
+    <string name="activity_account_text_loading_2_text">Please wait while we confirm that you are spai.</string>
 
-    <string name="activity_account_text_loading_3">Spai analysis in progress.</string>
-    <string name="activity_account_text_loading_3_text">Please wait while we confirm that you are spai.</string>
+    <string name="activity_account_text_loading_3">Warping to infinity and beyond.</string>
+    <string name="activity_account_text_loading_3_text">Did someone said jump?</string>
 
-    <string name="activity_account_text_loading_4">Warping to infinity and beyond.</string>
-    <string name="activity_account_text_loading_4_text">Did someone said jump?</string>
-
-    <string name="activity_account_text_loading_5">Can I import my Drake in Evanova?</string>
-    <string name="activity_account_text_loading_5_text">Yes, you can!</string>
+    <string name="activity_account_text_loading_4">Can I import my Drake in Evanova?</string>
+    <string name="activity_account_text_loading_4_text">Yes, you can!</string>
 
     <string name="activity_account_scopes_tab_character">Character</string>
     <string name="activity_account_scopes_tab_corporation">Corporation</string>

@@ -30,17 +30,14 @@
   <string name="activity_account_text_loading_1">Erhalte eine kostenlose, personalisierte In-Game-Mail!</string>
   <string name="activity_account_text_loading_1_text">Sende ISK an Evanova Android und erhalte eine kostenlose Danke-E-Mail.</string>
 
-  <string name="activity_account_text_loading_2">Konto wird gelöscht.</string>
-  <string name="activity_account_text_loading_2_text">(nur ein Scherz, wird immer noch geladen …)</string>
+  <string name="activity_account_text_loading_2">Spai-Analyse läuft.</string>
+  <string name="activity_account_text_loading_2_text">Bitte warten, bis wir bestätigt haben, dass du Spai sind.</string>
 
-  <string name="activity_account_text_loading_3">Spai-Analyse läuft.</string>
-  <string name="activity_account_text_loading_3_text">Bitte warten, bis wir bestätigt haben, dass du Spai sind.</string>
+  <string name="activity_account_text_loading_3">Warpe in die Unendlichkeit und darüber hinaus.</string>
+  <string name="activity_account_text_loading_3_text">Hat jemand "Springen" gesagt?</string>
 
-  <string name="activity_account_text_loading_4">Warpe in die Unendlichkeit und darüber hinaus.</string>
-  <string name="activity_account_text_loading_4_text">Hat jemand "Springen" gesagt?</string>
-
-  <string name="activity_account_text_loading_5">Kann ich meine Drake in Evanova importieren?</string>
-  <string name="activity_account_text_loading_5_text">Ja, du kannst!</string>
+  <string name="activity_account_text_loading_4">Kann ich meine Drake in Evanova importieren?</string>
+  <string name="activity_account_text_loading_4_text">Ja, du kannst!</string>
 
   <string name="activity_account_scopes_tab_character">Charakter</string>
   <string name="activity_account_scopes_tab_corporation">Corporation</string>
