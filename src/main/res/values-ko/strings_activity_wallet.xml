@@ -1,0 +1,26 @@
+<resources>
+  <string name="activity_wallet_title">%1$s</string>
+  <string name="activity_wallet_division1">마스터 월렛</string>
+  <string name="activity_wallet_division2">두 번째 지갑</string>
+  <string name="activity_wallet_division3">세번째 지갑</string>
+  <string name="activity_wallet_division4">네번째 지갑</string>
+  <string name="activity_wallet_division5">다섯 번째 지갑</string>
+  <string name="activity_wallet_division6">6 번째 지갑</string>
+  <string name="activity_wallet_division7">7 번째 지갑</string>
+  <string name="activity_wallet_balance">균형</string>
+  <string name="activity_wallet_credit">신용</string>
+  <string name="activity_wallet_from">%1$s에서</string>
+  <string name="activity_wallet_to">%1$s까지</string>
+  <string name="activity_wallet_graph_history">역사</string>
+  <string name="activity_wallet_graph_revenue">수익</string>
+  <string name="activity_wallet_graph_expenses">경비</string>
+  <string name="activity_wallet_history_label">역사</string>
+  <string name="activity_wallet_history_description">지난 3 개월</string>
+  <string name="activity_wallet_transaction_qty">%1$d 개 단위.</string>
+  <string name="activity_wallet_transaction_seller">파는 사람</string>
+  <string name="activity_wallet_transaction_price">가격</string>
+  <string name="activity_wallet_transaction_buyer">사는 사람</string>
+  <string name="activity_wallet_tab_journal">일지</string>
+  <string name="activity_wallet_tab_transactions">업무</string>
+  <string name="activity_wallet_graph_color_dialog_title">색상 세트를 선택하십시오</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="activity_help_tab_about">약</string>
+  <string name="activity_help_tab_changes">변경</string>
+</resources>

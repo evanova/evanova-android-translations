@@ -1,0 +1,13 @@
+<resources>
+  <string name="activity_character_location_unknown">위치 정보가 없습니다</string>
+  <string name="activity_character_balance_unknown">월렛 잔액을 사용할 수 없습니다</string>
+  <string name="activity_character_fatigue">점프 피로 %1$s</string>
+  <string name="activity_character_fatigue_none">점프 피로 없음</string>
+  <string name="activity_character_status_title">보안 상태 %1$s</string>
+  <string name="activity_character_status_text">%1$s- %2$f에서 공격을받습니다</string>
+  <string name="activity_character_ship_unknown">선박 정보가 없습니다</string>
+  <string name="activity_character_dialogs_wallpaperize_title">배경 화면을 설정합니다.</string>
+  <string name="activity_character_dialogs_wallpaperize_text">기기의 배경 화면이이 인물 사진으로 바뀝니다.</string>
+  <string name="activity_character_dialogs_backgroundify_title">배경을 설정하십시오.</string>
+  <string name="activity_character_dialogs_backgroundify_text">응용 프로그램 배경을이 세로로 바꿉니다.</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_colonies_update">%1$s 업데이트</string>
+  <string name="activity_colonies_planet_level">%1$d 레벨</string>
+  <string name="activity_colonies_pin_volume">%1$d m3</string>
+  <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
+  <string name="activity_colonies_pin_cycle">마지막주기 %1$s</string>
+  <string name="activity_colonies_pin_expires">%1$s 만료</string>
+  <string name="activity_colonies_pin_content_title">%1$sx %2$d</string>
+</resources>

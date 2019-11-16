@@ -1,0 +1,9 @@
+<resources>
+  <string name="widget_location_empty">알 수없는 위치</string>
+  <string name="widget_training_empty">교육 대기열이 비어 있습니다</string>
+  <string name="widget_training_next_title">대기열에서 다음</string>
+  <string name="widget_training_next_empty">다른 훈련 없음</string>
+  <string name="widget_training_next_current">%1$s %2$d</string>
+  <string name="widget_training_ends">%1$s에 대기열이 종료됩니다</string>
+  <string name="widget_training_current">%1$s 레벨 %2$s</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="activity_corporations_title">%1$s (%2$s)</string>
+  <string name="activity_corporations_members">회원 %1$d 명</string>
+  <string name="activity_corporations_no_alliance">동맹이 아님</string>
+  <string name="activity_corporations_no_balance">잔액을 사용할 수 없습니다</string>
+  <string name="activity_corporation_npc">NPC Corporation</string>
+  <string name="activity_corporation_ceo">%1$s (CEO)</string>
+  <string name="activity_corporation_founder">%1$s (설립자)</string>
+</resources>

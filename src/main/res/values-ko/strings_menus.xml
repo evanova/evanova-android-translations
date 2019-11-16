@@ -1,0 +1,32 @@
+<resources>
+  <string name="menu_accounts_sso">로그인</string>
+  <string name="menu_search_title">검색</string>
+  <string name="menu_reload_title">새롭게 하다</string>
+  <string name="menu_item_market">시장</string>
+  <string name="menu_item_select">고르다</string>
+  <string name="menu_map_region">부위</string>
+  <string name="menu_market_region">부위</string>
+  <string name="menu_market_item">안건</string>
+  <string name="menu_market_sort_price_asc">가격 Asc</string>
+  <string name="menu_market_sort_price_desc">가격 설명</string>
+  <string name="menu_characters_show_training">훈련</string>
+  <string name="menu_characters_show_location">위치</string>
+  <string name="menu_characters_show_account">계정</string>
+  <string name="menu_wallet_flip_list">일지</string>
+  <string name="menu_wallet_flip_graph">역사</string>
+  <string name="menu_wallet_color_graph">그림 물감</string>
+  <string name="menu_routes_submit">노선</string>
+  <string name="menu_skills_all">모두</string>
+  <string name="menu_skills_trainable">훈련 가능</string>
+  <string name="menu_skills_known">모두 다 아는</string>
+  <string name="menu_skills_add">더하다</string>
+  <string name="menu_skills_plan_delete">명확한</string>
+  <string name="menu_skills_plan_save">저장하기</string>
+  <string name="menu_skills_plan_revert">돌아가다</string>
+  <string name="menu_skills_plan_share">공유</string>
+  <string name="menu_wallpaperize">배경 화면으로 설정</string>
+  <string name="menu_wallpaperize_short">벽지</string>
+  <string name="menu_backgroundify">배경으로 설정</string>
+  <string name="menu_backgroundify_short">배경</string>
+  <string name="menu_settings_character">캐릭터 설정</string>
+</resources>

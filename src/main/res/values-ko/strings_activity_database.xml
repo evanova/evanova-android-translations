@@ -1,0 +1,5 @@
+<resources>
+  <string name="activity_database_title">품목 데이터베이스</string>
+  <string name="activity_database_tab_items">아이템</string>
+  <string name="activity_database_tab_recent">충적세</string>
+</resources>
