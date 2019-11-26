@@ -5,7 +5,6 @@
   <string name="activity_dashboard_o7">o7</string>
   <string name="activity_dashboard_button_sso">キャラクターを追加</string>
   <string name="activity_dashboard_update_title">アプリケーション更新</string>
-  <string name="activity_dashboard_update_restart">一部の変更を有効にするには再起動が必要です。</string>
   <string name="activity_dashboard_update_description">\n変更の詳細な一覧については、aboutセクションを確認してください。</string>
   <string name="activity_dashboard_update_about">Evanovaについて</string>
   <string name="activity_dashboard_update_text">Evanovaアップデート</string>
@@ -14,7 +13,7 @@
   <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
   <string name="activity_dashboard_adapter_title_news">イブオンラインニュース</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%2$sまで%1$dのスキル</string>
+  <string name="activity_dashboard_adapter_training_when">%2$sまで %1$d のスキル</string>
   <string name="activity_dashboard_adapter_training_title">トレーニングキュー</string>
   <string name="activity_dashboard_adapter_training_empty">トレーニングキューが空です</string>
   <string name="activity_dashboard_adapter_training_inactive">トレーニングキューは無効です</string>

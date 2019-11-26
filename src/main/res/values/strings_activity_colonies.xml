@@ -8,4 +8,8 @@
     <string name="activity_colonies_pin_cycle">Last Cycle %1$s</string>
     <string name="activity_colonies_pin_expires">Expires %1$s</string>
     <string name="activity_colonies_pin_content_title">%1$s x %2$d</string>
+
+    <string name="activity_colonies_pins_tab_title">Pins</string>
+    <string name="activity_colonies_layout_tab_title">Layout</string>
+
 </resources>

@@ -1,7 +1,7 @@
 <resources>
   <string name="activity_calendar_untitled">無題</string>
-  <string name="activity_calendar_duration_remaining">今から%s</string>
-  <string name="activity_calendar_duration_elapsed">%s前</string>
+  <string name="activity_calendar_duration_remaining">今から％s</string>
+  <string name="activity_calendar_duration_elapsed">％s前</string>
   <string name="activity_calendar_list">リスト</string>
   <string name="activity_calendar_grid">グリッド</string>
 </resources>

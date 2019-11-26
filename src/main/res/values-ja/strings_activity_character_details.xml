@@ -9,7 +9,7 @@
   <string name="activity_character_details_history_deleted"/>
   <string name="activity_character_details_history_duration">%1$sのメンバー</string>
   <string name="activity_character_details_history_since">%1$s以降</string>
-  <string name="activity_character_details_history_between">%1$sから%2$sへ</string>
+  <string name="activity_character_details_history_between">%1$sから％2 $ sへ</string>
   <string name="activity_character_details_location_none">位置情報なし</string>
   <string name="activity_character_details_clone_unknown">無名：</string>
   <string name="activity_character_details_jump_activation_none">アクティブ</string>
@@ -26,5 +26,5 @@
   <string name="activity_character_details_clones_jump_unknown">ラストジャンプ不明</string>
   <string name="activity_character_details_remap_last_unknown">道の</string>
   <string name="activity_character_details_remap_free_none">無し</string>
-  <string name="activity_character_details_remap_free">%1$dリマップ可能</string>
+  <string name="activity_character_details_remap_free">%1$d リマップ可能</string>
 </resources>

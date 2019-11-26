@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_skills_list_title">Compétences</string>
-  <string name="activity_skills_list_description"/>
   <string name="activity_skills_list_description_all">Tout</string>
   <string name="activity_skills_list_description_trainable">Entraînable</string>
   <string name="activity_skills_list_description_known">Connu</string>

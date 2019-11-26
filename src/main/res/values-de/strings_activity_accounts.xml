@@ -2,7 +2,6 @@
 <resources>
 
   <string name="activity_account_title">Charaktere</string>
-  <string name="activity_account_description"/>
 
   <string name="activity_account_text_ship">%1$s (%2$s)</string>
 

@@ -1,150 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="preferences_restart_message">Чтобы изменения вступили в силу, необходимо перезапустить приложение.</string>
-  <string name="preferences_category_online">EVE Online</string>
-  <string name="preferences_category_display">дисплей</string>
-  <string name="preferences_category_notifications">Уведомления</string>
-  <string name="preferences_online_metered_title">Не пользуйтесь лимитироваными сетями</string>
-  <string name="preferences_online_metered_summary">Избегайте использования мобильных или других сетей, которые могут стоить вам денег.</string>
-  <string name="preferences_notification_title_summary">Включить / отключить все уведомления (это отменяет любые настройки уведомлений персонажа)</string>
-  <string name="preferences_notification_title">Включить уведомления</string>
-  <string name="preferences_frequency_title">Частота обновления</string>
-  <string name="preferences_frequency_summary">Выберите, как часто данные обновляются в фоновом режиме. Обратите внимание, что частое обновление может разрядить аккумулятор, если у вас много персонажей.</string>
-  <string name="preferences_notification_cancel_title">Авто-отменить</string>
-  <string name="preferences_notification_cancel_summary">Автоматически отклонять уведомление при выборе.</string>
-  <string name="preferences_drawer_dock_title">Пристыкованный ящик</string>
-  <string name="preferences_drawer_dock_summary">Держите ящик видимым всегда (доступно только на экранах с высоким разрешением).</string>
-  <string name="preferences_dashboard_news_title">Ева Новости</string>
-  <string name="preferences_dashboard_news_summary">Показать Eve News на приборной панели (требуется перезагрузка).</string>
-  <string name="preferences_locale_title">Используйте канун времени</string>
-  <string name="preferences_locale_summary">Отображение информации на основе времени в канун времени вместо времени вашего устройства.</string>
-  <string name="preferences_background_title">Фон приложения</string>
-  <string name="preferences_background_summary">Измените изображение, используемое в качестве фона приложения.</string>
-  <string name="preferences_background_select">Выберите фон</string>
-  <string name="preferences_display_title">Фон персонажа</string>
-  <string name="preferences_display_summary">Выберите изображение, отображаемое в качестве фона экрана основного персонажа.</string>
-  <string name="preferences_character_update_summary">Включить / исключить этого персонажа из фоновых обновлений, чтобы сэкономить заряд батареи. Вы по-прежнему сможете перезагрузить данные вручную.</string>
-  <string name="preferences_character_update_title">Фоновое обновление</string>
-  <string name="preferences_character_notifications_summary">Включить / отключить уведомления для этого персонажа. Обратите внимание, что настройки уведомлений приложения все еще применяются.</string>
-  <string name="preferences_character_notifications_title">Уведомления</string>
-  <string name="preferences_character_dashboard_list_title">Фильтр приборной панели</string>
-  <string name="preferences_character_dashboard_list_dialog">Выберите, что отображать на приборной панели.</string>
-  <string name="preferences_character_dashboard_list_summary">Настроить, что отображать на приборной панели.</string>
-  <string name="preferences_character_notifications_list_summary">Настройте, какие уведомления отображаются на панели уведомлений вашего устройства.</string>
-  <string name="preferences_character_notifications_list_title">Фильтр уведомлений</string>
-  <string name="preferences_character_notifications_list_dialog">Выберите, какие уведомления отображать</string>
-  <string name="preferences_character_expiration_list_title">Фильтр истечения</string>
-  <string name="preferences_character_expiration_list_dialog">Выберите срок действия</string>
-  <string name="preferences_character_expiration_list_summary">Фильтруйте уведомления или события панели мониторинга по возрасту. Это полезно, если у вас есть индустрия или другие старые вещи, которые вам не нужны</string>
-  <string name="preferences_language_title">Язык</string>
-  <string name="preferences_language_summary">Измените язык базы данных Евы и некоторых частей Evanova. Обратите внимание, что в настоящее время нет перевода пользовательского интерфейса. Это экспериментальная функция, которая не гарантируется, поэтому используйте ее на свой страх и риск.</string>
-  <string-array name="preferences_frequency_entries" translatable="false">
-    <item>Disabled</item>
-    <item>15mn</item>
-    <item>Half Hourly</item>
-    <item>Hourly</item>
-    <item>4 Hours</item>
-    <item>Half Daily (default)</item>
-    <item>Daily</item>
-  </string-array>
-  <string-array name="preferences_frequency_values" translatable="false">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-  </string-array>
-  <string-array name="preferences_background_entries" translatable="false">
-    <item>Nothing</item>
-    <item>Planet</item>
-    <item>Moon</item>
-    <item>Pick…</item>
-  </string-array>
-  <string-array name="preferences_background_values" translatable="false">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="preferences_display_entries" translatable="false">
-    <item>Nothing</item>
-    <item>Application Background</item>
-    <item>Character Ship</item>
-    <item>Character Portrait</item>
-  </string-array>
-  <string-array name="preferences_display_values" translatable="false">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
+    <string name="preferences_restart_message">Чтобы изменения вступили в силу, необходимо перезапустить приложение.</string>
+    <string name="preferences_category_online">EVE Online</string>
+    <string name="preferences_category_display">дисплей</string>
+    <string name="preferences_category_notifications">Уведомления</string>
+    <string name="preferences_online_metered_title">Не пользуйтесь лимитироваными сетями</string>
+    <string name="preferences_online_metered_summary">Избегайте использования мобильных или других сетей, которые могут стоить вам денег.</string>
+    <string name="preferences_notification_title_summary">Включить / отключить все уведомления (это отменяет любые настройки уведомлений персонажа)</string>
+    <string name="preferences_notification_title">Включить уведомления</string>
+    <string name="preferences_frequency_title">Частота обновления</string>
+    <string name="preferences_frequency_summary">Выберите, как часто данные обновляются в фоновом режиме. Обратите внимание, что частое обновление может разрядить аккумулятор, если у вас много персонажей.</string>
+    <string name="preferences_notification_cancel_title">Авто-отменить</string>
+    <string name="preferences_notification_cancel_summary">Автоматически отклонять уведомление при выборе.</string>
+    <string name="preferences_drawer_dock_title">Пристыкованный ящик</string>
+    <string name="preferences_drawer_dock_summary">Держите ящик видимым всегда (доступно только на экранах с высоким разрешением).</string>
+    <string name="preferences_dashboard_news_title">Ева Новости</string>
+    <string name="preferences_dashboard_news_summary">Показать Eve News на приборной панели (требуется перезагрузка).</string>
+    <string name="preferences_locale_title">Используйте канун времени</string>
+    <string name="preferences_locale_summary">Отображение информации на основе времени в канун времени вместо времени вашего устройства.</string>
+    <string name="preferences_background_title">Фон приложения</string>
+    <string name="preferences_background_summary">Измените изображение, используемое в качестве фона приложения.</string>
+    <string name="preferences_background_select">Выберите фон</string>
+    <string name="preferences_display_title">Фон персонажа</string>
+    <string name="preferences_display_summary">Выберите изображение, отображаемое в качестве фона экрана основного персонажа.</string>
+    <string name="preferences_character_update_summary">Включить / исключить этого персонажа из фоновых обновлений, чтобы сэкономить заряд батареи. Вы по-прежнему сможете перезагрузить данные вручную.</string>
+    <string name="preferences_character_update_title">Фоновое обновление</string>
+    <string name="preferences_character_notifications_summary">Включить / отключить уведомления для этого персонажа. Обратите внимание, что настройки уведомлений приложения все еще применяются.</string>
+    <string name="preferences_character_notifications_title">Уведомления</string>
+    <string name="preferences_character_dashboard_list_title">Фильтр приборной панели</string>
+    <string name="preferences_character_dashboard_list_dialog">Выберите, что отображать на приборной панели.</string>
+    <string name="preferences_character_dashboard_list_summary">Настроить, что отображать на приборной панели.</string>
+    <string name="preferences_character_notifications_list_summary">Настройте, какие уведомления отображаются на панели уведомлений вашего устройства.</string>
+    <string name="preferences_character_notifications_list_title">Фильтр уведомлений</string>
+    <string name="preferences_character_notifications_list_dialog">Выберите, какие уведомления отображать</string>
+    <string name="preferences_character_expiration_list_title">Фильтр истечения</string>
+    <string name="preferences_character_expiration_list_dialog">Выберите срок действия</string>
+    <string name="preferences_character_expiration_list_summary">Фильтруйте уведомления или события панели мониторинга по возрасту. Это полезно, если у вас есть индустрия или другие старые вещи, которые вам не нужны</string>
+    <string name="preferences_language_title">Язык)</string>
+    <string name="preferences_language_summary">Измените язык базы данных Евы и некоторых частей Evanova. Обратите внимание, что в настоящее время нет перевода пользовательского интерфейса. Это экспериментальная функция, которая не гарантируется, поэтому используйте ее на свой страх и риск.</string>
 
-  <string-array name="preferences_character_dashboard_filter_values" translatable="false">
-    <item>preferences.dashboard.calendar</item>
-    <item>preferences.dashboard.colonies</item>
-    <item>preferences.dashboard.contracts</item>
-    <item>preferences.dashboard.industry</item>
-    <item>preferences.dashboard.mails</item>
-    <item>preferences.dashboard.notifications</item>
-    <item>preferences.dashboard.training</item>
-  </string-array>
-  <string-array name="preferences_character_notifications_list_entries" translatable="false">
-    <item>Character training</item>
-    <item>Mail</item>
-    <item>Notifications</item>
-    <item>Outstanding Contracts</item>
-    <item>Industry Jobs and Mining</item>
-    <item>Calendar Events</item>
-    <item>Inactive Colony Installation</item>
-  </string-array>
-
-  <string-array name="preferences_character_expiration_list_entries" translatable="false">
-    <item>1 Day</item>
-    <item>2 Days</item>
-    <item>1 Week</item>
-    <item>1 Month (default)</item>
-    <item>6 Month</item>
-    <item>1 Year</item>
-    <item>Never</item>
-  </string-array>
-  <string-array name="preferences_character_expiration_list_values" translatable="false">
-    <item>1</item>
-    <item>2</item>
-    <item>7</item>
-    <item>30</item>
-    <item>182</item>
-    <item>365</item>
-    <item>0</item>
-  </string-array>
-
-
-  <string name="preferences_language_dialog_summary">Измените язык интерфейса Evanova и базы данных товаров.
+    <string name="preferences_language_dialog_summary">Измените язык интерфейса Evanova и базы данных товаров.
         \n\nОбратите внимание, что это неполная функция, которая может привести к неправильному отображению или сбоям.
         Посмотрите раздел О том, как вы можете помочь с переводом Evanova.</string>
 
 
-  <string name="preferences_language_dialog_ui">Применить к интерфейсу Evanova</string>
-  <string name="preferences_language_dialog_database">Применить к базе данных предметов Евы.</string>
+    <string name="preferences_language_dialog_ui">Применить к интерфейсу Evanova</string>
+    <string name="preferences_language_dialog_database">Применить к базе данных предметов Евы.</string>
 
-  <string name="preferences_category_cache">Кэш приложения</string>
-  <string name="preferences_cache_title">Данные Приложения</string>
-  <string name="preferences_cache_summary">Очистить кэшированные данные.</string>
-  <string name="preferences_cache_dialog_title">Очистить кэш</string>
-  <string name="preferences_cache_dialog_summary">Это очистит изображения Eve Online, хранящиеся в настоящее время от Evanova, а также недавно загруженные данные.</string>
-  <string name="preferences_category_location">локализация</string>
+    <string name="preferences_category_cache">Кэш приложения</string>
+    <string name="preferences_cache_title">Данные Приложения</string>
+    <string name="preferences_cache_summary">Очистить кэшированные данные.</string>
+    <string name="preferences_cache_dialog_title">Очистить кэш</string>
+    <string name="preferences_cache_dialog_summary">Это очистит изображения Eve Online, хранящиеся в настоящее время от Evanova, а также недавно загруженные данные.</string>
+    <string name="preferences_category_location">локализация</string>
 
-  <string name="preferences_character_dashboard_show_title">дисплей</string>
-  <string name="preferences_character_dashboard_show_summary">Настройте, что отображать.</string>
 
-  <string name="preferences_character_dashboard_notifications">Фоновое обновление / Уведомления</string>
+    <string name="preferences_character_dashboard_notifications">Фоновое обновление / Уведомления</string>
 
-  <string name="preferences_character_dashboard_category">Приборная доска</string>
-  <string name="preferences_character_dashboard_events_title">Только события</string>
-  <string name="preferences_character_dashboard_events_summary">Показывать персонажа только на выбранных событиях.</string>
-  <string name="preferences_character_dashboard_pinned_title">Всегда</string>
-  <string name="preferences_character_dashboard_pinned_summary">Всегда показывать этого персонажа</string>
-  <string name="preferences_cleared_message">Кэш был очищен.</string>
-
+    <string name="preferences_character_dashboard_category">Приборная доска</string>
+    <string name="preferences_character_dashboard_events_title">Только события</string>
+    <string name="preferences_character_dashboard_events_summary">Показывать персонажа только на выбранных событиях.</string>
+    <string name="preferences_character_dashboard_pinned_title">Всегда</string>
+    <string name="preferences_character_dashboard_pinned_summary">Всегда показывать этого персонажа</string>
+    <string name="preferences_cleared_message">Кэш был очищен.</string>
+    <string name="preferences_dialog_restart_title"> Требуется перезагрузка </string>
+        
+    <string name="preferences_dialog_restart_text"> Приложение будет перезапущено, чтобы это изменение вступило в силу. </string>
+    <string name = "preferences_language_dialog_download"> Требуется дополнительная загрузка.</string>
+         <string name = "preferences_language_dialog_installed"> Уже установлен.</string>
+         <string name = "preferences_language_dialog_download_canceled">Отменено</string>
+         <string name = "preferences_language_dialog_download_installing">Установка</string>
+         <string name = "preferences_language_dialog_install_failed">Установка не удалась</string>
+         <string name = "preferences_language_dialog_download_failed">Загрузка не удалась\n%1$s</string>
 </resources>

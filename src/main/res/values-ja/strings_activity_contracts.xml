@@ -1,6 +1,6 @@
 <resources>
   <string name="activity_contracts_title">%1$s</string>
-  <string name="activity_contracts_description">%1$d契約</string>
+  <string name="activity_contracts_description">%1$d 契約</string>
   <string name="activity_contracts_menu_asc">Asc</string>
   <string name="activity_contracts_menu_desc">説明</string>
   <string name="activity_contracts_tab_all">すべて</string>

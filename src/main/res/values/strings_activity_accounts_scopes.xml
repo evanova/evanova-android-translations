@@ -90,6 +90,11 @@
         <item>esi-characters.write_contacts.v1</item>
     </string-array>
 
+    <string-array name="activity_account_scopes_fleet" translatable="false">
+        <item>esi-fleets.read_fleet.v1</item>
+        <item>esi-fleets.write_fleet.v1</item>
+    </string-array>
+
     <string-array name="activity_account_scopes_contacts_c" translatable="false">
         <item>esi-corporations.read_standings.v1</item>
         <item>esi-corporations.read_contacts.v1</item>

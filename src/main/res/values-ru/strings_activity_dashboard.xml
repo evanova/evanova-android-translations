@@ -32,7 +32,6 @@
     <item quantity="one">%1$d корпорация</item>
     <item quantity="other">%1$d корпорации</item>
   </plurals>
-  <string name="activity_dashboard_update_restart">Для вступления в силу некоторых изменений требуется перезагрузка.</string>
   <string name="activity_dashboard_summary">Резюме</string>
 
 </resources>

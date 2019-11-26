@@ -2,5 +2,6 @@
 <resources>
 
     <string name="activity_notifications_description">Notifications</string>
-
+    <string name="activity_notifications_all_read">Mark all read</string>
+    <string name="activity_notifications_all_read_confirmation">Mark %1$d notifications as read?</string>
 </resources>

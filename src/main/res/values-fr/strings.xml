@@ -31,6 +31,7 @@
   <string name="preferences_character_dashboard_events_summary">Afficher uniquement les événements sélectionnés.</string>
   <string name="preferences_character_dashboard_pinned_title">Toujours</string>
   <string name="preferences_character_dashboard_pinned_summary">Toujour afficher ce personnage</string>
-  <string name="preferences_character_dashboard_show_title">Affichage</string>
-  <string name="preferences_character_dashboard_show_summary">Configuer quoi afficher.</string>
+  <string name="menu_reload_title">Recharger</string>
+    <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
+  <string name="preferences_character_dashboard_show_title">Événements</string>
 </resources>

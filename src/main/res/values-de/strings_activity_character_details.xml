@@ -4,7 +4,7 @@
   <string name="activity_character_details_clones_title">Klone</string>
   <string name="activity_character_details_summary_title">Verlauf</string>
 
-  <string name="activity_character_details_age">Alter: %1$s/string>
+  <string name="activity_character_details_age">Alter: %1$s</string>
   <string name="activity_character_details_birthdate">Erstellt am %1$s</string>
   <string name="activity_character_details_logged">Letzter Login %1$s (%2$d Logins)</string>
 

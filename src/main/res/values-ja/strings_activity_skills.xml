@@ -1,6 +1,5 @@
 <resources>
   <string name="activity_skills_list_title">スキル</string>
-  <string name="activity_skills_list_description"/>
   <string name="activity_skills_list_description_all">すべて</string>
   <string name="activity_skills_list_description_trainable">トレーニング可能</string>
   <string name="activity_skills_list_description_known">知られている</string>
@@ -15,19 +14,19 @@
   <string name="activity_skills_requirements">必要条件</string>
   <string name="activity_skills_multiplier">トレーニング時間乗数</string>
   <string name="activity_skills_requirement_text">%1$s%2$d</string>
-  <string name="activity_skills_group_description">%1$dスキル</string>
-  <string name="activity_skills_character_group_description">%2$d / %1$dのスキルが訓練されました - 訓練中の％3$d  - 計画された％4$d</string>
+  <string name="activity_skills_group_description">%1$d スキル</string>
+  <string name="activity_skills_character_group_description">%2$d / %1$d のスキルが訓練されました - 訓練中の %3$d  - 計画された %4$d</string>
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
   <string name="activity_skills_export_title">トレーニングキュー</string>
   <string name="activity_skills_ends">%1$sを終了します</string>
-  <string name="activity_skills_queued">%1$sから%2$sへ</string>
+  <string name="activity_skills_queued">%1$sから％2 $ sへ</string>
   <string name="activity_skills_completed">トレーニング終了</string>
   <string name="activity_skills_queue_empty">トレーニングキューが空です</string>
   <string name="activity_skills_queue_inactive">トレーニングキューは無効です</string>
   <string name="activity_skills_queue_skill_active">%1$s%2$d</string>
-  <string name="activity_skills_queue_ends">キューは%1$s（%2$s）で終了します</string>
+  <string name="activity_skills_queue_ends">キューは%1$s（％2 $ s）で終了します</string>
   <string name="activity_skills_queue_count">キューの%1$dスキル - %2$d終了 - ％3 $ d計画中</string>
   <string name="activity_skills_queue_saved">イブオンラインを征服するあなたの邪悪な計画が記録されています。</string>
   <string name="activity_skills_queue_reverted">スキルプランは元に戻りました。</string>

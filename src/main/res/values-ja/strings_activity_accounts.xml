@@ -1,7 +1,6 @@
 <resources>
   <string name="activity_account_title">キャラクター</string>
-  <string name="activity_account_description"/>
-  <string name="activity_account_text_ship">%1$s（%2$s）</string>
+    <string name="activity_account_text_ship">%1$s（％2 $ s）</string>
   <string name="activity_account_text_2">%1$d ESIスコープ</string>
   <string name="activity_account_text_3">最後に記録された%1$s（%2$dログイン）</string>
   <string name="activity_account_text_reload">このアカウントは再インポートする必要があります。</string>
@@ -12,7 +11,7 @@
   <string name="activity_account_dialog_delete_text">選択した文字からすべての情報が削除されます。本気ですか？</string>
   <string name="activity_account_training_text_2_empty">トレーニングキューが空です</string>
   <string name="activity_account_training_text_2">キュー内のスキル%1$d</string>
-  <string name="activity_account_training_text_3">キューは%1$s（%2$s）で終了します</string>
+  <string name="activity_account_training_text_3">キューは%1$s（％2 $ s）で終了します</string>
   <string name="activity_account_training_text_4">%1$s%2$d（％3 $ s）</string>
   <string name="activity_account_text_loading_title">文字情報をロードしています。</string>
   <string name="activity_account_text_loading_0">あなたが待っている間に寄付する！</string>

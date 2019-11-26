@@ -30,8 +30,8 @@
   <string name="preferences_character_dashboard_events_title">特定事件</string>
   <string name="preferences_character_dashboard_pinned_summary">始终显示此角色</string>
   <string name="preferences_character_dashboard_pinned_title">总是</string>
-  <string name="preferences_character_dashboard_show_title">显示</string>
   <string name="preferences_character_dashboard_events_summary">仅在选定事件上显示人物</string>
-  <string name="preferences_character_dashboard_show_summary">设置要显示的内容</string>
   <string name="menu_reload_title">刷新</string>
+    <string name="preferences_character_dashboard_show_summary">" 在仪表板上显示事件。"</string>
+  <string name="preferences_character_dashboard_show_title">活动</string>
 </resources>
