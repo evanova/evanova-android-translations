@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_calendar_untitled">제목 없음</string>
-  <string name="activity_calendar_duration_remaining">지금부터 %s</string>
-  <string name="activity_calendar_duration_elapsed">%s 전</string>
-  <string name="activity_calendar_list">명부</string>
-  <string name="activity_calendar_grid">그리드</string>
+    <string name="activity_calendar_untitled">제목 없음</string>
+    <string name="activity_calendar_duration_remaining">지금부터 %s</string>
+    <string name="activity_calendar_duration_elapsed">%s 전</string>
+    <string name="activity_calendar_list">목록</string>
+    <string name="activity_calendar_grid">격자보기</string>
 </resources>

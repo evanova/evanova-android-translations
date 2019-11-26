@@ -36,6 +36,13 @@ public final class GoogleTranslator implements Translator {
 
     @Override
     public String translate(final String text) {
+        return translateImpl(text, this.languageFrom, this.languageTo);
+    }
+
+    private static String translateImpl(
+            final String text,
+            final String languageFrom,
+            final String languageTo) {
         if (StringUtils.isBlank(text)) {
             return text;
         }
@@ -43,8 +50,8 @@ public final class GoogleTranslator implements Translator {
             Translation translation = google.translate(
                     text,
                     Translate.TranslateOption.model("nmt"),
-                    Translate.TranslateOption.sourceLanguage(this.languageFrom),
-                    Translate.TranslateOption.targetLanguage(this.languageTo));
+                    Translate.TranslateOption.sourceLanguage(languageFrom),
+                    Translate.TranslateOption.targetLanguage(languageTo));
             return translation.getTranslatedText();
         } catch (Exception e) {
             System.err.println(e.getLocalizedMessage());
@@ -52,5 +59,4 @@ public final class GoogleTranslator implements Translator {
             return text;
         }
     }
-
 }
