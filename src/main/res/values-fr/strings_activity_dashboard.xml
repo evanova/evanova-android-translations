@@ -3,7 +3,7 @@
   <string name="activity_dashboard_text">Vous ne semblez pas avoir de personnage inscrit à Evanova. Commencez par en ajouter un.</string>
   <string name="activity_dashboard_welcome">Bienvenue sur Evanova</string>
   <string name="activity_dashboard_banner">Bienvenue sur Evanova</string>
-    <string name="activity_dashboard_button_sso">Ajouter un personnage</string>
+  <string name="activity_dashboard_button_sso">Ajouter un personnage</string>
   <string name="activity_dashboard_update_title">Mise à jour de l\'application</string>
   <string name="activity_dashboard_update_description">Consultez la section A Propos pour une liste détaillée des changements.</string>
   <string name="activity_dashboard_update_about">À propos d\'Evanova</string>

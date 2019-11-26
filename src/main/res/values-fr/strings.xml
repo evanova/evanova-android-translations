@@ -20,7 +20,7 @@
   <string name="drawer_fittings">Assemblages</string>
   <string name="drawer_server">Serveur</string>
   <string name="search_items_hint">Rechercher des articles</string>
-    <string name="activity_help_tab_about">A Propos</string>
+  <string name="activity_help_tab_about">A Propos</string>
   <string name="activity_help_tab_changes">Modifications</string>
   <string name="activity_mailboxes_apply_online">Appliquer cette action en-ligne</string>
   <string name="activity_assets_description_corporation">Biens Corporatifs</string>
@@ -32,6 +32,6 @@
   <string name="preferences_character_dashboard_pinned_title">Toujours</string>
   <string name="preferences_character_dashboard_pinned_summary">Toujour afficher ce personnage</string>
   <string name="menu_reload_title">Recharger</string>
-    <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
+  <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
   <string name="preferences_character_dashboard_show_title">Événements</string>
 </resources>

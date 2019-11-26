@@ -67,9 +67,9 @@
         
     <string name="preferences_dialog_restart_text"> Приложение будет перезапущено, чтобы это изменение вступило в силу. </string>
     <string name = "preferences_language_dialog_download"> Требуется дополнительная загрузка.</string>
-         <string name = "preferences_language_dialog_installed"> Уже установлен.</string>
-         <string name = "preferences_language_dialog_download_canceled">Отменено</string>
-         <string name = "preferences_language_dialog_download_installing">Установка</string>
-         <string name = "preferences_language_dialog_install_failed">Установка не удалась</string>
-         <string name = "preferences_language_dialog_download_failed">Загрузка не удалась\n%1$s</string>
+    <string name = "preferences_language_dialog_installed"> Уже установлен.</string>
+    <string name = "preferences_language_dialog_download_canceled">Отменено</string>
+    <string name = "preferences_language_dialog_download_installing">Установка</string>
+    <string name = "preferences_language_dialog_install_failed">Установка не удалась</string>
+    <string name = "preferences_language_dialog_download_failed">Загрузка не удалась\n%1$s</string>
 </resources>

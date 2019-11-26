@@ -24,7 +24,7 @@
   <string name="search_items_hint">Gegenstand suchen</string>
   <string name="preferences_character_dashboard_show_summary">" Ereignisse im Dashboard anzeigen."</string>
   <string name="preferences_character_dashboard_show_title">Veranstaltungen</string>
-    <string name="activity_help_tab_about">Über</string>
+  <string name="activity_help_tab_about">Über</string>
   <string name="activity_help_tab_changes">Änderungen</string>
 
 </resources>

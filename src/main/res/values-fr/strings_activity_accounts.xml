@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_account_title">Personnages</string>
-    <string name="activity_account_text_ship">%1$s (%2$s)</string>
+  <string name="activity_account_text_ship">%1$s (%2$s)</string>
   <string name="activity_account_text_2">%1$d portées ESI</string>
   <string name="activity_account_text_3">Dernière connexion le %1$s (%2$d connexions)</string>
   <string name="activity_account_text_reload">Ce compte doit être réimporté.</string>

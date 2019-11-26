@@ -54,7 +54,7 @@
   <string name="preferences_cache_dialog_title">캐시 지우기</string>
   <string name="preferences_cache_dialog_summary">그러면 Evanova가 현재 저장 한 Eve Online 이미지와 최근에 다운로드 한 데이터가 지워집니다.</string>
   <string name = "preferences_character_dashboard_show_title"> 이벤트 </string>
-       <string name = "preferences_character_dashboard_show_summary"> 대시 보드에 캐릭터 이벤트를 표시합니다. </string>
+  <string name = "preferences_character_dashboard_show_summary"> 대시 보드에 캐릭터 이벤트를 표시합니다. </string>
 
   <string name = "preferences_language_dialog_download">추가 다운로드가 필요합니다.</string>
   <string name = "preferences_language_dialog_installed">이미 설치되었습니다.</string>
