@@ -33,8 +33,6 @@
   <string name="preferences_character_update_title">バックグラウンドアップデート</string>
   <string name="preferences_character_notifications_summary">このキャラクターの通知を有効/無効にします。アプリケーションの通知設定は依然として適用されることに注意してください。</string>
   <string name="preferences_character_notifications_title">通知</string>
-  <string name="preferences_character_dashboard_show_title">表示</string>
-  <string name="preferences_character_dashboard_show_summary">何を表示するかを設定します。</string>
   <string name="preferences_character_dashboard_list_title">フィルタ</string>
   <string name="preferences_character_dashboard_list_dialog">ダッシュボードに表示するものを選択します。</string>
   <string name="preferences_character_dashboard_list_summary">ダッシュボードに表示されるイベントをフィルタリングします。</string>
@@ -55,4 +53,17 @@
   <string name="preferences_cache_summary">Evanovaからキャッシュされたデータを消去します。</string>
   <string name="preferences_cache_dialog_title">キャッシュの消去</string>
   <string name="preferences_cache_dialog_summary">これにより、Evanovaによって現在保存されているEve Onlineの画像と最近ダウンロードされたデータが消去されます。</string>
+  <string name="preferences_dialog_restart_title">再起動が必要</string>
+        
+  <string name="preferences_dialog_restart_text">この変更を有効にするために、アプリケーションが再起動されます</string>
+  <string name="preferences_language_dialog_installed">インストール済み</string>
+        
+  <string name="preferences_language_dialog_download_canceled">キャンセル</string>
+        
+  <string name="preferences_language_dialog_download_installing">インストール</string>
+        
+  <string name="preferences_language_dialog_install_failed">インストールに失敗しました\n%1$s</string>
+        
+  <string name="preferences_language_dialog_download_failed">ダウンロードに失敗しました</string>
+  <string name="preferences_language_dialog_download">追加のダウンロードが必要です。</string>
 </resources>

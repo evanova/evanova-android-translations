@@ -9,8 +9,8 @@
   <string name="activity_mailboxes_killmails_title">メールを殺す</string>
   <string name="activity_mailboxes_killmails_description">ZKillboard提供のデータ）</string>
   <string name="activity_mailboxes_list_messages_none">メッセージなし</string>
-  <string name="activity_mailboxes_list_messages_total">%d件のメッセージ</string>
-  <string name="activity_mailboxes_list_messages_unread">未読%d</string>
+  <string name="activity_mailboxes_list_messages_total">％d件のメッセージ</string>
+  <string name="activity_mailboxes_list_messages_unread">未読％d</string>
   <string name="activity_mailboxes_killmail_pager_attackers">攻撃者</string>
   <string name="activity_mailboxes_killmail_pager_details">詳細</string>
   <string name="activity_mailboxes_killmail_dropped">落とした</string>
@@ -32,10 +32,10 @@
   <string name="activity_mailboxes_mail_send_error">ゲーム内メールを送信できません。</string>
   <string name="activity_mailboxes_mail_send_success">メールは正常に送信されました。</string>
   <string name="activity_mailboxes_dialog_delete_title">メッセージを削除</string>
-  <string name="activity_mailboxes_dialog_delete_text">%1$d件のメッセージが削除されます。これをオンラインで適用するとゲーム内でそれらを削除しようとします。</string>
+  <string name="activity_mailboxes_dialog_delete_text">%1$d 件のメッセージが削除されます。これをオンラインで適用するとゲーム内でそれらを削除しようとします。</string>
   <string name="activity_mailboxes_edit_validation">一部のフィールドが欠落しているか無効です。</string>
   <string name="activity_mailboxes_widget_reply_title">再：%1$s</string>
-  <string name="activity_mailboxes_widget_reply_body">\n送信元</string>
-  <string name="activity_mailboxes_share_text">%1$s \n \n%2$s \n \nからEvanovaから送信（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
+  <string name="activity_mailboxes_widget_reply_body">\ n送信元</string>
+  <string name="activity_mailboxes_share_text">%1$s \n\n%2$s\n\nからEvanovaから送信（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
   <string name="activity_mailboxes_apply_online">このアクションをオンラインで適用してください。</string>
 </resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name = "app_dismiss">닫기</string>
+   <string name = "app_restart">다시 시작</string>
+   <string name = "app_cancel">취소</string>
+   <string name = "app_clear">지우기</string>
+   <string name = "app_ok">확인</string>
+   <string name = "app_add">추가</string>
+   <string name = "app_close">닫기</string>
+   <string name = "app_import">가져 오기</string>
+
+   <string name = "drawer_items">데이터베이스</string>
+   <string name = "drawer_login">문자 추가</string>
+   <string name = "drawer_characters">문자</string>
+   <string name = "drawer_corporations">법인</string>
+   <string name = "drawer_about">정보</string>
+   <string name = "drawer_settings">설정</string>
+   <string name = "drawer_skills">스킬</string>
+   <string name = "drawer_routes">경로</string>
+   <string name = "drawer_maps">지도</string>
+   <string name = "drawer_fittings">피팅</string>
+   <string name = "drawer_server">서버</string>
+
+   <string name = "search_items_hint">검색 항목</string>
+
+</resources>

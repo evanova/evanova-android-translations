@@ -50,8 +50,8 @@
     <string name="preferences_character_notifications_summary">Enable / disable notifications for this character. Note that the application\'s notifications settings still apply.</string>
     <string name="preferences_character_notifications_title">Notifications</string>
 
-    <string name="preferences_character_dashboard_show_title">Display</string>
-    <string name="preferences_character_dashboard_show_summary">Configure what to display.</string>
+    <string name="preferences_character_dashboard_show_title">Events</string>
+    <string name="preferences_character_dashboard_show_summary">Show character events on the dashboard.</string>
 
     <string name="preferences_character_dashboard_list_title">Filter</string>
     <string name="preferences_character_dashboard_list_dialog">Select what to display on the dashboard.</string>
@@ -77,12 +77,19 @@
 
     <string name="preferences_language_dialog_ui">Apply to Evanova\'s interface.</string>
     <string name="preferences_language_dialog_database">Apply to Eve items\' database.</string>
+    <string name="preferences_language_dialog_download">Requires an additional download.</string>
+    <string name="preferences_language_dialog_installed">Already installed.</string>
+    <string name="preferences_language_dialog_download_canceled">Canceled</string>
+    <string name="preferences_language_dialog_download_failed">Installation failed\n%1$s</string>
 
     <string name="preferences_category_cache">Application Cache</string>
     <string name="preferences_cache_title">Application Data</string>
     <string name="preferences_cache_summary">Clear cached data from Evanova.</string>
     <string name="preferences_cache_dialog_title">Clear Cache</string>
     <string name="preferences_cache_dialog_summary">This will clear Eve Online images currently stored by Evanova as well as recently downloaded data.</string>
+
+    <string name="preferences_dialog_restart_title">Restart required</string>
+    <string name="preferences_dialog_restart_text">The application will be restarted for this change to take effect.</string>
 
     <string-array name="preferences_frequency_entries">
         <item>Disabled</item>
@@ -165,17 +172,17 @@
     </string-array>
 
     <string-array name="preferences_character_notifications_list_entries">
-        <item>Character training</item>
+        <item>training</item>
         <item>Mail</item>
         <item>Notifications</item>
-        <item>Outstanding Contracts</item>
-        <item>Industry Jobs and Mining</item>
+        <item>Contracts</item>
+        <item>Industry Jobs</item>
         <item>Calendar Events</item>
-        <item>Inactive Colony Installation</item>
+        <item>Planetary Installations</item>
     </string-array>
 
     <!-- These are notification channel ids -->
-    <string-array name="preferences_character_notifications_list_values" translatable="false">
+   <string-array name="preferences_character_notifications_list_values" translatable="false">
         <item>training</item>
         <item>mail</item>
         <item>notifications</item>
@@ -184,7 +191,6 @@
         <item>calendar</item>
         <item>planetary</item>
     </string-array>
-
 
     <string-array name="preferences_character_expiration_list_entries">
         <item>1 Day</item>

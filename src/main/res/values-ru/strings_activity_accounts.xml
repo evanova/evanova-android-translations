@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_account_title">Персонажи</string>
-  <string name="activity_account_description"/>
   <string name="activity_account_text_ship">%1$s (%2$s)</string>
   <string name="activity_account_text_2">%1$d области ESI</string>
   <string name="activity_account_text_3">Последний зарегистрированный %1$s (%2$d входов)</string>

@@ -19,4 +19,6 @@
   <string name="drawer_fittings">フィッティング</string>
   <string name="drawer_server">サーバ</string>
   <string name="search_items_hint">アイテムを検索する</string>
+    <string name="preferences_character_dashboard_show_summary">" ダッシュボードにイベントを表示します。"</string>
+  <string name="preferences_character_dashboard_show_title">イベント</string>
 </resources>

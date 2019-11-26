@@ -35,7 +35,7 @@ public class Main {
         }
 
         final File output = new File("D:\\dev\\eve\\evanova2\\i18n\\build\\i18n\\");
-        Stream.of("fr", "ru", "zh", "de", "ja")
+        Stream.of("fr", "ru", "zh", "de", "ja", "ko")
             .parallel()
             .forEach(l -> {
                 try {

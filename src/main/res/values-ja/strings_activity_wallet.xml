@@ -16,7 +16,7 @@
   <string name="activity_wallet_graph_expenses">経費</string>
   <string name="activity_wallet_history_label">歴史</string>
   <string name="activity_wallet_history_description">最後の3ヶ月</string>
-  <string name="activity_wallet_transaction_qty">%1$d個のユニット。</string>
+  <string name="activity_wallet_transaction_qty">%1$d 個のユニット。</string>
   <string name="activity_wallet_transaction_seller">売り手</string>
   <string name="activity_wallet_transaction_price">価格</string>
   <string name="activity_wallet_transaction_buyer">買い手</string>

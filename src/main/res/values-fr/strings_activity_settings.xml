@@ -17,7 +17,7 @@
   <string name="preferences_drawer_dock_summary">Conservez le tiroir visible à tout moment (disponible uniquement sur les écrans à haute résolution).</string>
   <string name="preferences_dashboard_news_title">Eve News</string>
   <string name="preferences_dashboard_news_summary">Afficher Eve News sur le tableau de bord (redémarrage requis).</string>
-  <string name="preferences_locale_title">Utiliser l\'heure de Eve Online</string>
+  <string name="preferences_locale_title">Utiliser l\'heure de Eve OnlineEve Online</string>
   <string name="preferences_locale_summary">Affichez les informations temporelles en heure de Eve Online au lieu de celle de votre appareil.</string>
   <string name="preferences_background_title">Contexte d\'application</string>
   <string name="preferences_background_summary">Changer l\'image utilisée comme arrière-plan de l\'application.</string>
@@ -40,12 +40,19 @@
   <string name="preferences_category_location">Localisation</string>
   <string name="preferences_language_title">Langue</string>
   <string name="preferences_language_summary">Changez la langue de la base de données Eve et de certaines parties d’Evanova. Notez qu\'aucune traduction d\'interface utilisateur n\'est actuellement en place. Il s’agit d’une fonctionnalité expérimentale dont le fonctionnement n’est pas garanti; utilisez-la à vos risques et périls.</string>
-  <string name="preferences_language_dialog_summary">Changer la langue de l\\\'interface Evanova et de la base de données des éléments.\\n\\nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
-  <string name="preferences_language_dialog_ui">Appliquer à l\\\'interface d\\\'Evanova.</string>
+  <string name="preferences_language_dialog_summary">Changer la langue de l\'interface Evanova et de la base de données des éléments.\n\nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
+  <string name="preferences_language_dialog_ui">Appliquer à l\'interface d\'Evanova.</string>
   <string name="preferences_language_dialog_database">Appliquer à la base de données articles Eve.</string>
-  <string name="preferences_category_cache">Cache d\\\'application</string>
+  <string name="preferences_category_cache">Cache d\'application</string>
   <string name="preferences_cache_title">Application Data</string>
   <string name="preferences_cache_summary">Effacer les données en cache d&amp;#39;Evanova.</string>
   <string name="preferences_cache_dialog_title">Vider le cache</string>
   <string name="preferences_cache_dialog_summary">Cela effacera les images Eve Online actuellement stockées par Evanova ainsi que les données récemment téléchargées.</string>
+  <string name = "preferences_dialog_restart_title"> Redémarrage requis </string>
+  <string name = "preferences_dialog_restart_text">L\'application sera redémarrée pour que cette modification soit prise en compte.</string>
+  <string name = "preferences_language_dialog_download">Nécessite un téléchargement supplémentaire.</string>
+  <string name = "preferences_language_dialog_installed">Déjà installé. </string>
+  <string name = "preferences_language_dialog_download_canceled">Annulé</string>
+  <string name = "preferences_language_dialog_download_installing">Installation</string>
+  <string name = "preferences_language_dialog_download_failed">L\'installation a échouée\n%1$s</string>
 </resources>

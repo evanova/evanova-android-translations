@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_skills_list_title">技能</string>
-  <string name="activity_skills_list_description"/>
   <string name="activity_skills_list_description_all">所有</string>
   <string name="activity_skills_list_description_trainable">可学习</string>
   <string name="activity_skills_list_description_known">已吸收</string>

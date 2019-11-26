@@ -20,9 +20,12 @@
   <string name="drawer_fittings">Совместимости</string>
   <string name="drawer_server">Cервер</string>
   <string name="search_items_hint">Поиск предметов</string>
-    <string name="activity_help_tab_about">Около</string>
+  <string name="activity_help_tab_about">Около</string>
   <string name="activity_help_tab_changes">изменения</string>
   <string name="activity_mailboxes_apply_online">"Примените это действие онлайн. "</string>
   <string name="activity_assets_description">Aктивы</string>
   <string name="activity_assets_description_corporation">Активы корпорации</string>
+  <string name="menu_reload_title">перезагружать</string>
+  <string name="preferences_character_dashboard_show_summary">Показать события на панели инструментов</string>
+  <string name="preferences_character_dashboard_show_title">Мероприятия</string>
 </resources>

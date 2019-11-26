@@ -5,9 +5,8 @@
   <string name="activity_dashboard_welcome">Willkommen in Evanova</string>
   <string name="activity_dashboard_banner">Willkommen in Evanova</string>
 
-    <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
+  <string name="activity_dashboard_button_sso">Einen Charakter hinzufügen</string>
   <string name="activity_dashboard_update_title">Anwendungsupdate</string>
-  <string name="activity_dashboard_update_restart">Ein Neustart ist erforderlich, damit einige Änderungen wirksam werden.</string>
   <string name="activity_dashboard_update_description">Weitere Informationen zu den Änderungen findest du im Abschnitt "Über".</string>
   <string name="activity_dashboard_update_about">Über Evanova</string>
   <string name="activity_dashboard_update_text">Evanova-Update</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_skills_list_title">Навыки</string>
-  <string name="activity_skills_list_description"/>
   <string name="activity_skills_list_description_all">Все</string>
   <string name="activity_skills_list_description_trainable">Обучаемый</string>
   <string name="activity_skills_list_description_known">Известен</string>
@@ -37,11 +36,5 @@
   <string name="activity_skills_queue_added">Навыки добавлены в план.</string>
   <string name="activity_skills_dialog_save_title">Сохранить планирование</string>
   <string name="activity_skills_dialog_save_text">Вы внесли изменения в свое планирование навыков. Вы хотите сохранить их?</string>
-  <string-array name="activity_skills_attributes_map" translatable="false">
-    <item>Intelligence</item>
-    <item>Perception</item>
-    <item>Charisma</item>
-    <item>Willpower</item>
-    <item>Memory</item>
-  </string-array>
+
 </resources>

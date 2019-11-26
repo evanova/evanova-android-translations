@@ -3,7 +3,7 @@
   <string name="activity_dashboard_text">你似乎没有在 Evanova 登录任何账号，现在添加一个吧</string>
   <string name="activity_dashboard_welcome">欢迎使用 Evanova </string>
   <string name="activity_dashboard_banner">欢迎使用 Evanova </string>
-    <string name="activity_dashboard_button_sso">添加一个人物</string>
+  <string name="activity_dashboard_button_sso">添加一个人物</string>
   <string name="activity_dashboard_update_title">应用程序更新</string>
   <string name="activity_dashboard_update_description">请查看 关于 部分以获取更新详情</string>
   <string name="activity_dashboard_update_about">关于 Evanova </string>
