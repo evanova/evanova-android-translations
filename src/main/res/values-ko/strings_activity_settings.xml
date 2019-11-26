@@ -53,16 +53,14 @@
   <string name="preferences_cache_summary">Evanova에서 캐시데이터를 지웁니다.</string>
   <string name="preferences_cache_dialog_title">캐시 지우기</string>
   <string name="preferences_cache_dialog_summary">Evanova가 현재까지 저장한 Eve Online 이미지와 최근에 다운로드한 데이터가 지워집니다.</string>
-  <string name = "preferences_character_dashboard_show_title"> 이벤트 </string>
-  <string name = "preferences_character_dashboard_show_summary"> 대시보드에 캐릭터 이벤트를 표시합니다. </string>
+  <string name="preferences_character_dashboard_show_title"> 이벤트 </string>
+  <string name="preferences_character_dashboard_show_summary"> 대시보드에 캐릭터 이벤트를 표시합니다. </string>
 
-  <string name = "preferences_language_dialog_download">추가 다운로드가 필요합니다.</string>
-  <string name = "preferences_language_dialog_installed">이미 설치되었습니다.</string>
-  <string name = "preferences_language_dialog_download_canceled">취소</string>
-  <string name = "preferences_language_dialog_download_installing">설치</string>
-  <string name = "preferences_language_dialog_install_failed">설치 실패</string>
-  <string name = "preferences_language_dialog_download_failed">\n%1$s 다운로드 실패</string>
+  <string name="preferences_language_dialog_download">추가 다운로드가 필요합니다.</string>
+  <string name="preferences_language_dialog_installed">이미 설치되었습니다.</string>
+  <string name="preferences_language_dialog_download_canceled">취소</string>
+  <string name="preferences_language_dialog_download_failed">다운로드 실패\n%1$s</string>
+  <string name="preferences_dialog_restart_title">재시작해야합니다</string>
+  <string name="preferences_dialog_restart_text">이 변경사항을 적용하려면 앱이 재시작됩니다. </string>
 
-  <string name = "preferences_dialog_restart_title">재시작해야합니다</string>
-  <string name = "preferences_dialog_restart_text">이 변경사항을 적용하려면 앱이 재시작됩니다. </string>
 </resources>

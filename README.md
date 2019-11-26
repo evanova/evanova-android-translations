@@ -21,6 +21,7 @@ All translations are based on the files found in
  
 The following languages need reviewing:
   
+  * Korean (src/main/res/values-ko)
   * Japanese (src/main/res/values-ja)
 
 Feel free to correct the following languages should you find any mistake:
@@ -46,6 +47,8 @@ The values within the `<string>` elements are to be reviewed, the `"name"` part 
 <string name="app_add">добавлять</string>
 
 <string name="app_add">加</string>
+
+<string name="app_add">더하다</string>
 
 ```
 
