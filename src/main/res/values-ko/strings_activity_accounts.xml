@@ -1,94 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_account_title">캐릭터</string>
-    <string name="activity_account_description"/>
     <string name="activity_account_text_ship">%1$s (%2$s)</string>
     <string name="activity_account_text_2">ESI 범위 %1$d</string>
-<!--not-changed... because... I don't know what is ESI mean ectually...-->
     <string name="activity_account_text_3">마지막 로그인 %1$s (%2$d 로그인)</string>
     <string name="activity_account_text_reload">계정을 다시 연결해주십시오.</string>
-<!--please connect the account again. (re-imported means log-in and connect again right?)-->
     <string name="activity_account_text_reload_text">추가 버튼으로 바꿀 수 있습니다.</string>
-<!--//you can change something with Add button-->
     <string name="activity_account_error_token">인증 실패</string>
     <string name="activity_account_context_delete">삭제</string>
-<!--//제거 means something else, 삭제 means erase something what you wrote or lines...-->
-    <string name="activity_account_dialog_delete_title">캐릭터 삭제</string>
-    <string name="activity_account_dialog_delete_text">선택하신 캐릭터의 모든 정보가 삭제됩니다. 진행하시겠습니까?</string>
-<!--//all information of the selected character will be deleted, proceed?-->
+    <string name="activity_account_dialog_delete_title">캐릭터 제거</string>
+    <string name="activity_account_dialog_delete_text">선택한 캐릭터의 모든 정보가 제거됩니다. 진행 하시겠습니까?</string>
     <string name="activity_account_training_text_2_empty">스킬훈련 대기열이 비어 있습니다</string>
-<!--//Skilltraining queue is empty.-->
-    <string name="activity_account_training_text_2">%1$d스킬이 대기열에 있습니다.</string>
-<!--//~~~skill is in queue-->
+    <string name="activity_account_training_text_2">%1$d 훈련.</string>
     <string name="activity_account_training_text_3">대기열이 %1$s (%2$s) 종료</string>
     <string name="activity_account_training_text_4">%1$s %2$d (%3$s) 후에 완료됩니다.</string>
-<!--//something will be finished after ~~~-->
-    <string name="activity_account_text_loading_title">케릭터 정보를 불러옵니다.</string>
-<!--//Loading character information-->
+    <string name="activity_account_text_loading_title">문자 정보를로드 중입니다.</string>
     <string name="activity_account_text_loading_0">기다리시는 동안 기부해주세요!</string>
-    <string name="activity_account_text_loading_0_text">ISK를 안드로이드 Evanova에 보내서 지원해주세요.</string>
-<!--//I actually didn't understand the english one well... you get ISK from users as supporting???-->
-<!--//support us to send your ISK to android Evanova.-->
-    <string name="activity_account_text_loading_1">게임 내 메일을 무료로 받아보세요.</string>
-<!--//get freely in-game mail. (in-game mail is ok to understand that it is my personal in-game mail)-->
-    <string name="activity_account_text_loading_1_text">안드로이드 Evanova에 ISK를 보내고 무료로 감사 이메일을 받아보세요.</string>
-    <string name="activity_account_text_loading_2">Spai분석 진행 중.</string>
-<!--//I actually don't understand what is Spai means... i know that is for SCOOTY PUFF ADVANCED INDUSTRIES, but i don't know exactly... a Spy?-->
-    <string name="activity_account_text_loading_2_text">Spai 확인 중, 기다려주십시오.</string>
-    <string name="activity_account_text_loading_3">우주의 저편으로 워프 중.</string>
-<!--//infinity and beyond is quite weird in korean, so I translated as warping to beyond of far from the galaxy-->
-    <string name="activity_account_text_loading_3_text">누가 점프했나요?</string>
-    <string name="activity_account_text_loading_4">Evanova에 드레이크 함선 가져와도 될까요?</string>
-    <string name="activity_account_text_loading_4_text">그래, 할 수 있어!</string>
+    <string name="activity_account_text_loading_0_text">Evanova Android 에게 ISK를 보내고 무료 감사 이메일을 받으십시오.</string>
+    <string name="activity_account_text_loading_1">기다리시는 동안 기부해주세요!</string>
+    <string name="activity_account_text_loading_1_text">Evanova Android 에게 ISK를 보내고 무료 감사 이메일을 받으십시오.</string>
+    <string name="activity_account_text_loading_2">기다리시는 동안 기부해주세요!</string>
+    <string name="activity_account_text_loading_2_text">Evanova Android 에게 ISK를 보내고 무료 감사 이메일을 받으십시오.</string>
+    <string name="activity_account_text_loading_3">기다리시는 동안 기부해주세요!</string>
+    <string name="activity_account_text_loading_3_text">Evanova Android 에게 ISK를 보내고 무료 감사 이메일을 받으십시오.</string>
+    <string name="activity_account_text_loading_4">기다리시는 동안 기부해주세요!</string>
+    <string name="activity_account_text_loading_4_text">Evanova Android 에게 ISK를 보내고 무료 감사 이메일을 받으십시오.</string>
+
     <string name="activity_account_scopes_tab_character">캐릭터</string>
 
-<!--/* please choose one of these two, because of the following reasons.
-we have been played this game in english, and we say the same way as Corp.
-but in korean language, corporation means 기업(Big sized company).*/-->
     <string name="activity_account_scopes_tab_corporation">콥</string>
-<!--//this means Corp.-->
-    <string name="activity_account_scopes_tab_corporation">회사</string>
-<!--//this is korean translation of big sized company.-->
+
 
     <string name="activity_account_scopes_dialog">ESI 범위 선택</string>
     <string name="activity_account_tab_characters">캐릭터</string>
-
-<!--//as I told you, choose one of it.-->
     <string name="activity_account_tab_corporations">콥</string>
-    <string name="activity_account_tab_corporations">회사</string>
 
     <string name="activity_account_scopes_essentials_title">기본 캐릭터 (필수)</string>
 
-<!--//as I told you, choose one of it.-->
-    <string name="activity_account_scopes_essentials_c_title">기본 콥 (필수)</string>
-    <string name="activity_account_scopes_essentials_c_title">기본 회사 (필수)</string>
+    <string name="activity_account_scopes_essentials_c_title">회사 (필수)</string>
     <string name="activity_account_scopes_members_title">콥멤버</string>
-<!--//Corp member, all english derived words.-->
-    <string name="activity_account_scopes_members_title">회사구성원</string>
-<!--//company members, all cino-korean words.-->
-
     <string name="activity_account_scopes_messages_title">메일, 킬메일, 알림</string>
-<!--//we don't use ~,~,~ AND ~. we use "and" or "," in all places.-->
     <string name="activity_account_scopes_industry_title">산업, 광업</string>
     <string name="activity_account_scopes_assets_title">자산</string>
     <string name="activity_account_scopes_planetary_title">행성관리</string>
-<!--/*상호작용 is interaction like water and fires, 관리 means control, manage.
-I think a man is in managing or controling his/her planet so this word would be better.*/-->
-
-<!--/*달력 means just a Calendar and the word Events doesn't need to understand "events"
-일정 means to-do, schedules, events with the meaning of "calendar"
-I think 일정 is better but I think you should choose one of it. ^.^*/-->
-    <string name="activity_account_scopes_calendar_title">달력</string>
     <string name="activity_account_scopes_calendar_title">일정</string>
 
     <string name="activity_account_scopes_contacts_title">연락처, 평판 및 에이전트</string>
-<!--//평판 is standings from what people think about you.-->
     <string name="activity_account_scopes_contracts_title">계약</string>
     <string name="activity_account_scopes_market_title">시장</string>
-    <string name="activity_account_scopes_wallet_title">잔고, 거래</string>
-<!--잔고 meas rest of your money in your bank account or so.-->
-
-<!--피팅 is basically Fitting in english, but I think 장치 is more korean ways...-->
+    <string name="activity_account_scopes_wallet_title">지갑</string>
     <string name="activity_account_scopes_fitting_title">피팅</string>
-    <string name="activity_account_scopes_fitting_title">장치</string>
 </resources>

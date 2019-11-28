@@ -22,26 +22,15 @@
     <string name="activity_assets_flag_impounded">분실품보관소</string>
     <string name="activity_assets_flag_ag">회사격납고</string>
     <plurals name="activity_assets_locations_group">
-        <item quantity="zero">항목이 없습니다</item>
-        <item quantity="one">%d개 항목</item>
         <item quantity="other">%d개 항목</item>
     </plurals>
     <plurals name="activity_assets_categories_group">
-        <item quantity="zero">항목이 없습니다</item>
-        <item quantity="one">%d개 항목</item>
         <item quantity="other">%d개 항목</item>
     </plurals>
     <plurals name="activity_assets_items_group">
-        <item quantity="zero">항목이 없습니다</item>
-        <item quantity="one">%d위치</item>
         <item quantity="other">%d위치</item>
     </plurals>
     <plurals name="activity_assets_container_description">
-<!--0(empty) is weird to write in korean, i think like other ZERO resources, this will be ok.-->
-        <item quantity="zero">항목이 없습니다</item>
-        <item quantity="zero">%1$s (비어있음)</item>
-
-        <item quantity="one">%1$s (%2$d 항목)</item>
         <item quantity="other">%1$s (%2$d 개 항목)</item>
     </plurals>
 </resources>
