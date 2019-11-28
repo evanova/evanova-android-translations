@@ -145,12 +145,12 @@
     <string name="preferences_dialog_restart_text">Die Anwendung wird neu gestartet, damit diese Änderung wirksam wird.</string>
     <string name="preferences_language_dialog_installed">Bereits installiert.</string>
         
-    <string name="preferences_language_dialog_download_canceled">Abgebrochen</string>
+    <string name="preferences_language_dialog_download_canceled">Abgebrochen</string><![CDATA[
         
-    <string name="preferences_language_dialog_download_installing">Installation</string>
         
-    <string name="preferences_language_dialog_install_failed">Installation fehlgeschlagen\n%1$s</string>
+
         
+    ]]>
     <string name="preferences_language_dialog_download_failed">Download fehlgeschlagen</string>
     <string name = "preferences_language_dialog_download">Erfordert einen zusätzlichen Download.</string>
 </resources>

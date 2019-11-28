@@ -8,6 +8,7 @@
   <string name="activity_dashboard_update_description">자세한 변경 목록은 정보란을 확인하십시오.</string>
   <string name="activity_dashboard_update_about">Evanova 소개</string>
   <string name="activity_dashboard_update_text">Evanova 업데이트</string>
+  <string name="activity_dashboard_update_settings">설정</string>
   <string name="activity_dashboard_recent">최근 이벤트</string>
   <string name="activity_dashboard_summary">요약</string>
   <string name="activity_dashboard_back">한 번 더 눌러 종료합니다.</string>

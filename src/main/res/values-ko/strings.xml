@@ -23,5 +23,6 @@
    <string name = "drawer_server">서버</string>
 
    <string name = "search_items_hint">항목검색</string>
+   <string name="activity_dashboard_update_database">데이터베이스에 언어에 대한 추가 다운로드가 필요할 수 있습니다. 응용 프로그램 설정을 확인하십시오.</string>
 
 </resources>

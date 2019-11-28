@@ -8,8 +8,11 @@
     <string name="activity_dashboard_button_sso">Add a character</string>
     <string name="activity_dashboard_update_title">Application update</string>
     <string name="activity_dashboard_update_description">Check the about section for a detailed list of changes.</string>
+    <string name="activity_dashboard_update_database">Database changes may require an additional download for your language. Please check the application settings.</string>
     <string name="activity_dashboard_update_about">About Evanova</string>
     <string name="activity_dashboard_update_text">Evanova update</string>
+    <string name="activity_dashboard_update_settings">Settings</string>
+
     <string name="activity_dashboard_recent">Recent Events</string>
     <string name="activity_dashboard_summary">Summary</string>
     <string name="activity_dashboard_back">One more back press will get you out of station.</string>
