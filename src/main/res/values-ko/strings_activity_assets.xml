@@ -1,39 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_assets_description">자산</string>
-  <string name="activity_assets_description_corporation">법인 자산</string>
-  <string name="activity_assets_locations">위치</string>
-  <string name="activity_assets_categories">카테고리</string>
-  <string name="activity_assets_items">아이템</string>
-  <string name="activity_assets_flag_other">다른</string>
-  <string name="activity_assets_flag_high">높은 슬롯</string>
-  <string name="activity_assets_flag_med">중간 슬롯</string>
-  <string name="activity_assets_flag_low">낮은 슬롯</string>
-  <string name="activity_assets_flag_rig">리그</string>
-  <string name="activity_assets_flag_hangar">격납고</string>
-  <string name="activity_assets_flag_cargo">뱃짐</string>
-  <string name="activity_assets_flag_drones">드론 베이</string>
-  <string name="activity_assets_flag_safety">자산 안전</string>
-  <string name="activity_assets_flag_deliveries">배달</string>
-  <string name="activity_assets_flag_impounded">감금</string>
-  <string name="activity_assets_flag_ag">회사 격납고</string>
-  <plurals name="activity_assets_locations_group">
-    <item quantity="zero">항목이 없습니다</item>
-    <item quantity="one">%d 개 항목</item>
-    <item quantity="other">%d 개 항목</item>
-  </plurals>
-  <plurals name="activity_assets_categories_group">
-    <item quantity="zero">항목이 없습니다</item>
-    <item quantity="one">%d 개 항목</item>
-    <item quantity="other">%d 개 항목</item>
-  </plurals>
-  <plurals name="activity_assets_items_group">
-    <item quantity="zero">항목이 없습니다</item>
-    <item quantity="one">%d 위치</item>
-    <item quantity="other">%d 위치</item>
-  </plurals>
-  <plurals name="activity_assets_container_description">
-    <item quantity="zero">%1$s (빈)</item>
-    <item quantity="one">%1$s (%2$d 품목)</item>
-    <item quantity="other">%1$s (%2$d 개 항목)</item>
-  </plurals>
+    <string name="activity_assets_description">자산</string>
+    <string name="activity_assets_description_corporation">회사자산</string>
+    <string name="activity_assets_locations">위치별</string>
+    <string name="activity_assets_categories">범주별</string>
+    <string name="activity_assets_items">아이템</string>
+    <string name="activity_assets_flag_other">기타</string>
+
+    <string name="activity_assets_flag_high">하이</string>
+    <string name="activity_assets_flag_med">미드</string>
+    <string name="activity_assets_flag_low">로우</string>
+    <string name="activity_assets_flag_rig">리그</string>
+
+    <string name="activity_assets_flag_hangar">격납고</string>
+    <string name="activity_assets_flag_cargo">화물</string>
+    <string name="activity_assets_flag_drones">드론</string>
+
+    <string name="activity_assets_flag_safety">자산보험</string>
+
+    <string name="activity_assets_flag_deliveries">회사배송</string>
+    <string name="activity_assets_flag_impounded">분실품보관소</string>
+    <string name="activity_assets_flag_ag">회사격납고</string>
+    <plurals name="activity_assets_locations_group">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="activity_assets_categories_group">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="activity_assets_items_group">
+        <item quantity="other">%d위치</item>
+    </plurals>
+    <plurals name="activity_assets_container_description">
+        <item quantity="other">%1$s (%2$d 개 항목)</item>
+    </plurals>
 </resources>

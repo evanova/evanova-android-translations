@@ -1,9 +1,9 @@
 <resources>
-  <string name="activity_contacts_tab_contacts">콘택트 렌즈</string>
-  <string name="activity_contacts_tab_standings">순위</string>
-  <string name="activity_contacts_tab_agents">자치령 대표</string>
+  <string name="activity_contacts_tab_contacts">연락처</string>
+  <string name="activity_contacts_tab_standings">평판</string>
+  <string name="activity_contacts_tab_agents">에이전트</string>
   <string name="activity_contacts_labels_empty">라벨 없음</string>
-  <string name="activity_contacts_labels_count">연락처 %1$d 개</string>
-  <string name="activity_contacts_agents_started">%1$s 시작</string>
-  <string name="activity_contacts_agents_research">(%1$d / 일)- %2$d 남음</string>
+  <string name="activity_contacts_labels_count">%1$d개 연락처</string>
+  <string name="activity_contacts_agents_started">%1$s부터</string>
+  <string name="activity_contacts_agents_research">(%1$d/일)-%2$d남음</string>
 </resources>
