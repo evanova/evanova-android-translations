@@ -21,13 +21,13 @@ All translations are based on the files found in
  
 The following languages need reviewing:
   
-  * Korean (src/main/res/values-ko)
   * Japanese (src/main/res/values-ja)
 
 Feel free to correct the following languages should you find any mistake:
 
   * French (src/main/res/values-fr)
   * German (src/main/res/values-de)
+  * Korean (src/main/res/values-ko)
   * Russian (src/main/res/values-ru)
   * Simplified Chinese (src/main/res/values-zh)
   
