@@ -1,4 +1,4 @@
 <resources>
   <string name="activity_help_tab_about">도움말</string>
-  <string name="activity_help_tab_changes">변경</string>
+  <string name="activity_help_tab_changes">변경사항</string>
 </resources>

@@ -55,8 +55,6 @@
 
     <string name="preferences_language_dialog_installed">已安装</string>
     <string name="preferences_language_dialog_download_canceled">已取消</string>
-    <string name="preferences_language_dialog_download_installing">安装</string>
-    <string name="preferences_language_dialog_install_failed">安装失败</string>
     <string name="preferences_language_dialog_download_failed">下载失败\n%1$s</string>
     <string name="preferences_language_dialog_download">需要额外的下载</string>
 </resources>

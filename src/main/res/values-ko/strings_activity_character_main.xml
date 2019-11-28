@@ -1,13 +1,13 @@
 <resources>
   <string name="activity_character_location_unknown">위치정보 없음</string>
-  <string name="activity_character_balance_unknown">잔고 사용불가</string>
-  <string name="activity_character_fatigue">%1$s 점프피로</string>
-  <string name="activity_character_fatigue_none">점프피로 없음</string>
-  <string name="activity_character_status_title">%1$s보안상태</string>
-  <string name="activity_character_status_text">%1$s가 %2$f에서 공격을받습니다.</string>
-  <string name="activity_character_ship_unknown">선박정보 없음</string>
+  <string name="activity_character_balance_unknown">잔고 확인불가</string>
+  <string name="activity_character_fatigue">점프 피로 %1$s</string>
+  <string name="activity_character_fatigue_none">점프 피로 없음</string>
+  <string name="activity_character_status_title">보안상태 %1$s</string>
+  <string name="activity_character_status_text">%1$s - %2$f 이상 지역에서 공격받습니다.</string>
+  <string name="activity_character_ship_unknown">함선정보 없음</string>
   <string name="activity_character_dialogs_wallpaperize_title">폰배경 설정</string>
-  <string name="activity_character_dialogs_wallpaperize_text">휴대폰 배경화면이 이 사진으로 바꿉니다.</string>
+  <string name="activity_character_dialogs_wallpaperize_text">폰의 배경화면을 이 사진으로 바꿉니다.</string>
   <string name="activity_character_dialogs_backgroundify_title">앱배경 설정</string>
-  <string name="activity_character_dialogs_backgroundify_text">현재 배경을 이 사진으로 바꿉니다.</string>
+  <string name="activity_character_dialogs_backgroundify_text">현재 보이는 배경을 이 사진으로 바꿉니다.</string>
 </resources>

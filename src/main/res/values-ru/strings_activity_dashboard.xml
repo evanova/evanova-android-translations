@@ -3,11 +3,12 @@
   <string name="activity_dashboard_text">У вас, кажется, нет персонажа, зарегистрированного в Evanova. Начните с добавления персонажа.</string>
   <string name="activity_dashboard_welcome">Добро пожаловать в Эванову</string>
   <string name="activity_dashboard_banner">Добро пожаловать в Эванову</string>
-  <string name="activity_dashboard_button_sso">Добавить персонажа</string>
+    <string name="activity_dashboard_button_sso">Добавить персонажа</string>
   <string name="activity_dashboard_update_title">Обновление приложения</string>
   <string name="activity_dashboard_update_description">Проверьте подробный список в разделе изменений.</string>
   <string name="activity_dashboard_update_about">Об Эванова</string>
   <string name="activity_dashboard_update_text">Обновление Эванова</string>
+  <string name="activity_dashboard_update_settings">Настройки</string>
   <string name="activity_dashboard_recent">Недавние события</string>
   <string name="activity_dashboard_back">Еще одно обратное нажатие вытащит вас со станции.</string>
   <string name="activity_dashboard_adapter_title_news">Ева онлайн новости</string>

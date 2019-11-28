@@ -37,7 +37,7 @@
   <string name="fitting_widget_modules_item_cpu">%1$.2f</string>
   <string name="fitting_widget_modules_item_power">%1$.2f</string>
   <string name="fitting_widget_modules_item_capacitor">%1$.2f / s</string>
-  <string name="fitting_widget_modules_item_charges_none">더 요금 없음</string>
+  <string name="fitting_widget_modules_item_charges_none">탄약 없음</string>
   <string name="fitting_widget_drones_squadron_heavy">중형드론 (%1$d / %2$d)</string>
   <string name="fitting_widget_drones_squadron_light">경형드론 (%1$d / %2$d)</string>
   <string name="fitting_widget_drones_squadron_support">지원드론 (%1$d / %2$d)</string>

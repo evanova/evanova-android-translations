@@ -1,16 +1,17 @@
 <resources>
-  <string name="activity_dashboard_text">Evanova에 등록 된 캐릭터가 없습니다. 캐릭터를 추가하십시오.</string>
+  <string name="activity_dashboard_text">Evanova에 등록된 캐릭터가 없습니다. 캐릭터를 추가하십시오.</string>
   <string name="activity_dashboard_welcome">Evanova에 오신 것을 환영합니다</string>
   <string name="activity_dashboard_banner">Evanova에 오신 것을 환영합니다</string>
   <string name="activity_dashboard_o7">o7</string>
   <string name="activity_dashboard_button_sso">캐릭터 추가</string>
   <string name="activity_dashboard_update_title">앱 업데이트</string>
-  <string name="activity_dashboard_update_description">자세한 변경 목록은 about 섹션을 확인하십시오.</string>
+  <string name="activity_dashboard_update_description">자세한 변경 목록은 정보란을 확인하십시오.</string>
   <string name="activity_dashboard_update_about">Evanova 소개</string>
   <string name="activity_dashboard_update_text">Evanova 업데이트</string>
+  <string name="activity_dashboard_update_settings">설정</string>
   <string name="activity_dashboard_recent">최근 이벤트</string>
   <string name="activity_dashboard_summary">요약</string>
-  <string name="activity_dashboard_back">다시 한 번 누르면 나갑니다.</string>
+  <string name="activity_dashboard_back">한 번 더 눌러 종료합니다.</string>
   <string name="activity_dashboard_adapter_title_news">이브 온라인 뉴스</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
   <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d 스킬</string>
@@ -21,8 +22,8 @@
   <string name="activity_dashboard_adapter_colony_expiring">%1$s에 일부 핀이 완료됨</string>
   <string name="activity_dashboard_adapter_colony_expired">%1$s 이후 일부 핀이 만료됨</string>
   <string name="activity_dashboard_summary_title">요약</string>
-  <string name="activity_dashboard_summary_corporation_none_text">회사 정보가 없습니다.</string>
-  <string name="activity_dashboard_summary_corporation_none_description">기존 캐릭터를 다시 가져 오십시오.</string>
+  <string name="activity_dashboard_summary_corporation_none_text">회사정보가 없습니다.</string>
+  <string name="activity_dashboard_summary_corporation_none_description">기존 캐릭터를 다시 가져오십시오.</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">캐릭터 없음</item>
     <item quantity="one">%1$d 캐릭터</item>

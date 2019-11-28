@@ -9,6 +9,7 @@
   <string name="activity_dashboard_update_about">Evanovaについて</string>
   <string name="activity_dashboard_update_text">Evanovaアップデート</string>
   <string name="activity_dashboard_recent">最近のイベント</string>
+  <string name="activity_dashboard_update_settings">設定</string>
   <string name="activity_dashboard_summary">概要</string>
   <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
   <string name="activity_dashboard_adapter_title_news">イブオンラインニュース</string>

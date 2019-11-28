@@ -12,9 +12,9 @@
   <string name="activity_industry_job_ready_3">%1$s 대기</string>
   <string name="activity_industry_job_cancelled_2">취소</string>
   <string name="activity_industry_job_cancelled_3"/>
-  <string name="activity_industry_job_reverted_2">반전</string>
+  <string name="activity_industry_job_reverted_2">파기</string>
   <string name="activity_industry_job_reverted_3"/>
-  <string name="activity_industry_job_unknown_2">알 수 없는</string>
+  <string name="activity_industry_job_unknown_2">정보 없음</string>
   <string name="activity_industry_job_unknown_3"/>
   <string name="activity_industry_job_name_na">해당 없음</string>
   <string name="activity_industry_job_name_manufacturing">조작</string>
@@ -23,9 +23,9 @@
   <string name="activity_industry_job_name_material">재료 효율성</string>
   <string name="activity_industry_job_name_copy">복사</string>
   <string name="activity_industry_job_name_duplicate">복제</string>
-  <string name="activity_industry_job_name_reverse">리버스 엔지니어링</string>
+  <string name="activity_industry_job_name_reverse">역설계</string>
   <string name="activity_industry_job_name_invention">발명</string>
-  <string name="activity_industry_job_name_reactions">반응</string>
+  <string name="activity_industry_job_name_reactions">재실행</string>
   <string name="activity_industry_mining_item_one">%1$s</string>
   <string name="activity_industry_mining_item_multiple">%1$d x %2$s</string>
 </resources>

@@ -11,7 +11,7 @@
   <string name="activity_fittings_menu_clipboard_export">클립보드 붙여넣기</string>
   <string name="activity_fittings_menu_xml_import">XML로 가져오기</string>
   <string name="activity_fittings_menu_xml_export">XML로 내보내기</string>
-  <string name="activity_fittings_menu_fit">착용…</string>
+  <string name="activity_fittings_menu_fit">장착…</string>
   <string name="activity_fittings_menu_damage">피해</string>
   <string name="activity_fittings_menu_rename">이름 바꾸기</string>
   <string name="activity_fittings_title">피팅</string>
@@ -24,29 +24,29 @@
   <string name="activity_fittings_clipboard_empty">클립보드가 비어 있습니다</string>
   <string name="activity_fittings_dialog_delete_title">피팅 삭제</string>
   <string name="activity_fittings_dialog_delete_text">진행할까요?</string>
-  <string name="activity_fittings_dialog_delete_online">온라인으로도 삭제 (본인책임)</string>
+  <string name="activity_fittings_dialog_delete_online">온라인에서도 삭제 (본인책임)</string>
   <string name="activity_fittings_dialog_rename_title">피팅 이름 바꾸기</string>
   <string name="activity_fittings_dialog_rename_default">Evanova로 생성</string>
   <string name="activity_fittings_dialog_add_title">피팅 추가</string>
   <string name="activity_fittings_dialog_save_title">피팅 저장</string>
-  <string name="activity_fittings_dialog_save_text">변경사항을 저장하지 않았습니다. 그렇게 하시겠습니까?</string>
+  <string name="activity_fittings_dialog_save_text">변경사항을 저장하지 않았습니다. 계속하시겠습니까?</string>
   <string name="activity_fittings_dialog_synchronize_title">피팅 동기화</string>
   <string name="activity_fittings_dialog_synchronize_text">모든 온라인 피팅을 가져오고 기존 피팅을 교체합니다.</string>
   <string name="activity_fittings_dialog_synchronize_check">Evanova로 생성한 새 피팅도 저장</string>
-  <string name="activity_fittings_dialog_import_title">수입품 이음쇠</string>
-  <string name="activity_fittings_group_local">지역 피팅</string>
+  <string name="activity_fittings_dialog_import_title">피팅 가져오기</string>
+  <string name="activity_fittings_group_local">로컬피팅</string>
   <string name="activity_fittings_list_level">%1$d 레벨</string>
   <string name="activity_fittings_list_online">%2$s의 %1$s에서 로드 됨</string>
   <string name="activity_fittings_list_offline">오프라인</string>
   <string name="activity_fittings_module_add_success">모듈 장착</string>
-  <string name="activity_fittings_module_add_error">모듈을 장착할 수 없습니다</string>
+  <string name="activity_fittings_module_add_error">모듈 장착 불가</string>
   <string name="activity_fittings_drone_add_success">드론 장착</string>
-  <string name="activity_fittings_drone_add_error">드론을 장착할 수 없습니다</string>
+  <string name="activity_fittings_drone_add_error">드론 장착 불가</string>
   <string name="activity_fittings_implant_add_success">임플란트 장착</string>
-  <string name="activity_fittings_implant_add_error">임플란트를 장착 할 수 없습니다</string>
+  <string name="activity_fittings_implant_add_error">임플란트 장착 불가</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">피팅 없음</item>
-    <item quantity="one">%d 피팅</item>
-    <item quantity="other">%d 피팅</item>
+    <item quantity="one">%d개 피팅</item>
+    <item quantity="other">%d개 피팅</item>
   </plurals>
 </resources>

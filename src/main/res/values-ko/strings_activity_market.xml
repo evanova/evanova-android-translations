@@ -5,7 +5,7 @@
   <string name="activity_market_order_expired">만료</string>
   <string name="activity_market_buy">구매</string>
   <string name="activity_market_sell">판매</string>
-  <string name="activity_market_history">역사</string>
+  <string name="activity_market_history">내역</string>
   <string name="activity_market_regions_title">지역</string>
   <string name="activity_market_regions_text">지역</string>
 </resources>
