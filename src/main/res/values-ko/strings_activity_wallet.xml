@@ -1,6 +1,6 @@
 <resources>
   <string name="activity_wallet_title">%1$s</string>
-  <string name="activity_wallet_division1">첫계좌</string>
+  <string name="activity_wallet_division1">제1계좌</string>
   <string name="activity_wallet_division2">제2계좌</string>
   <string name="activity_wallet_division3">제3계좌</string>
   <string name="activity_wallet_division4">제4계좌</string>
@@ -21,6 +21,6 @@
   <string name="activity_wallet_transaction_price">가격</string>
   <string name="activity_wallet_transaction_buyer">구매자</string>
   <string name="activity_wallet_tab_journal">일지</string>
-  <string name="activity_wallet_tab_transactions">업무</string>
+  <string name="activity_wallet_tab_transactions">거래</string>
   <string name="activity_wallet_graph_color_dialog_title">색상 선택</string>
 </resources>
