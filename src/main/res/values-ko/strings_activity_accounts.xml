@@ -2,7 +2,7 @@
 <resources>
     <string name="activity_account_title">캐릭터</string>
     <string name="activity_account_text_ship">%1$s (%2$s)</string>
-    <string name="activity_account_text_2">%1$d 캐릭정보제공범위</string>
+    <string name="activity_account_text_2">%1$d 개 정보제공범위에 동의함</string>
     <string name="activity_account_text_3">%1$s 마지막 로그인 (%2$d 로그인)</string>
     <string name="activity_account_text_reload">계정을 다시 연결해주십시오.</string>
     <string name="activity_account_text_reload_text">추가 버튼으로 바꿀 수 있습니다.</string>
@@ -31,7 +31,7 @@
     <string name="activity_account_scopes_tab_corporation">회사</string>
 
 
-    <string name="activity_account_scopes_dialog">캐릭 정보제공 범위 선택</string>
+    <string name="activity_account_scopes_dialog">캐릭정보 제공범위 선택</string>
     <string name="activity_account_tab_characters">캐릭터</string>
     <string name="activity_account_tab_corporations">회사</string>
 

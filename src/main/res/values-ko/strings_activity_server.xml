@@ -2,6 +2,6 @@
   <string name="activity_server_status_time">%1$s</string>
   <string name="activity_server_status_online">서버 온라인</string>
   <string name="activity_server_status_offline">서버 오프라인</string>
-  <string name="activity_server_status_players">%1$s 플레이어 접속중.</string>
+  <string name="activity_server_status_players">%1$s 명 접속 중.</string>
   <string name="activity_server_status_unknown">서버상태 확인불가</string>
 </resources>

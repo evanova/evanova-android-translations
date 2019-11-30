@@ -182,7 +182,7 @@
     </string-array>
 
     <!-- These are notification channel ids -->
-   <string-array name="preferences_character_notifications_list_values" translatable="false">
+    <string-array name="preferences_character_notifications_list_values" translatable="false">
         <item>training</item>
         <item>mail</item>
         <item>notifications</item>

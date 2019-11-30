@@ -20,19 +20,5 @@
   <string name="drawer_fittings">装配</string>
   <string name="drawer_server">服务器</string>
   <string name="search_items_hint">搜索物品</string>
-  <string name="activity_help_tab_about">关于</string>
-  <string name="activity_help_tab_changes">变化</string>
-  <string name="activity_mailboxes_apply_online">同步游戏内此操作</string>
-  <string name="activity_assets_description">资产</string>
-  <string name="activity_assets_description_corporation">公司资产</string>
-  <string name="preferences_character_dashboard_notifications">背景更新/通知</string>
-  <string name="preferences_character_dashboard_category">主页面</string>
-  <string name="preferences_character_dashboard_events_title">特定事件</string>
-  <string name="preferences_character_dashboard_pinned_summary">始终显示此角色</string>
-  <string name="preferences_character_dashboard_pinned_title">总是</string>
-  <string name="preferences_character_dashboard_events_summary">仅在选定事件上显示人物</string>
-  <string name="menu_reload_title">刷新</string>
-    <string name="preferences_character_dashboard_show_summary">" 在仪表板上显示事件。"</string>
-  <string name="preferences_character_dashboard_show_title">活动</string>
-  <string name="activity_dashboard_update_database">" 数据库更改可能需要使用您的语言进行其他下载。请检查应用程序设置."</string>
+
 </resources>

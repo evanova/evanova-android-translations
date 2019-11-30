@@ -4,8 +4,8 @@
   <string name="activity_item_widget_tab_requirements">기술</string>
   <string name="activity_item_attribute_structure">구조</string>
   <string name="activity_item_attribute_fitting">피팅</string>
-  <string name="activity_item_attribute_armor">갑옷</string>
-  <string name="activity_item_attribute_shield">방패</string>
+  <string name="activity_item_attribute_armor">장갑</string>
+  <string name="activity_item_attribute_shield">쉴드</string>
   <string name="activity_item_attribute_capacitor">전력</string>
   <string name="activity_item_attribute_targeting">타겟팅</string>
   <string name="activity_item_attribute_propulsion">추진력</string>

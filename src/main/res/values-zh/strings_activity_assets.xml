@@ -15,6 +15,9 @@
   <string name="activity_assets_flag_deliveries">递送仓库</string>
   <string name="activity_assets_flag_impounded">扣押</string>
   <string name="activity_assets_flag_ag">军团仓库</string>
+
+  <string name="activity_assets_description">资产</string>
+  <string name="activity_assets_description_corporation">公司资产</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">无物品</item>
     <item quantity="one">%d物品</item>

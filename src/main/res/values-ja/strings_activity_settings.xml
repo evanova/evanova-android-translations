@@ -58,12 +58,10 @@
     <string name="preferences_dialog_restart_text">この変更を有効にするために、アプリケーションが再起動されます</string>
     <string name="preferences_language_dialog_installed">インストール済み</string>
         
-    <string name="preferences_language_dialog_download_canceled">キャンセル</string><![CDATA[
-        
-        
+    <string name="preferences_language_dialog_download_canceled">キャンセル</string>
 
-        
-    ]]>
+    <string name="preferences_character_dashboard_show_summary">" ダッシュボードにイベントを表示します。"</string>
+    <string name="preferences_character_dashboard_show_title">イベント</string>
     <string name="preferences_language_dialog_download_failed">ダウンロードに失敗しました</string>
     <string name="preferences_language_dialog_download">追加のダウンロードが必要です。</string>
 </resources>

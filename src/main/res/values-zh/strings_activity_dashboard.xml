@@ -23,6 +23,10 @@
   <string name="activity_dashboard_summary_title">摘要</string>
   <string name="activity_dashboard_summary_corporation_none_text">无公司信息</string>
   <string name="activity_dashboard_summary_corporation_none_description">请重新登录此人物</string>
+  <string name="activity_help_tab_about">关于</string>
+  <string name="activity_help_tab_changes">变化</string>
+  <string name="activity_dashboard_update_database">" 数据库更改可能需要使用您的语言进行其他下载。请检查应用程序设置."</string>
+
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">无人物</item>
     <item quantity="one">%1$d 人物</item>

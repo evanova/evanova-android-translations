@@ -30,6 +30,9 @@
 
   <string name="activity_dashboard_summary_corporation_none_text">Keine Corporationsinformationen.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Bitte importiere deine vorhandenen Charaktere erneut.</string>
+  <string name="activity_help_tab_about">Über</string>
+  <string name="activity_help_tab_changes">Änderungen</string>
+  <string name="activity_dashboard_update_database">Datenbankänderungen erfordern möglicherweise einen zusätzlichen Download für Ihre Sprache. Bitte überprüfen Sie die Anwendungseinstellungen.</string>
 
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Kein Charakter</item>

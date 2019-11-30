@@ -23,6 +23,10 @@
   <string name="activity_dashboard_summary_title">Резюме</string>
   <string name="activity_dashboard_summary_corporation_none_text">Нет информации о корпорации.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Пожалуйста, повторно импортируйте существующих персонажей.</string>
+  <string name="activity_dashboard_update_database">Изменения базы данных могут потребовать дополнительных загрузок для вашего языка. Пожалуйста, проверьте настройки приложения.</string>
+
+  <string name="activity_help_tab_changes">изменения</string>
+
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Нет персонажа</item>
     <item quantity="one">%1$d персонаж</item>

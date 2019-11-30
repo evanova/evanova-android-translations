@@ -17,10 +17,10 @@
   <string name="activity_industry_job_unknown_2">정보 없음</string>
   <string name="activity_industry_job_unknown_3"/>
   <string name="activity_industry_job_name_na">해당 없음</string>
-  <string name="activity_industry_job_name_manufacturing">조작</string>
+  <string name="activity_industry_job_name_manufacturing">제작</string>
   <string name="activity_industry_job_name_technology">과학 기술</string>
-  <string name="activity_industry_job_name_time">시간 효율성</string>
-  <string name="activity_industry_job_name_material">재료 효율성</string>
+  <string name="activity_industry_job_name_time">시간효율 연구</string>
+  <string name="activity_industry_job_name_material">재료효율 연구</string>
   <string name="activity_industry_job_name_copy">복사</string>
   <string name="activity_industry_job_name_duplicate">복제</string>
   <string name="activity_industry_job_name_reverse">역설계</string>
