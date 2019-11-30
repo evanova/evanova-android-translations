@@ -29,4 +29,6 @@
   <string name="menu_backgroundify">设置为背景</string>
   <string name="menu_backgroundify_short">背景</string>
   <string name="menu_settings_character">人物设置</string>
+  <string name="menu_reload_title">刷新</string>
+
 </resources>

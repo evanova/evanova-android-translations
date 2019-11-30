@@ -38,4 +38,5 @@
   <string name="activity_mailboxes_widget_reply_title">Re: %1$s</string>
   <string name="activity_mailboxes_widget_reply_body">\nОтправлено из</string>
   <string name="activity_mailboxes_share_text">От %1$s\n\n%2$s\n\nОтправлено от Эвановой</string>
+  <string name="activity_mailboxes_apply_online">Примените это действие онлайн.</string>
 </resources>

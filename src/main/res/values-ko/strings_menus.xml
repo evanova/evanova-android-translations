@@ -9,9 +9,9 @@
   <string name="menu_market_item">물자</string>
   <string name="menu_market_sort_price_asc">가격오름순</string>
   <string name="menu_market_sort_price_desc">가격내림순</string>
-  <string name="menu_characters_show_training">기술</string>
-  <string name="menu_characters_show_location">위치</string>
-  <string name="menu_characters_show_account">계정</string>
+  <string name="menu_characters_show_training">스킬정보 보기</string>
+  <string name="menu_characters_show_location">위치정보 보기</string>
+  <string name="menu_characters_show_account">계정정보 보기</string>
   <string name="menu_wallet_flip_list">일지</string>
   <string name="menu_wallet_flip_graph">그래프</string>
   <string name="menu_wallet_color_graph">색상그래프</string>

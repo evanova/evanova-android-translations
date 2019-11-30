@@ -32,6 +32,14 @@
     <string name="preferences_character_dashboard_list_dialog">选择主页面显示的内容</string>
     <string name="preferences_character_dashboard_list_summary">过滤在主页面显示的内容</string>
 
+    <string name="preferences_character_dashboard_show_summary">" 在仪表板上显示事件。"</string>
+    <string name="preferences_character_dashboard_show_title">活动</string>
+    <string name="preferences_character_dashboard_notifications">背景更新/通知</string>
+    <string name="preferences_character_dashboard_category">主页面</string>
+    <string name="preferences_character_dashboard_events_title">特定事件</string>
+    <string name="preferences_character_dashboard_pinned_summary">始终显示此角色</string>
+    <string name="preferences_character_dashboard_pinned_title">总是</string>
+    <string name="preferences_character_dashboard_events_summary">仅在选定事件上显示人物</string>
     <string name="preferences_character_notifications_list_summary">设置在设备通知栏上显示的内容</string>
     <string name="preferences_character_notifications_list_title">通知过滤</string>
     <string name="preferences_character_notifications_list_dialog">选择要显示的通知</string>

@@ -24,6 +24,8 @@
   <string name="activity_dashboard_summary_title">概要</string>
   <string name="activity_dashboard_summary_corporation_none_text">会社情報はありません。</string>
   <string name="activity_dashboard_summary_corporation_none_description">既存のキャラクターを再インポートしてください。</string>
+  <string name="activity_dashboard_update_database">データベースの変更には、追加の言語のダウンロードが必要になる場合があります。アプリケーションの設定を確認してください.</string>
+
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">文字なし</item>
     <item quantity="one">%1$d文字</item>

@@ -80,6 +80,8 @@
     <string name="preferences_cache_summary">Lösche zwischengespeicherte Daten von Evanova.</string>
     <string name="preferences_cache_dialog_title">Cache leeren</string>
     <string name="preferences_cache_dialog_summary">Dadurch werden die von Evanova aktuell gespeicherten Eve Online-Bilder sowie die zuletzt heruntergeladenen Daten gelöscht.</string>
+    <string name="preferences_character_dashboard_show_summary">" Ereignisse im Dashboard anzeigen."</string>
+    <string name="preferences_character_dashboard_show_title">Veranstaltungen</string>
 
     <string-array name="preferences_frequency_entries">
         <item>Deaktiviert</item>
@@ -145,12 +147,7 @@
     <string name="preferences_dialog_restart_text">Die Anwendung wird neu gestartet, damit diese Änderung wirksam wird.</string>
     <string name="preferences_language_dialog_installed">Bereits installiert.</string>
         
-    <string name="preferences_language_dialog_download_canceled">Abgebrochen</string><![CDATA[
-        
-        
-
-        
-    ]]>
+    <string name="preferences_language_dialog_download_canceled">Abgebrochen</string>
     <string name="preferences_language_dialog_download_failed">Download fehlgeschlagen</string>
     <string name = "preferences_language_dialog_download">Erfordert einen zusätzlichen Download.</string>
 </resources>

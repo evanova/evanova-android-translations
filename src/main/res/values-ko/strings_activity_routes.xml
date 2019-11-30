@@ -1,15 +1,15 @@
 <resources>
-  <string name="activity_routes_title">노선</string>
+  <string name="activity_routes_title">항로</string>
   <string name="activity_routes_title_subtitle">Dotlan Data 3시간</string>
   <string name="activity_routes_title_title_jumps">%1$s에서 %2$s</string>
   <string name="activity_routes_title_subtitle_jumps">%1$d 점프 (%2$d 동위원소)</string>
   <string name="activity_routes_title_subtitle_options">%1$d 점프</string>
-  <string name="activity_routes_tab_fastest">더 빠른 노선</string>
-  <string name="activity_routes_tab_high">빠른 노선</string>
-  <string name="activity_routes_tab_low">느린 노선</string>
-  <string name="activity_routes_tab_select">노선</string>
-  <string name="activity_routes_tab_recent_options">최근</string>
-  <string name="activity_routes_tab_recent_jumps">점프</string>
+  <string name="activity_routes_tab_fastest">직선항로</string>
+  <string name="activity_routes_tab_high">하이섹항로</string>
+  <string name="activity_routes_tab_low">로우섹항로</string>
+  <string name="activity_routes_tab_select">항로</string>
+  <string name="activity_routes_tab_recent_options">최근검색</string>
+  <string name="activity_routes_tab_recent_jumps">최근점프</string>
   <string name="activity_routes_hint_from">에서</string>
   <string name="activity_routes_hint_to">까지</string>
   <string name="activity_routes_hint_freighter">화물선</string>

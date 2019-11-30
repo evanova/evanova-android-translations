@@ -3,7 +3,7 @@
   <string name="activity_character_button_messages">메일</string>
   <string name="activity_character_button_assets">자산</string>
   <string name="activity_character_button_wallet">계좌</string>
-  <string name="activity_character_button_orders">주문</string>
+  <string name="activity_character_button_orders">거래</string>
   <string name="activity_character_button_contracts">계약</string>
   <string name="activity_character_button_industry">산업</string>
   <string name="activity_character_button_planetary">행성</string>

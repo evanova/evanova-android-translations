@@ -7,13 +7,13 @@
   <string name="activity_mailboxes_mailbox_title">%1$s</string>
   <string name="activity_mailboxes_mailbox_description">%2$d개 메시지 (읽지 않은 %1$d)</string>
   <string name="activity_mailboxes_killmails_title">킬메일</string>
-  <string name="activity_mailboxes_killmails_description">ZKillboard에서 제공 한 데이터)</string>
-  <string name="activity_mailboxes_list_messages_none">메시지가 없습니다</string>
+  <string name="activity_mailboxes_killmails_description">ZKillboard에서 제공한 데이터</string>
+  <string name="activity_mailboxes_list_messages_none">메시지 없음</string>
   <string name="activity_mailboxes_list_messages_total">%d 개의 메시지</string>
-  <string name="activity_mailboxes_list_messages_unread">%d 개의 읽지 않은 메시지</string>
+  <string name="activity_mailboxes_list_messages_unread">%d 개 읽지 않음</string>
   <string name="activity_mailboxes_killmail_pager_attackers">공격자</string>
   <string name="activity_mailboxes_killmail_pager_details">세부사항</string>
-  <string name="activity_mailboxes_killmail_dropped">삭제됨</string>
+  <string name="activity_mailboxes_killmail_dropped">분실됨</string>
   <string name="activity_mailboxes_killmail_destroyed">파괴됨</string>
   <string name="activity_mailboxes_menu_reply">댓글</string>
   <string name="activity_mailboxes_menu_unread">읽지 않음</string>
@@ -27,15 +27,15 @@
   <string name="activity_mailboxes_menu_killmail_death">죽음</string>
   <string name="activity_mailboxes_menu_killmail_final">최종 타격</string>
   <string name="activity_mailboxes_menu_killmail_zkill">ZKillboard</string>
-  <string name="activity_mailboxes_mail_delete_error">게임 내 메일을 삭제할 수 없습니다.</string>
-  <string name="activity_mailboxes_mail_delete_success">게임 내 메일이 삭제되었습니다.</string>
-  <string name="activity_mailboxes_mail_send_error">게임 내 메일을 보낼 수 없습니다.</string>
-  <string name="activity_mailboxes_mail_send_success">메일이 성공적으로 발송되었습니다.</string>
+  <string name="activity_mailboxes_mail_delete_error">메일 삭제불가</string>
+  <string name="activity_mailboxes_mail_delete_success">메일 삭제완료</string>
+  <string name="activity_mailboxes_mail_send_error">메일 발송불가</string>
+  <string name="activity_mailboxes_mail_send_success">메일 발송완료</string>
   <string name="activity_mailboxes_dialog_delete_title">메시지 삭제</string>
-  <string name="activity_mailboxes_dialog_delete_text">%1$d 개의 메시지가 삭제됩니다. 이 온라인을 적용하면 게임메일도 삭제를 시도합니다.</string>
+  <string name="activity_mailboxes_dialog_delete_text">%1$d 개의 메시지가 삭제됩니다.</string>
   <string name="activity_mailboxes_edit_validation">빈칸이 있거나 에러가 발생했습니다.</string>
   <string name="activity_mailboxes_widget_reply_title">다시 : %1$s</string>
   <string name="activity_mailboxes_widget_reply_body">\n 발송</string>
   <string name="activity_mailboxes_share_text">%1$s \n \n %2$s \n \n Evanova에서 보냄 (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
-  <string name="activity_mailboxes_apply_online">이 조치를 온라인으로 적용하십시오.</string>
+  <string name="activity_mailboxes_apply_online">실제 게임내 메일도 삭제</string>
 </resources>

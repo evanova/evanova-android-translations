@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_notifications_description">Уведомления</string>
+
+  <string name="activity_assets_description">Aктивы</string>
+  <string name="activity_assets_description_corporation">Активы корпорации</string>
 </resources>

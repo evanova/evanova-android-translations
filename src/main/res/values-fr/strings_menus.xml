@@ -29,4 +29,6 @@
   <string name="menu_backgroundify">Définir comme arrière-plan</string>
   <string name="menu_backgroundify_short">Contexte</string>
   <string name="menu_settings_character">Paramètres du personnage</string>
+  <string name="menu_reload_title">Recharger</string>
+
 </resources>

@@ -23,6 +23,9 @@
   <string name="activity_dashboard_summary_title">Résumé</string>
   <string name="activity_dashboard_summary_corporation_none_text">Aucune corporation.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Veuillez ré-importer vos personnages existants.</string>
+  <string name="activity_dashboard_update_database">Des modifications à la base de données peuvent nécessiter un téléchargement supplémentaire pour votre langue. Veuillez vérifier les paramètres de l\'application.</string>
+  <string name="activity_help_tab_about">A Propos</string>
+  <string name="activity_help_tab_changes">Modifications</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Pas de personnage</item>
     <item quantity="one">%1$d personnage</item>

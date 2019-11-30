@@ -48,12 +48,18 @@
   <string name="preferences_cache_summary">Effacer les données en cache d&amp;#39;Evanova.</string>
   <string name="preferences_cache_dialog_title">Vider le cache</string>
   <string name="preferences_cache_dialog_summary">Cela effacera les images Eve Online actuellement stockées par Evanova ainsi que les données récemment téléchargées.</string>
+  <string name="preferences_character_dashboard_category">Tableau de bord</string>
+  <string name="preferences_character_dashboard_notifications">Arrière-plan</string>
+  <string name="preferences_character_dashboard_events_title">Evenèments seulement</string>
+  <string name="preferences_character_dashboard_events_summary">Afficher uniquement les événements sélectionnés.</string>
+  <string name="preferences_character_dashboard_pinned_title">Toujours</string>
+  <string name="preferences_character_dashboard_pinned_summary">Toujour afficher ce personnage</string>
+  <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
+  <string name="preferences_character_dashboard_show_title">Événements</string>
   <string name = "preferences_dialog_restart_title"> Redémarrage requis </string>
      <string name = "preferences_dialog_restart_text">L\'application sera redémarrée pour que cette modification soit prise en compte.</string>
   <string name = "preferences_language_dialog_download">Nécessite un téléchargement supplémentaire.</string>
        <string name = "preferences_language_dialog_installed">Déjà installé. </string>
-       <string name = "preferences_language_dialog_download_canceled">Annulé</string><![CDATA[
-      
-       ]]>
+       <string name = "preferences_language_dialog_download_canceled">Annulé</string>
     <string name = "preferences_language_dialog_download_failed">L\'installation a échouée\n%1$s</string>
 </resources>

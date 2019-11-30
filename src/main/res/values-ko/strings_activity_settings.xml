@@ -4,20 +4,20 @@
   <string name="preferences_category_online">이브 온라인 데이터</string>
   <string name="preferences_category_display">디스플레이</string>
   <string name="preferences_category_notifications">알림</string>
-  <string name="preferences_online_metered_title">모바일 네트워크를 사용하지 마십시오</string>
-  <string name="preferences_online_metered_summary">고액의 모바일 또는 기타 네트워크를 사용하지 마십시오.</string>
+  <string name="preferences_online_metered_title">모바일 네트워크 사용 안 함</string>
+  <string name="preferences_online_metered_summary">모바일 또는 기타 네트워크 사용하지 않습니다.</string>
   <string name="preferences_notification_title_summary">모든 알림 활성화 / 비활성화 (문자 알림 설정보다 우선됨)</string>
   <string name="preferences_notification_title">알림 사용</string>
-  <string name="preferences_frequency_title">업데이트 주기</string>
+  <string name="preferences_frequency_title">자동 업데이트 주기</string>
   <string name="preferences_frequency_summary">백그라운드에서 데이터가 업데이트되는 주기를 선택하십시오. 잦은 업데이트는 배터리를 소진합니다.</string>
-  <string name="preferences_notification_cancel_title">자동 취소</string>
+  <string name="preferences_notification_cancel_title">알림 자동읽기 처리</string>
   <string name="preferences_notification_cancel_summary">선택하면 알림이 자동으로 해제됩니다.</string>
   <string name="preferences_drawer_dock_title">드로어 닫음</string>
   <string name="preferences_drawer_dock_summary">드로어 유지 (dpi가 높은 화면에서만 사용 가능).</string>
-  <string name="preferences_dashboard_news_title">이브 뉴스</string>
+  <string name="preferences_dashboard_news_title">이브 뉴스 표시</string>
   <string name="preferences_dashboard_news_summary">대시보드에 Eve News를 표시합니다 (재시작해야 함).</string>
-  <string name="preferences_locale_title">이브시간 사용</string>
-  <string name="preferences_locale_summary">이브시간으로 표시</string>
+  <string name="preferences_locale_title">이브시간대 사용</string>
+  <string name="preferences_locale_summary">앱의 시간을 이브시간대로 표시합니다.</string>
   <string name="preferences_background_title">앱 배경</string>
   <string name="preferences_background_summary">앱 배경으로 사용된 이미지를 변경하십시오.</string>
   <string name="preferences_background_select">배경 선택</string>
@@ -49,10 +49,10 @@
   <string name="preferences_language_dialog_ui">Evanova의 인터페이스에 적용.</string>
   <string name="preferences_language_dialog_database">Eve 아이템 데이터베이스에 적용.</string>
   <string name="preferences_category_cache">앱 캐시</string>
-  <string name="preferences_cache_title">앱 데이터</string>
+  <string name="preferences_cache_title">앱 캐시</string>
   <string name="preferences_cache_summary">Evanova에서 캐시데이터를 지웁니다.</string>
-  <string name="preferences_cache_dialog_title">캐시 지우기</string>
-  <string name="preferences_cache_dialog_summary">Evanova가 현재까지 저장한 Eve Online 이미지와 최근에 다운로드한 데이터가 지워집니다.</string>
+  <string name="preferences_cache_dialog_title">캐시 삭제</string>
+  <string name="preferences_cache_dialog_summary">Evanova가 현재까지 저장한 Eve Online 이미지와 최근에 다운로드한 데이터들을 지웁니다.</string>
   <string name="preferences_character_dashboard_show_title"> 이벤트 </string>
   <string name="preferences_character_dashboard_show_summary"> 대시보드에 캐릭터 이벤트를 표시합니다. </string>
 
@@ -63,4 +63,65 @@
 
   <string name="preferences_dialog_restart_title">재시작해야합니다</string>
   <string name="preferences_dialog_restart_text">이 변경사항을 적용하려면 앱이 재시작됩니다. </string>
+
+  <string-array name="preferences_frequency_entries">
+    <item>해제</item>
+    <item>15분마다</item>
+    <item>30분마다</item>
+    <item>매 시간마다</item>
+    <item>4시간마다</item>
+    <item>반일 (기본)</item>
+    <item>매일</item>
+  </string-array>
+
+  <string-array name="preferences_background_entries">
+    <item>백지</item>
+    <item>행성사진</item>
+    <item>달 사진</item>
+    <item>선택하기</item>
+  </string-array>
+
+  <string-array name="preferences_display_entries">
+    <item>백지</item>
+    <item>앱 백그라운드</item>
+    <item>캐릭터 함선</item>
+    <item>캐릭터 사진</item>
+  </string-array>
+
+  <string-array name="preferences_character_dashboard_show_entries">
+    <item>표시 안 함</item>
+    <item>이벤트만</item>
+    <item>항상</item>
+  </string-array>
+
+  <string-array name="preferences_character_dashboard_filter_entries">
+    <item>일정이벤트</item>
+    <item>식민지활동</item>
+    <item>연락망</item>
+    <item>산업작업</item>
+    <item>최근메일</item>
+    <item>최근알림</item>
+    <item>스킬훈련</item>
+  </string-array>
+
+  <string-array name="preferences_character_notifications_list_entries">
+    <item>스킬훈련</item>
+    <item>메일</item>
+    <item>알림</item>
+    <item>연락망</item>
+    <item>산업작업</item>
+    <item>일정이벤트</item>
+    <item>행성발전</item>
+  </string-array>
+
+  <string-array name="preferences_character_expiration_list_entries">
+    <item>하루</item>
+    <item>이틀</item>
+    <item>1주</item>
+    <item>1달 (기본)</item>
+    <item>6달</item>
+    <item>1년</item>
+    <item>절대</item>
+  </string-array>
+
 </resources>

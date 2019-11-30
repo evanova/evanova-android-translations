@@ -37,4 +37,6 @@
   <string name="activity_mailboxes_edit_validation">某些字段缺失或无效。</string>
   <string name="activity_mailboxes_widget_reply_title">回复：%1$s</string>
   <string name="activity_mailboxes_share_text">发件人 %1$s\n\n%2$s\n\n来自 Evanova（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
+  <string name="activity_mailboxes_apply_online">同步游戏内此操作</string>
+
 </resources>
