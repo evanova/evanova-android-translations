@@ -1,7 +1,7 @@
 <resources>
   <string name="activity_industry_tab_activities">작업</string>
   <string name="activity_industry_tab_mining">채광</string>
-  <string name="activity_industry_job_title">%1$s- %2$d 회 실행 (최대 %3$d)</string>
+  <string name="activity_industry_job_title">%1$s- %2$d회 실행 (최대 %3$d)</string>
   <string name="activity_industry_job_active_2">%1$s에 시작</string>
   <string name="activity_industry_job_active_3">%1$s에 종료</string>
   <string name="activity_industry_job_delivered_2">%1$s에 완료</string>
