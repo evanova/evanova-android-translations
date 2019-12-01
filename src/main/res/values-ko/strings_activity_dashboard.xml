@@ -13,7 +13,7 @@
   <string name="activity_dashboard_back">한 번 더 누르면 앱이 종료됩니다.</string>
   <string name="activity_dashboard_adapter_title_news">이브 온라인 뉴스</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d 스킬</string>
+  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d개 스킬</string>
   <string name="activity_dashboard_adapter_training_title">훈련 대기열</string>
   <string name="activity_dashboard_adapter_training_empty">훈련 대기열이 비어 있습니다</string>
   <string name="activity_dashboard_adapter_training_inactive">스킬훈련이 정지됨</string>
@@ -30,8 +30,8 @@
   </plurals>
   <plurals name="activity_dashboard_summary_corporations">
     <item quantity="zero">회사 없음</item>
-    <item quantity="one">%1$d 회사</item>
-    <item quantity="other">%1$d 개 회사</item>
+    <item quantity="one">%1$d개 회사</item>
+    <item quantity="other">%1$d개 회사</item>
   </plurals>
   <string name="activity_dashboard_update_database">데이터베이스에 언어에 대한 추가 다운로드가 필요할 수 있습니다. 응용 프로그램 설정을 확인하십시오.</string>
 </resources>
