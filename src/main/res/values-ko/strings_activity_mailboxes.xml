@@ -5,12 +5,12 @@
   <string name="activity_mailboxes_mail_to">수신자:</string>
   <string name="activity_mailboxes_mail_reply">답장 : %1$s</string>
   <string name="activity_mailboxes_mailbox_title">%1$s</string>
-  <string name="activity_mailboxes_mailbox_description">%2$d개 메시지 (읽지 않은 %1$d)</string>
+  <string name="activity_mailboxes_mailbox_description">%2$d개 메시지 (%1$d개 읽지 않음)</string>
   <string name="activity_mailboxes_killmails_title">킬메일</string>
   <string name="activity_mailboxes_killmails_description">ZKillboard에서 제공한 데이터</string>
   <string name="activity_mailboxes_list_messages_none">메시지 없음</string>
-  <string name="activity_mailboxes_list_messages_total">%d 개의 메시지</string>
-  <string name="activity_mailboxes_list_messages_unread">%d 개 읽지 않음</string>
+  <string name="activity_mailboxes_list_messages_total">%d개의 메시지</string>
+  <string name="activity_mailboxes_list_messages_unread">%d개 읽지 않음</string>
   <string name="activity_mailboxes_killmail_pager_attackers">공격자</string>
   <string name="activity_mailboxes_killmail_pager_details">세부사항</string>
   <string name="activity_mailboxes_killmail_dropped">분실됨</string>
@@ -32,7 +32,7 @@
   <string name="activity_mailboxes_mail_send_error">메일 발송불가</string>
   <string name="activity_mailboxes_mail_send_success">메일 발송완료</string>
   <string name="activity_mailboxes_dialog_delete_title">메시지 삭제</string>
-  <string name="activity_mailboxes_dialog_delete_text">%1$d 개의 메시지가 삭제됩니다.</string>
+  <string name="activity_mailboxes_dialog_delete_text">%1$d개의 메시지가 삭제됩니다.</string>
   <string name="activity_mailboxes_edit_validation">빈칸이 있거나 에러가 발생했습니다.</string>
   <string name="activity_mailboxes_widget_reply_title">다시 : %1$s</string>
   <string name="activity_mailboxes_widget_reply_body">\n 발송</string>
