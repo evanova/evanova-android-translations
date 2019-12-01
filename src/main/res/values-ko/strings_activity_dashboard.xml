@@ -13,7 +13,7 @@
   <string name="activity_dashboard_back">한 번 더 누르면 앱이 종료됩니다.</string>
   <string name="activity_dashboard_adapter_title_news">이브 온라인 뉴스</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d 스킬</string>
+  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d개 스킬</string>
   <string name="activity_dashboard_adapter_training_title">훈련 대기열</string>
   <string name="activity_dashboard_adapter_training_empty">훈련 대기열이 비어 있습니다</string>
   <string name="activity_dashboard_adapter_training_inactive">스킬훈련이 정지됨</string>
