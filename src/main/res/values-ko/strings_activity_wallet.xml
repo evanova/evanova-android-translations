@@ -8,7 +8,7 @@
   <string name="activity_wallet_division6">제6계좌</string>
   <string name="activity_wallet_division7">제7계좌</string>
   <string name="activity_wallet_balance">잔액</string>
-  <string name="activity_wallet_credit">신용</string>
+  <string name="activity_wallet_credit">총액</string>
   <string name="activity_wallet_from">%1$s에서</string>
   <string name="activity_wallet_to">%1$s까지</string>
   <string name="activity_wallet_graph_history">내역</string>
@@ -18,7 +18,7 @@
   <string name="activity_wallet_history_description">지난 3개월</string>
   <string name="activity_wallet_transaction_qty">%1$d개 단위.</string>
   <string name="activity_wallet_transaction_seller">판매자</string>
-  <string name="activity_wallet_transaction_price">가격</string>
+  <string name="activity_wallet_transaction_price">단가</string>
   <string name="activity_wallet_transaction_buyer">구매자</string>
   <string name="activity_wallet_tab_journal">일지</string>
   <string name="activity_wallet_tab_transactions">거래</string>
