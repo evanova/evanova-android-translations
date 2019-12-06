@@ -1,7 +1,7 @@
 <resources>
   <string name="activity_industry_tab_activities">작업</string>
   <string name="activity_industry_tab_mining">채광</string>
-  <string name="activity_industry_job_title">%1$s- %2$d 회 실행 (최대 %3$d)</string>
+  <string name="activity_industry_job_title">%1$s- %2$d회 실행 (최대 %3$d)</string>
   <string name="activity_industry_job_active_2">%1$s에 시작</string>
   <string name="activity_industry_job_active_3">%1$s에 종료</string>
   <string name="activity_industry_job_delivered_2">%1$s에 완료</string>
@@ -18,9 +18,9 @@
   <string name="activity_industry_job_unknown_3"/>
   <string name="activity_industry_job_name_na">해당 없음</string>
   <string name="activity_industry_job_name_manufacturing">제작</string>
-  <string name="activity_industry_job_name_technology">과학 기술</string>
-  <string name="activity_industry_job_name_time">시간효율 연구</string>
-  <string name="activity_industry_job_name_material">재료효율 연구</string>
+  <string name="activity_industry_job_name_technology">자원효율연구</string>
+  <string name="activity_industry_job_name_time">시간효율연구</string>
+  <string name="activity_industry_job_name_material">재료효율연구</string>
   <string name="activity_industry_job_name_copy">복사</string>
   <string name="activity_industry_job_name_duplicate">복제</string>
   <string name="activity_industry_job_name_reverse">역설계</string>
