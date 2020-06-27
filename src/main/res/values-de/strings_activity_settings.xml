@@ -15,7 +15,7 @@
     <string name="preferences_notification_title">Benachrichtigungen aktivieren</string>
 
     <string name="preferences_frequency_title">Aktualisierungsfrequenz</string>
-    <string name="preferences_frequency_summary">Leg fest, wie oft Daten im Hintergrund aktualisiert werden. Beachte, dass häufiges aktualisieren die Batterie schneller entlädt.</string>
+    <string name="preferences_frequency_summary">Lege fest, wie oft Daten im Hintergrund aktualisiert werden. Beachte, dass häufiges aktualisieren die Batterie schneller entlädt.</string>
 
     <string name="preferences_notification_cancel_title">Auto-Deaktivierung</string>
     <string name="preferences_notification_cancel_summary">Benachrichtigungen automatisch deaktivieren</string>
