@@ -58,5 +58,6 @@
   <string name="activity_account_scopes_market_title">Marktaufträge</string>
   <string name="activity_account_scopes_wallet_title">Kontostand und Transaktionen</string>
   <string name="activity_account_scopes_fitting_title">Ausrüstungen</string>
+  <string name="activity_account_scopes_fleet_title">Flotten Management</string>
 
 </resources>
