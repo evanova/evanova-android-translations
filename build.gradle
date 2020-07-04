@@ -36,19 +36,19 @@ sourceSets {
 
 dependencies {
 
-    implementation 'org.slf4j:slf4j-api:1.7.28'
+    implementation 'org.slf4j:slf4j-api:1.7.30'
 
-    implementation 'org.apache.commons:commons-lang3:3.9'
+    implementation 'org.apache.commons:commons-lang3:3.8.1'
     implementation 'org.apache.commons:commons-collections4:4.4'
     implementation 'commons-io:commons-io:2.6'
 
-    implementation 'joda-time:joda-time:2.10.3'
+    implementation 'joda-time:joda-time:2.10.5'
 
-    implementation 'com.fasterxml.jackson.core:jackson-core:2.10.0'
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.10.0'
-    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.0'
-    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0'
-    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.0'
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.10.3'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.10.3'
+    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.3'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.3'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.3'
 
 
     implementation 'com.google.cloud:google-cloud-translate:1.62.0'

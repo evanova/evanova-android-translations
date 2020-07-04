@@ -138,7 +138,7 @@
     <string name="notification_enum_RESEARCHMISSIONAVAILABLEMSG">Research Mission Available</string>
     <string name="notification_enum_RETRACTSWAR">Retracts War</string>
     <string name="notification_enum_SEASONALCHALLENGECOMPLETED">Seasonal Challenge Completed</string>
-    <string name="notification_enum_SOVALLCLAIMAQUIREDMSG">Sov Claim Aquired</string>
+    <string name="notification_enum_SOVALLCLAIMAQUIREDMSG">Sov Claim Acquired</string>
     <string name="notification_enum_SOVALLCLAIMLOSTMSG">Sov Claim Lost</string>
     <string name="notification_enum_SOVCOMMANDNODEEVENTSTARTED">Sov Command Node Event Started</string>
     <string name="notification_enum_SOVCORPBILLLATEMSG">Sov Corp Bill Late</string>

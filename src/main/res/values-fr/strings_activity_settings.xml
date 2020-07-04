@@ -17,7 +17,7 @@
   <string name="preferences_drawer_dock_summary">Conservez le tiroir visible à tout moment (disponible uniquement sur les écrans à haute résolution).</string>
   <string name="preferences_dashboard_news_title">Eve News</string>
   <string name="preferences_dashboard_news_summary">Afficher Eve News sur le tableau de bord (redémarrage requis).</string>
-  <string name="preferences_locale_title">Utiliser l\'heure de Eve OnlineEve Online</string>
+  <string name="preferences_locale_title">Utiliser l\'heure de Eve Online</string>
   <string name="preferences_locale_summary">Affichez les informations temporelles en heure de Eve Online au lieu de celle de votre appareil.</string>
   <string name="preferences_background_title">Contexte d\'application</string>
   <string name="preferences_background_summary">Changer l\'image utilisée comme arrière-plan de l\'application.</string>
