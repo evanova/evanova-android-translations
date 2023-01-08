@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_contact_menu_mail">Mail</string>
+    <string name="activity_contact_menu_view">Details</string>
+
+</resources>

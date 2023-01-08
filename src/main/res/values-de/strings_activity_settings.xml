@@ -24,7 +24,7 @@
     <string name="preferences_drawer_dock_summary">Zeige das Menü immer an (nur bei hoher Auflösung verfügbar).</string>
 
     <string name="preferences_dashboard_news_title">Eve News</string>
-    <string name="preferences_dashboard_news_summary">Eve News in der Übersicht anzeigen (Neustart erforderlich).</string>
+    <string name="preferences_dashboard_news_summary">Eve News in der Übersicht anzeigen.</string>
 
     <string name="preferences_locale_title">Verwende die Eve-Zeit</string>
     <string name="preferences_locale_summary">Zeigt zeitbasierte Informationen in Eve-Zeit anstelle der Uhrzeit deines Geräts an.</string>
@@ -148,6 +148,6 @@
     <string name="preferences_language_dialog_installed">Bereits installiert.</string>
         
     <string name="preferences_language_dialog_download_canceled">Abgebrochen</string>
-    <string name="preferences_language_dialog_download_failed">Download fehlgeschlagen</string>
+    <string name="preferences_language_dialog_download_failed">Download fehlgeschlagen (%1$d)</string>
     <string name = "preferences_language_dialog_download">Erfordert einen zusätzlichen Download.</string>
 </resources>

@@ -10,8 +10,8 @@
   <string name="activity_fittings_menu_owners">Propriétaires</string>
   <string name="activity_fittings_menu_clipboard_import">Importer depuis le Presse-papiers</string>
   <string name="activity_fittings_menu_clipboard_export">Exporter vers le presse papier</string>
-  <string name="activity_fittings_menu_xml_import">Importer Eve XML</string>
-  <string name="activity_fittings_menu_xml_export">Export Eve XML</string>
+  <string name="activity_fittings_menu_xml_import">Importer XML</string>
+  <string name="activity_fittings_menu_xml_export">Export XML</string>
   <string name="activity_fittings_menu_fit">Adapter sur…</string>
   <string name="activity_fittings_menu_damage">Dégâts</string>
   <string name="activity_fittings_menu_rename">Renommer</string>

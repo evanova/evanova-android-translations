@@ -12,7 +12,7 @@
   <string name="activity_dashboard_update_settings">設定</string>
   <string name="activity_dashboard_summary">概要</string>
   <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
-  <string name="activity_dashboard_adapter_title_news">イブオンラインニュース</string>
+  <string name="activity_dashboard_adapter_title_rss">イブオンラインニュース</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
   <string name="activity_dashboard_adapter_training_when">%2$sまで %1$d のスキル</string>
   <string name="activity_dashboard_adapter_training_title">トレーニングキュー</string>

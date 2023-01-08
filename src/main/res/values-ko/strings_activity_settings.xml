@@ -15,7 +15,7 @@
   <string name="preferences_drawer_dock_title">드로어 닫음</string>
   <string name="preferences_drawer_dock_summary">드로어 유지 (dpi가 높은 화면에서만 사용 가능).</string>
   <string name="preferences_dashboard_news_title">이브 뉴스 표시</string>
-  <string name="preferences_dashboard_news_summary">대시보드에 Eve News를 표시합니다 (재시작해야 함).</string>
+  <string name="preferences_dashboard_news_summary">대시보드에 Eve News를 표시합니다.</string>
   <string name="preferences_locale_title">이브시간대 사용</string>
   <string name="preferences_locale_summary">앱의 시간을 이브시간대로 표시합니다.</string>
   <string name="preferences_background_title">앱 배경</string>
@@ -59,7 +59,7 @@
   <string name="preferences_language_dialog_download">추가 다운로드가 필요합니다.</string>
   <string name="preferences_language_dialog_installed">이미 설치되었습니다.</string>
   <string name="preferences_language_dialog_download_canceled">취소</string>
-  <string name="preferences_language_dialog_download_failed">다운로드 실패\n%1$s</string>
+  <string name="preferences_language_dialog_download_failed">다운로드 실패 (%1$d)</string>
 
   <string name="preferences_dialog_restart_title">재시작해야합니다</string>
   <string name="preferences_dialog_restart_text">이 변경사항을 적용하려면 앱이 재시작됩니다. </string>

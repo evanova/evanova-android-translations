@@ -15,7 +15,8 @@
   <string name="activity_skills_multiplier">トレーニング時間乗数</string>
   <string name="activity_skills_requirement_text">%1$s%2$d</string>
   <string name="activity_skills_group_description">%1$d スキル</string>
-  <string name="activity_skills_character_group_description">%2$d / %1$d のスキルが訓練されました - 訓練中の %3$d  - 計画された %4$d</string>
+  <string name="activity_skills_character_group_description">%2$d / %1$d のスキルが訓練されました</string>
+  <string name="activity_skills_character_group_description_training">%2$d / %1$d のスキルが訓練されました - 訓練中の %3$d</string>
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
@@ -27,12 +28,7 @@
   <string name="activity_skills_queue_inactive">トレーニングキューは無効です</string>
   <string name="activity_skills_queue_skill_active">%1$s%2$d</string>
   <string name="activity_skills_queue_ends">キューは%1$s（％2 $ s）で終了します</string>
-  <string name="activity_skills_queue_count">キューの%1$dスキル - %2$d終了 - ％3 $ d計画中</string>
-  <string name="activity_skills_queue_saved">イブオンラインを征服するあなたの邪悪な計画が記録されています。</string>
-  <string name="activity_skills_queue_reverted">スキルプランは元に戻りました。</string>
-  <string name="activity_skills_queue_cleared">スキルプランがクリアされました。</string>
-  <string name="activity_skills_queue_removed">スキルが計画から削除されました。</string>
-  <string name="activity_skills_queue_added">計画にスキルが追加されました。</string>
+  <string name="activity_skills_queue_count">キューの%1$dスキル - %2$d終了</string>
   <string name="activity_skills_dialog_save_title">計画を保存</string>
   <string name="activity_skills_dialog_save_text">スキル計画を変更しました。それらを保存しますか？</string>
 </resources>

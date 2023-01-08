@@ -7,7 +7,7 @@
 
     <string name="activity_account_text_2">%1$d ESI scopes</string>
     <string name="activity_account_text_3">Last logged %1$s (%2$d logins)</string>
-    <string name="activity_account_text_reload">This account needs to be re-imported.</string>
+    <string name="activity_account_text_reload">This account may need to be re-imported.</string>
     <string name="activity_account_text_reload_text">Use the Add button to replace it.</string>
 
     <string name="activity_account_error_token">Authentication failed</string>
@@ -28,9 +28,6 @@
 
     <string name="activity_account_text_loading_1">Get a free personalized in-game mail!</string>
     <string name="activity_account_text_loading_1_text">Send ISK to Evanova Android and get a free thank you e-mail.</string>
-
-    <string name="activity_account_text_loading_2">Spai analysis in progress.</string>
-    <string name="activity_account_text_loading_2_text">Please wait while we confirm that you are spai.</string>
 
     <string name="activity_account_text_loading_3">Warping to infinity and beyond.</string>
     <string name="activity_account_text_loading_3_text">Did someone said jump?</string>
@@ -58,6 +55,5 @@
     <string name="activity_account_scopes_market_title">Market Orders</string>
     <string name="activity_account_scopes_wallet_title">Wallet balance and transactions</string>
     <string name="activity_account_scopes_fitting_title">Fittings</string>
-    <string name="activity_account_scopes_fleet_title">Fleet Management</string>
 
 </resources>

@@ -15,7 +15,7 @@
     <string name="preferences_drawer_dock_title">Пристыкованный ящик</string>
     <string name="preferences_drawer_dock_summary">Держите ящик видимым всегда (доступно только на экранах с высоким разрешением).</string>
     <string name="preferences_dashboard_news_title">Ева Новости</string>
-    <string name="preferences_dashboard_news_summary">Показать Eve News на приборной панели (требуется перезагрузка).</string>
+    <string name="preferences_dashboard_news_summary">Показать Eve News на приборной панели.</string>
     <string name="preferences_locale_title">Используйте канун времени</string>
     <string name="preferences_locale_summary">Отображение информации на основе времени в канун времени вместо времени вашего устройства.</string>
     <string name="preferences_background_title">Фон приложения</string>
@@ -71,7 +71,7 @@
     <string name="preferences_language_dialog_installed"> Уже установлен.</string>
         
     <string name="preferences_language_dialog_download_canceled">Отменено</string>
-    <string name="preferences_language_dialog_download_failed">Загрузка не удалась\n%1$s</string>
+    <string name="preferences_language_dialog_download_failed">Загрузка не удалась (%1$d)</string>
 
     <string name="preferences_character_dashboard_show_summary">Показать события на панели инструментов</string>
     <string name="preferences_character_dashboard_show_title">Мероприятия</string>

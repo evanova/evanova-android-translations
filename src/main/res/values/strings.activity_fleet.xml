@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="activity_fleet_title_enabled" tools:keep="@string/activity_fleet_title_enabled">Enabled</string>
+    <string name="activity_fleet_title_disabled">Disabled</string>
+
+</resources>

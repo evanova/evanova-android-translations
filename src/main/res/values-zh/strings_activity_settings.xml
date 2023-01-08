@@ -16,7 +16,7 @@
     <string name="preferences_drawer_dock_title">菜单栏固定</string>
     <string name="preferences_drawer_dock_summary">始终显示左侧菜单栏（仅适用于平板之类的大屏幕）</string>
     <string name="preferences_dashboard_news_title">EVE新闻</string>
-    <string name="preferences_dashboard_news_summary">在主页面上显示EVE新闻（需要重启）</string>
+    <string name="preferences_dashboard_news_summary">在主页面上显示EVE新闻</string>
     <string name="preferences_locale_title">使用EVE时间</string>
     <string name="preferences_locale_summary">时间显示为游戏内时间而不是本地时间</string>
     <string name="preferences_background_title">应用背景</string>
@@ -63,6 +63,6 @@
 
     <string name="preferences_language_dialog_installed">已安装</string>
     <string name="preferences_language_dialog_download_canceled">已取消</string>
-    <string name="preferences_language_dialog_download_failed">下载失败\n%1$s</string>
+    <string name="preferences_language_dialog_download_failed">下载失败 (%1$d)</string>
     <string name="preferences_language_dialog_download">需要额外的下载</string>
 </resources>

@@ -10,8 +10,8 @@
   <string name="activity_fittings_menu_owners">Владельцы</string>
   <string name="activity_fittings_menu_clipboard_import">Импорт буфера обмена</string>
   <string name="activity_fittings_menu_clipboard_export">Экспорт в буфер обмена</string>
-  <string name="activity_fittings_menu_xml_import">Импорт Eve XML</string>
-  <string name="activity_fittings_menu_xml_export">Экспорт Eve XML</string>
+  <string name="activity_fittings_menu_xml_import">Импорт XML</string>
+  <string name="activity_fittings_menu_xml_export">Экспорт XML</string>
   <string name="activity_fittings_menu_fit">Подходит…</string>
   <string name="activity_fittings_menu_damage">возмещение убытков</string>
   <string name="activity_fittings_menu_rename">переименовывать</string>

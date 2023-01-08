@@ -15,7 +15,7 @@
   <string name="activity_dashboard_back">Durch nochmaliges Drücken der Taste wird diese Seite geschlossen.</string>
   <string name="activity_dashboard_update_settings">Einstellungen</string>
 
-  <string name="activity_dashboard_adapter_title_news">Eve Online News</string>
+  <string name="activity_dashboard_adapter_title_rss">Eve Online News</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
   <string name="activity_dashboard_adapter_training_when">%1$d Skills bis %2$s</string>
   <string name="activity_dashboard_adapter_training_title">Trainingswarteschlange</string>

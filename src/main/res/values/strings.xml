@@ -24,6 +24,7 @@
     <string name="search_items_hint">Search items</string>
 
     <string name="feature_title_en">English Translation</string>
+    <string name="feature_title_es">Spanish Translation</string>
     <string name="feature_title_de">German Translation</string>
     <string name="feature_title_zh">Chinese Translation</string>
     <string name="feature_title_fr">French Translation</string>

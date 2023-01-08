@@ -12,8 +12,8 @@
   <string name="activity_fittings_menu_clipboard_import">Aus Zwischenablage importieren</string>
   <string name="activity_fittings_menu_clipboard_export">In Zwischenablage exportieren</string>
 
-  <string name="activity_fittings_menu_xml_import">Eve XML importieren</string>
-  <string name="activity_fittings_menu_xml_export">Eve XML exportieren</string>
+  <string name="activity_fittings_menu_xml_import">XML importieren</string>
+  <string name="activity_fittings_menu_xml_export">XML exportieren</string>
 
   <string name="activity_fittings_menu_fit">Anpassen…</string>
   <string name="activity_fittings_menu_damage">Schaden</string>

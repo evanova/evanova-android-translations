@@ -16,7 +16,8 @@
   <string name="activity_skills_multiplier">训练时间倍增系数</string>
   <string name="activity_skills_requirement_text">%1$s %2$d</string>
   <string name="activity_skills_group_description">%1$d 技能</string>
-  <string name="activity_skills_character_group_description">%2$d / %1$d 已掌握 - %3$d 学习中 - %4$d 计划中</string>
+  <string name="activity_skills_character_group_description">%2$d / %1$d 已掌握</string>
+  <string name="activity_skills_character_group_description_training">%2$d / %1$d 已掌握 - %3$d 学习中</string>
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
@@ -28,12 +29,5 @@
   <string name="activity_skills_queue_inactive">技能学习队列无效</string>
   <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
   <string name="activity_skills_queue_ends">队列完成于 %1$s（%2$s）</string>
-  <string name="activity_skills_queue_count">%1$d 队列中 - %2$d 已完成 - %3$d 计划中</string>
-  <string name="activity_skills_queue_saved">你征服EVE的邪恶计划已被记录下来</string>
-  <string name="activity_skills_queue_reverted">技能计划已恢复</string>
-  <string name="activity_skills_queue_cleared">技能计划已清空</string>
-  <string name="activity_skills_queue_removed">技能已从计划中删除</string>
-  <string name="activity_skills_queue_added">技能已增加到计划中</string>
-  <string name="activity_skills_dialog_save_title">保存技能计划</string>
-  <string name="activity_skills_dialog_save_text">你已对技能计划进行了更改，是否保存？</string>
+  <string name="activity_skills_queue_count">%1$d 队列中 - %2$d 已完成</string>
 </resources>

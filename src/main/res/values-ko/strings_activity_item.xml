@@ -10,5 +10,4 @@
   <string name="activity_item_attribute_targeting">타겟팅</string>
   <string name="activity_item_attribute_propulsion">추진력</string>
   <string name="activity_item_attribute_drones">드론</string>
-  <string name="activity_item_traits_text">%1$.0f %2$s %3$s.</string>
 </resources>

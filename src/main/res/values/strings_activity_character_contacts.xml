@@ -9,4 +9,7 @@
     <string name="activity_contacts_labels_count">%1$d contacts</string>
     <string name="activity_contacts_agents_started">Started %1$s</string>
     <string name="activity_contacts_agents_research">(%1$d / day) - %2$d remaining</string>
+
+    <string name="activity_contacts_standings" translatable="false">%1$.2f</string>
+
 </resources>

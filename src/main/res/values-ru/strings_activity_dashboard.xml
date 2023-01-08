@@ -11,7 +11,7 @@
   <string name="activity_dashboard_update_settings">Настройки</string>
   <string name="activity_dashboard_recent">Недавние события</string>
   <string name="activity_dashboard_back">Еще одно обратное нажатие вытащит вас со станции.</string>
-  <string name="activity_dashboard_adapter_title_news">Ева онлайн новости</string>
+  <string name="activity_dashboard_adapter_title_rss">Ева онлайн новости</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
   <string name="activity_dashboard_adapter_training_when">%1$d умений до %2$s</string>
   <string name="activity_dashboard_adapter_training_title">Очередь на обучение</string>

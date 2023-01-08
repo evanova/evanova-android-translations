@@ -12,8 +12,8 @@
     <string name="activity_fittings_menu_clipboard_import">Import clipboard</string>
     <string name="activity_fittings_menu_clipboard_export">Export to clipboard</string>
 
-    <string name="activity_fittings_menu_xml_import">Import Eve XML</string>
-    <string name="activity_fittings_menu_xml_export">Export Eve XML</string>
+    <string name="activity_fittings_menu_xml_import">Import XML</string>
+    <string name="activity_fittings_menu_xml_export">Export XML</string>
 
     <string name="activity_fittings_menu_fit">Fit On…</string>
     <string name="activity_fittings_menu_damage">Damages</string>
@@ -61,6 +61,9 @@
 
     <string name="activity_fittings_implant_add_success">Implant fitted</string>
     <string name="activity_fittings_implant_add_error">Cannot fit implant</string>
+
+    <string name="activity_fittings_charge_add_success">Charge fitted</string>
+    <string name="activity_fittings_charge_add_error">Cannot fit charge</string>
 
     <plurals name="activity_fittings_group_count">
         <item quantity="zero">No fitting</item>

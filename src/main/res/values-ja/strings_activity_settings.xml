@@ -15,7 +15,7 @@
     <string name="preferences_drawer_dock_title">ドッキングドロワー</string>
     <string name="preferences_drawer_dock_summary">引き出しを常に表示したままにします（高dpi画面でのみ使用可能）。</string>
     <string name="preferences_dashboard_news_title">イブニュース</string>
-    <string name="preferences_dashboard_news_summary">ダッシュボードにイブのニュースを表示（再起動が必要）。</string>
+    <string name="preferences_dashboard_news_summary">ダッシュボードにイブのニュースを表示</string>
     <string name="preferences_locale_title">イブタイムを使用</string>
     <string name="preferences_locale_summary">デバイスの時刻ではなく、イブタイムで時間ベースの情報を表示します。</string>
     <string name="preferences_background_title">アプリケーションの背景</string>
@@ -62,6 +62,6 @@
 
     <string name="preferences_character_dashboard_show_summary">" ダッシュボードにイベントを表示します。"</string>
     <string name="preferences_character_dashboard_show_title">イベント</string>
-    <string name="preferences_language_dialog_download_failed">ダウンロードに失敗しました</string>
+    <string name="preferences_language_dialog_download_failed">ダウンロードに失敗しました (%1$d)</string>
     <string name="preferences_language_dialog_download">追加のダウンロードが必要です。</string>
 </resources>

@@ -5,18 +5,18 @@
   <string name="preferences_category_online">EVE Online Data</string>
   <string name="preferences_category_display">Afficher</string>
   <string name="preferences_category_notifications">Notifications</string>
-  <string name="preferences_online_metered_title">Ne pas utiliser les réseaux mobiles.</string>
-  <string name="preferences_online_metered_summary">Évitez d’utiliser des réseaux mobiles ou autres qui pourraient vous coûter cher.</string>
+  <string name="preferences_online_metered_title">Réseaux mobiles.</string>
+  <string name="preferences_online_metered_summary">Évitez d’utiliser des réseaux mobiles ou autres qui pourraient vous coûter.</string>
   <string name="preferences_notification_title_summary">Activer / Désactiver toutes les notifications (ceci remplace tout paramètre de notification de personnages)</string>
   <string name="preferences_notification_title">Activer les notifications</string>
   <string name="preferences_frequency_title">Fréquence de mise à jour</string>
   <string name="preferences_frequency_summary">Choisissez la fréquence de mise à jour des données en arrière-plan. Notez que des mises à jour fréquentes peuvent épuiser votre batterie si vous avez beaucoup de personnages.</string>
   <string name="preferences_notification_cancel_title">Annulation automatique</string>
-  <string name="preferences_notification_cancel_summary">Ignorer automatiquement la notification lorsqu\'il est sélectionné.</string>
+  <string name="preferences_notification_cancel_summary">Ignorer automatiquement les notifications sélectionnées.</string>
   <string name="preferences_drawer_dock_title">Tiroir amarré</string>
   <string name="preferences_drawer_dock_summary">Conservez le tiroir visible à tout moment (disponible uniquement sur les écrans à haute résolution).</string>
   <string name="preferences_dashboard_news_title">Eve News</string>
-  <string name="preferences_dashboard_news_summary">Afficher Eve News sur le tableau de bord (redémarrage requis).</string>
+  <string name="preferences_dashboard_news_summary">Afficher Eve News sur le tableau de bord.</string>
   <string name="preferences_locale_title">Utiliser l\'heure de Eve Online</string>
   <string name="preferences_locale_summary">Affichez les informations temporelles en heure de Eve Online au lieu de celle de votre appareil.</string>
   <string name="preferences_background_title">Contexte d\'application</string>
@@ -44,8 +44,8 @@
   <string name="preferences_language_dialog_ui">Appliquer à l\'interface d\'Evanova.</string>
   <string name="preferences_language_dialog_database">Appliquer à la base de données articles Eve.</string>
   <string name="preferences_category_cache">Cache d\'application</string>
-  <string name="preferences_cache_title">Application Data</string>
-  <string name="preferences_cache_summary">Effacer les données en cache d&amp;#39;Evanova.</string>
+  <string name="preferences_cache_title">Cache</string>
+  <string name="preferences_cache_summary">Effacer les données en cache.</string>
   <string name="preferences_cache_dialog_title">Vider le cache</string>
   <string name="preferences_cache_dialog_summary">Cela effacera les images Eve Online actuellement stockées par Evanova ainsi que les données récemment téléchargées.</string>
   <string name="preferences_character_dashboard_category">Tableau de bord</string>
@@ -61,5 +61,5 @@
   <string name = "preferences_language_dialog_download">Nécessite un téléchargement supplémentaire.</string>
        <string name = "preferences_language_dialog_installed">Déjà installé. </string>
        <string name = "preferences_language_dialog_download_canceled">Annulé</string>
-    <string name = "preferences_language_dialog_download_failed">L\'installation a échouée\n%1$s</string>
+    <string name = "preferences_language_dialog_download_failed">L\'installation a échouée (%1$d)</string>
 </resources>

@@ -19,8 +19,6 @@
   <string name="activity_account_text_loading_0_text">Отправьте ISK в Evanova Android, чтобы показать вашу поддержку.</string>
   <string name="activity_account_text_loading_1">Получите бесплатную персонализированную внутриигровую почту!</string>
   <string name="activity_account_text_loading_1_text">Отправьте ISK на Evanova Android и получите бесплатное письмо с благодарностью.</string>
-  <string name="activity_account_text_loading_2">SPAI анализ в процессе.</string>
-  <string name="activity_account_text_loading_2_text">Пожалуйста, подождите, пока мы подтвердим, что вы SPAI.</string>
   <string name="activity_account_text_loading_3">Деформация до бесконечности и за ее пределами.</string>
   <string name="activity_account_text_loading_3_text">Кто-то сказал прыгать?</string>
   <string name="activity_account_text_loading_4">Могу ли я импортировать мой Drake в Evanova?</string>

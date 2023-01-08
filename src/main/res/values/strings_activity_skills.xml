@@ -21,7 +21,8 @@
     <string name="activity_skills_requirement_text">%1$s %2$d</string>
 
     <string name="activity_skills_group_description">%1$d skills</string>
-    <string name="activity_skills_character_group_description">%2$d / %1$d skills trained - %3$d in training - %4$d planned</string>
+    <string name="activity_skills_character_group_description">%2$d / %1$d skills trained</string>
+    <string name="activity_skills_character_group_description_training">%2$d / %1$d skills trained - %3$d in training</string>
 
     <string name="activity_skills_training_level">%1$s</string>
     <string name="activity_skills_training_none"> </string>
@@ -37,17 +38,7 @@
     <string name="activity_skills_queue_inactive">Training queue is inactive</string>
     <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
     <string name="activity_skills_queue_ends">Queue ends %1$s (%2$s)</string>
-    <string name="activity_skills_queue_count">%1$d skills in queue - %2$d finished - %3$d planned</string>
-
-    <string name="activity_skills_queue_saved">Your evil plans to conquer Eve Online have been recorded.</string>
-    <string name="activity_skills_queue_reverted">Skill plan reverted.</string>
-    <string name="activity_skills_queue_cleared">Skill plan cleared.</string>
-    <string name="activity_skills_queue_removed">Skills removed from plan.</string>
-    <string name="activity_skills_queue_added">Skills added to plan.</string>
-
-    <string name="activity_skills_dialog_save_title">Save Planning</string>
-    <string name="activity_skills_dialog_save_text">You have made changes in your skill planning. Do you want to save them?</string>
-
+    <string name="activity_skills_queue_count">%1$d skills in queue - %2$d finished</string>
     <string-array name="activity_skills_attributes_map">
         <item>Intelligence</item>
         <item>Perception</item>
