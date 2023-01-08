@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_notifications_description">Notificaciones</string>
+  <string name="activity_notifications_all_read">marcar todo como leido</string>
+  <string name="activity_notifications_all_read_confirmation">¿Marcar %1$d notificaciones como leídas?</string>
+</resources>

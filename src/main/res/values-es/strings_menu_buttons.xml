@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_character_button_fittings">Guarniciones</string>
+  <string name="activity_character_button_messages">Correos</string>
+  <string name="activity_character_button_assets">Activos</string>
+  <string name="activity_character_button_wallet">Cartera</string>
+  <string name="activity_character_button_orders">Mercado</string>
+  <string name="activity_character_button_contracts">Contrato</string>
+  <string name="activity_character_button_industry">Industria</string>
+  <string name="activity_character_button_planetary">Planetario</string>
+  <string name="activity_character_button_social">Social</string>
+  <string name="activity_character_button_calendar">Calendario</string>
+  <string name="activity_corporation_button_assets">Activos</string>
+  <string name="activity_corporation_button_wallet">Cartera</string>
+  <string name="activity_corporation_button_orders">Mercado</string>
+  <string name="activity_corporation_button_contracts">Contrato</string>
+  <string name="activity_corporation_button_industry">Industria</string>
+  <string name="activity_corporation_button_social">Social</string>
+</resources>

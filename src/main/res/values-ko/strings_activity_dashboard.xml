@@ -1,27 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_dashboard_text">Evanova에 등록된 캐릭터가 없습니다. 캐릭터를 추가하십시오.</string>
-  <string name="activity_dashboard_welcome">Evanova에 오신 것을 환영합니다</string>
-  <string name="activity_dashboard_banner">Evanova에 오신 것을 환영합니다</string>
+  <string name="activity_dashboard_text">에바노바에 등록된 캐릭터가 없는 것 같습니다. 문자를 추가하여 시작합니다.</string>
+  <string name="activity_dashboard_welcome">에바노바에 오신 것을 환영합니다</string>
+  <string name="activity_dashboard_banner">에바노바에 오신 것을 환영합니다</string>
   <string name="activity_dashboard_o7">o7</string>
   <string name="activity_dashboard_button_sso">캐릭터 추가</string>
-  <string name="activity_dashboard_update_title">앱 업데이트</string>
-  <string name="activity_dashboard_update_description">자세한 업데이트정보는 정보란을 확인해주십시오.</string>
-  <string name="activity_dashboard_update_about">Evanova 소개</string>
-  <string name="activity_dashboard_update_text">Evanova 업데이트</string>
+  <string name="activity_dashboard_update_title">애플리케이션 업데이트</string>
+  <string name="activity_dashboard_update_description">자세한 내용은 정보 섹션을 확인하십시오.</string>
+  <string name="activity_dashboard_update_database">데이터베이스에 언어에 대한 추가 다운로드가 필요할 수 있습니다. 응용 프로그램 설정을 확인하십시오.</string>
+  <string name="activity_dashboard_update_about">에바노바 소개</string>
+  <string name="activity_dashboard_update_text">에바노바 업데이트</string>
+  <string name="activity_dashboard_update_settings">설정</string>
   <string name="activity_dashboard_recent">최근 이벤트</string>
+  <string name="activity_dashboard_news">이브 온라인 뉴스</string>
   <string name="activity_dashboard_summary">요약</string>
-  <string name="activity_dashboard_back">한 번 더 누르면 앱이 종료됩니다.</string>
-  <string name="activity_dashboard_adapter_title_rss">이브 온라인 뉴스</string>
+  <string name="activity_dashboard_back">뒤로 한 번 더 누르면 역에서 나옵니다.</string>
+  <string name="activity_dashboard_adapter_title_rss">공산당</string>
+  <string name="activity_dashboard_adapter_title_spectre">유령 함대</string>
+  <string name="activity_dashboard_spectre_time">%1$s(%2$s 전야 시간)</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d개 스킬</string>
-  <string name="activity_dashboard_adapter_training_title">훈련 대기열</string>
-  <string name="activity_dashboard_adapter_training_empty">훈련 대기열이 비어 있습니다</string>
-  <string name="activity_dashboard_adapter_training_inactive">스킬훈련이 정지됨</string>
+  <string name="activity_dashboard_adapter_training_when">%2$s까지 %1$d개의 스킬</string>
+  <string name="activity_dashboard_adapter_training_title">교육 대기열</string>
+  <string name="activity_dashboard_adapter_training_empty">교육 대기열이 비어 있습니다.</string>
+  <string name="activity_dashboard_adapter_training_inactive">교육 대기열이 비활성 상태입니다.</string>
   <string name="activity_dashboard_adapter_colony_title">%1$s의 식민지</string>
-  <string name="activity_dashboard_adapter_colony_expiring">%1$s에 일부 핀이 완료됨</string>
-  <string name="activity_dashboard_adapter_colony_expired">%1$s 이후 일부 핀이 만료됨</string>
+  <string name="activity_dashboard_adapter_colony_expiring">일부 핀은 %1$s에 완료됩니다.</string>
+  <string name="activity_dashboard_adapter_colony_expired">일부 핀은 %1$s 이후로 비활성화되었습니다.</string>
   <string name="activity_dashboard_summary_title">요약</string>
-  <string name="activity_dashboard_summary_corporation_none_text">회사정보가 없습니다.</string>
+  <string name="activity_dashboard_summary_corporation_none_text">법인정보가 없습니다.</string>
   <string name="activity_dashboard_summary_corporation_none_description">기존 캐릭터를 다시 가져오십시오.</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">캐릭터 없음</item>
@@ -33,7 +39,4 @@
     <item quantity="one">%1$d개 회사</item>
     <item quantity="other">%1$d개 회사</item>
   </plurals>
-  <string name="activity_dashboard_update_database">데이터베이스에 언어에 대한 추가 다운로드가 필요할 수 있습니다. 응용 프로그램 설정을 확인하십시오.</string>
-  <string name="activity_dashboard_update_settings">설정</string>
-
 </resources>

@@ -1,9 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_colonies_title">惑星間相互作用</string>
   <string name="activity_colonies_update">%1$sを更新しました</string>
+  <string name="activity_colonies_row_description">%1$s - %2$s</string>
   <string name="activity_colonies_planet_level">レベル%1$d</string>
   <string name="activity_colonies_pin_volume">%1$d ㎡</string>
   <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
   <string name="activity_colonies_pin_cycle">最終サイクル%1$s</string>
+  <string name="activity_colonies_pin_cycle_time">サイクル タイム %1$s</string>
   <string name="activity_colonies_pin_expires">%1$sを期限切れにします</string>
+  <string name="activity_colonies_pin_expired">期限切れ %1$s</string>
+  <string name="activity_colonies_pin_expired_count">%1$d 件の期限切れのジョブ</string>
+  <string name="activity_colonies_pin_install">%1$s にインストール済み</string>
   <string name="activity_colonies_pin_content_title">%1$sx%2$d</string>
+  <string name="activity_colonies_tab_list">コロニー</string>
+  <string name="activity_colonies_tab_extractors">抽出器</string>
 </resources>

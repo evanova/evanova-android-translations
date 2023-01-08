@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_dismiss">Verwerfen</string>
   <string name="app_restart">Zurücksetzen</string>
@@ -8,7 +8,6 @@
   <string name="app_add">Hinzufügen</string>
   <string name="app_close">Schließen</string>
   <string name="app_import">Importieren</string>
-
   <string name="drawer_items">Datenbank</string>
   <string name="drawer_login">Einen Charakter hinzufügen</string>
   <string name="drawer_characters">Charaktere</string>
@@ -20,8 +19,6 @@
   <string name="drawer_maps">Karten</string>
   <string name="drawer_fittings">Ausrüstung</string>
   <string name="drawer_server">Server</string>
-
   <string name="search_items_hint">Gegenstand suchen</string>
-
 
 </resources>

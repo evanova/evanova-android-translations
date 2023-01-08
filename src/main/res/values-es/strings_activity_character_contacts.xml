@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_contacts_tab_contacts">Contactos</string>
+  <string name="activity_contacts_tab_standings">Posiciones</string>
+  <string name="activity_contacts_tab_agents">Agentes</string>
+  <string name="activity_contacts_labels_empty">Sin etiqueta</string>
+  <string name="activity_contacts_labels_count">%1$d contactos</string>
+  <string name="activity_contacts_agents_started">Comenzó %1$s</string>
+  <string name="activity_contacts_agents_research">(%1$d / día) - %2$d restantes</string>
+  <string name="activity_contacts_standings">%1$.2f</string>
+</resources>

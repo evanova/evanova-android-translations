@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_assets_description">Ресурсы</string>
+  <string name="activity_assets_description_corporation">Активы корпорации</string>
   <string name="activity_assets_locations">Места</string>
   <string name="activity_assets_categories">Категории</string>
   <string name="activity_assets_items">Предметы</string>

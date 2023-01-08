@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_fittings_menu_synchronize">синхронизировать</string>
   <string name="activity_fittings_menu_add">добавлять</string>
@@ -45,6 +45,8 @@
   <string name="activity_fittings_drone_add_error">Не подходит дрон</string>
   <string name="activity_fittings_implant_add_success">Имплантат установлен</string>
   <string name="activity_fittings_implant_add_error">Не подходит для имплантата</string>
+  <string name="activity_fittings_charge_add_success">Зарядка установлена</string>
+  <string name="activity_fittings_charge_add_error">Не подходит для зарядки</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">Не подходит</item>
     <item quantity="one">%d совместимость</item>

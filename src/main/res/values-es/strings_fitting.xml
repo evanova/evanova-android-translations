@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="fitting_widget_pager_statistics_title">Estadísticas</string>
+  <string name="fitting_widget_pager_modules_title">Módulos</string>
+  <string name="fitting_widget_pager_drones_title">Drones</string>
+  <string name="fitting_widget_pager_implants_title">Implantes</string>
+  <string name="fitting_ship_stats_turrets">Torretas</string>
+  <string name="fitting_ship_stats_launchers">Lanzadores</string>
+  <string name="fitting_ship_stats_volley">Voleo</string>
+  <string name="fitting_ship_stats_drones">Drones</string>
+  <string name="fitting_ship_stats_range">Alcance</string>
+  <string name="fitting_ship_stats_align_time">alinear el tiempo</string>
+  <string name="fitting_ship_stats_signature">Firma</string>
+  <string name="fitting_ship_stats_speed">Velocidad</string>
+  <string name="fitting_ship_stats_warpspeed">Deformación</string>
+  <string name="fitting_ship_stats_resistance_total">Total</string>
+  <string name="fitting_ship_stats_resistance_effective">Efecto.</string>
+  <string name="fitting_ship_stats_targeting_targets">Objetivos</string>
+  <string name="fitting_ship_stats_targeting_range">Alcance</string>
+  <string name="fitting_ship_stats_targeting_scan_res">Escanear</string>
+  <string name="fitting_ship_stats_targeting_sensor_res">Sensores</string>
+  <string name="fitting_ship_stats_header_resources">Recursos</string>
+  <string name="fitting_ship_stats_header_firepower">Potencia de fuego</string>
+  <string name="fitting_ship_stats_header_resistance">Puntos de Golpe / Resistencia</string>
+  <string name="fitting_ship_stats_header_targeting">Orientación</string>
+  <string name="fitting_ship_stats_header_navigation">Navegación</string>
+  <string name="fitting_widget_modules_statistics_capacitor_stable">Estable en %1$d</string>
+  <string name="fitting_widget_modules_statistics_capacitor_unstable">Dura %1$ds</string>
+  <string name="fitting_widget_modules_slots_high">Ranuras altas (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_medium">Tragamonedas medianas (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_low">Ranuras bajas (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_rigs">Plataformas (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_subsystems">Subsistemas (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_mode">Modo (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_services">Servicios (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_structures">Estructuras (%1$d / %2$d)</string>
+  <string name="fitting_widget_modules_slots_unknown">Desconocido</string>
+  <string name="fitting_widget_modules_item_cpu">%1$.2f</string>
+  <string name="fitting_widget_modules_item_power">%1$.2f</string>
+  <string name="fitting_widget_modules_item_capacitor">%1$.2f / s</string>
+  <string name="fitting_widget_modules_item_charges_none">Sin cargo</string>
+  <string name="fitting_widget_drones_squadron_heavy">Drones Pesados (%1$d / %2$d)</string>
+  <string name="fitting_widget_drones_squadron_light">Drones ligeros (%1$d / %2$d)</string>
+  <string name="fitting_widget_drones_squadron_support">Drones de apoyo (%1$d / %2$d)</string>
+  <string name="fitting_widget_drones_squadron_none">Drones (%1$d / %2$d)</string>
+  <string name="fitting_widget_implants_slot_empty">Ranura vacía</string>
+</resources>

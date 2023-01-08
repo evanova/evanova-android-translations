@@ -5,6 +5,10 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.dataformat.xml.JacksonXmlModule;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator;
+import com.tlabs.android.evanova.i18n.translation.CacheTranslator;
+import com.tlabs.android.evanova.i18n.translation.GoogleFormat;
+import com.tlabs.android.evanova.i18n.translation.GoogleTranslator;
 import com.tlabs.android.evanova.i18n.translation.Translator;
 import com.tlabs.android.evanova.i18n.xml.StringXML;
 import org.apache.commons.io.FileUtils;
@@ -17,7 +21,7 @@ import java.util.stream.Stream;
 
 public class Main {
 
-    private static final ObjectMapper mapper;
+    private static final XmlMapper mapper;
 
     static {
         final JacksonXmlModule xmlModule = new JacksonXmlModule();
@@ -25,17 +29,18 @@ public class Main {
 
         mapper = new XmlMapper(xmlModule);
         mapper.enable(SerializationFeature.INDENT_OUTPUT);
+        mapper.configure(ToXmlGenerator.Feature.WRITE_XML_DECLARATION, true );
         mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
     }
 
     public static void main(String... args) throws IOException {
-        final File input = new File("D:\\dev\\eve\\evanova2\\i18n\\src\\main\\res\\values\\");
+        final File input = new File(args[0]);
         if (!input.exists()) {
             throw new FileNotFoundException(input.getAbsolutePath());
         }
 
-        final File output = new File("D:\\dev\\eve\\evanova2\\i18n\\build\\i18n\\");
-        Stream.of("fr", "ru", "zh", "de", "ja", "ko")
+        final File output = new File(args[1]);
+        Stream.of("fr", "ru", "zh", "de", "ja", "ko", "es")
             .parallel()
             .forEach(l -> {
                 try {
@@ -48,7 +53,8 @@ public class Main {
     }
 
     private static void translate(final File input, final File output, final String language) throws IOException {
-        final XMLTranslator translator = new XMLTranslator(language);
+        final XMLTranslator translator = new XMLTranslator(
+                new CacheTranslator(new GoogleTranslator("en", language).andThen(new GoogleFormat())));
 
         final File lInput = new File(input.getAbsolutePath() + "-" + language);
         final File lOutput = new File(output, "values-" + language);

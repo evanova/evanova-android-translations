@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_character_location_unknown">Sin información de ubicación</string>
+  <string name="activity_character_balance_unknown">Saldo de la billetera no disponible</string>
+  <string name="activity_character_fatigue">Fatiga de salto %1$s</string>
+  <string name="activity_character_fatigue_none">Sin fatiga de salto</string>
+  <string name="activity_character_status_title">Estado de seguridad %1$s</string>
+  <string name="activity_character_status_text">%1$s - será atacado en %2$f</string>
+  <string name="activity_character_ship_unknown">Sin información del barco</string>
+  <string name="activity_character_dialogs_wallpaperize_title">Establecer fondo de pantalla.</string>
+  <string name="activity_character_dialogs_wallpaperize_text">Esto reemplazará el fondo de pantalla de su dispositivo con este retrato.</string>
+  <string name="activity_character_dialogs_backgroundify_title">Definir fondo.</string>
+  <string name="activity_character_dialogs_backgroundify_text">Esto reemplazará el fondo de la aplicación con este retrato.</string>
+</resources>

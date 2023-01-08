@@ -1,8 +1,5 @@
 package com.tlabs.android.evanova.i18n;
 
-import com.tlabs.android.evanova.i18n.translation.CacheTranslator;
-import com.tlabs.android.evanova.i18n.translation.GoogleFormat;
-import com.tlabs.android.evanova.i18n.translation.GoogleTranslator;
 import com.tlabs.android.evanova.i18n.translation.Translator;
 import com.tlabs.android.evanova.i18n.xml.StringXML;
 import com.tlabs.android.evanova.i18n.xml.StringXMLArray;
@@ -16,14 +13,8 @@ final class XMLTranslator {
 
     private final Translator translator;
 
-    public XMLTranslator(final String toLanguage) {
-        this("en", toLanguage);
-    }
-
-    public XMLTranslator(final String fromLanguage, final String toLanguage) {
-        final Translator google = new GoogleTranslator(fromLanguage, toLanguage);
-        final Translator format = new GoogleFormat();
-        this.translator = new CacheTranslator(t -> format.translate(google.translate(t)));
+    public XMLTranslator(final Translator translator) {
+        this.translator = translator;
     }
 
     public StringXML translate(final StringXML xml) {
@@ -40,7 +31,7 @@ final class XMLTranslator {
 
         out.setStringArray(xml.getStringArray()
                 .stream()
-                .filter(x -> x.getTranslatable())
+                .filter(StringXMLArray::getTranslatable)
                 .map(x -> translate(x, translator))
                 .collect(Collectors.toList()));
 
@@ -66,7 +57,7 @@ final class XMLTranslator {
             .collect(Collectors.toList()));
 
         out.setStringArray(xml.getStringArray().stream()
-                .filter(a -> a.getTranslatable())
+                .filter(StringXMLArray::getTranslatable)
                 .map(a -> {
                     final StringXMLArray x = existing.findArray(a.getName());
                     return (null == x) ? translate(a, translator) : x;
@@ -80,7 +71,7 @@ final class XMLTranslator {
         final List<String> items =
                 x.getItems()
                 .stream()
-                .map(s -> translator.translate(s))
+                .map(translator::translate)
                 .collect(Collectors.toList());
 
         return new StringXMLArray()

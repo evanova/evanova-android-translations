@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_character_details_attributes_title">Attributs</string>
   <string name="activity_character_details_clones_title">Clones</string>
@@ -7,7 +7,7 @@
   <string name="activity_character_details_birthdate">Créé le %1$s</string>
   <string name="activity_character_details_logged">Dernière connexion le %1$s (%2$d connexions)</string>
   <string name="activity_character_details_history_name">%1$s</string>
-  <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (effacé)</string>
+  <string name="activity_character_details_history_deleted"/>
   <string name="activity_character_details_history_duration">Membre pour %1$s</string>
   <string name="activity_character_details_history_since">Depuis %1$s</string>
   <string name="activity_character_details_history_between">De %1$s à %2$s</string>

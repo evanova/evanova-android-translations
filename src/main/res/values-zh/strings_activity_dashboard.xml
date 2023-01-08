@@ -1,32 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_dashboard_text">你似乎没有在 Evanova 登录任何账号，现在添加一个吧</string>
-  <string name="activity_dashboard_welcome">欢迎使用 Evanova </string>
-  <string name="activity_dashboard_banner">欢迎使用 Evanova </string>
-    <string name="activity_dashboard_button_sso">添加一个人物</string>
-  <string name="activity_dashboard_update_title">应用程序更新</string>
-  <string name="activity_dashboard_update_description">请查看 关于 部分以获取更新详情</string>
-  <string name="activity_dashboard_update_about">关于 Evanova </string>
-  <string name="activity_dashboard_update_text">Evanova 更新</string>
+  <string name="activity_dashboard_text">您似乎没有在 Evanova 中注册任何角色。从添加角色开始。</string>
+  <string name="activity_dashboard_welcome">欢迎来到 Evanova</string>
+  <string name="activity_dashboard_banner">欢迎来到 Evanova</string>
+  <string name="activity_dashboard_o7">o7</string>
+  <string name="activity_dashboard_button_sso">添加角色</string>
+  <string name="activity_dashboard_update_title">应用更新</string>
+  <string name="activity_dashboard_update_description">查看“关于”部分了解详细信息。</string>
+  <string name="activity_dashboard_update_database">数据库更改可能需要为您的语言额外下载。请检查应用程序设置。</string>
+  <string name="activity_dashboard_update_about">关于 Evanova</string>
+  <string name="activity_dashboard_update_text">Evanova更新</string>
   <string name="activity_dashboard_update_settings">设置</string>
-  <string name="activity_dashboard_recent">动态</string>
-  <string name="activity_dashboard_back">再次点击将离开空间站</string>
-  <string name="activity_dashboard_adapter_title_rss">EVE Online 新闻</string>
+  <string name="activity_dashboard_recent">最近的事件</string>
+  <string name="activity_dashboard_news">前夕在线新闻</string>
+  <string name="activity_dashboard_summary">摘要</string>
+  <string name="activity_dashboard_back">再向后按一次会让你离开车站。</string>
+  <string name="activity_dashboard_adapter_title_rss">中共</string>
+  <string name="activity_dashboard_adapter_title_spectre">幽灵舰队</string>
+  <string name="activity_dashboard_spectre_time">%1$s（%2$s 晚上时间）</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%1$d 技能，持续到 %2$s</string>
-  <string name="activity_dashboard_adapter_training_title">技能学习队列</string>
-  <string name="activity_dashboard_adapter_training_empty">技能学习队列为空</string>
-  <string name="activity_dashboard_adapter_training_inactive">技能学习队列暂停</string>
-  <string name="activity_dashboard_adapter_colony_title">克隆位于 %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expiring">一些技能完成于 %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expired">一些技能暂停于 %1$s</string>
-  <string name="activity_dashboard_summary_title">摘要</string>
-  <string name="activity_dashboard_summary_corporation_none_text">无公司信息</string>
-  <string name="activity_dashboard_summary_corporation_none_description">请重新登录此人物</string>
-  <string name="activity_help_tab_about">关于</string>
-  <string name="activity_help_tab_changes">变化</string>
-  <string name="activity_dashboard_update_database">" 数据库更改可能需要使用您的语言进行其他下载。请检查应用程序设置."</string>
-
+  <string name="activity_dashboard_adapter_training_when">%1$d 技能直到 %2$s</string>
+  <string name="activity_dashboard_adapter_training_title">训练队列</string>
+  <string name="activity_dashboard_adapter_training_empty">训练队列为空</string>
+  <string name="activity_dashboard_adapter_training_inactive">培训队列处于非活动状态</string>
+  <string name="activity_dashboard_adapter_colony_title">%1$s 的殖民地</string>
+  <string name="activity_dashboard_adapter_colony_expiring">一些图钉在 %1$s 后完成</string>
+  <string name="activity_dashboard_adapter_colony_expired">自 %1$s 以来，某些引脚处于非活动状态</string>
+  <string name="activity_dashboard_summary_title">概括</string>
+  <string name="activity_dashboard_summary_corporation_none_text">没有公司信息。</string>
+  <string name="activity_dashboard_summary_corporation_none_description">请重新导入您现有的角色。</string>
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">无人物</item>
     <item quantity="one">%1$d 人物</item>
@@ -37,5 +39,4 @@
     <item quantity="one">%1$d 公司</item>
     <item quantity="other">%1$d 公司</item>
   </plurals>
-  <string name="activity_dashboard_summary">摘要</string>
 </resources>

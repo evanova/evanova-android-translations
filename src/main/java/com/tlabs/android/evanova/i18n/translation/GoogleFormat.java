@@ -1,11 +1,8 @@
 package com.tlabs.android.evanova.i18n.translation;
 
 import org.apache.commons.lang3.StringUtils;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public final class GoogleFormat implements Translator {
-    private static final Logger LOG = LoggerFactory.getLogger(GoogleFormat.class);
 
     @Override
     public String translate(final String text) {

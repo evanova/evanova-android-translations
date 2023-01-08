@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_notifications_description">通知</string>
+  <string name="activity_notifications_all_read">全部标记为已读</string>
+  <string name="activity_notifications_all_read_confirmation">将 %1$d 条通知标记为已读？</string>
 </resources>

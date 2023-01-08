@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="widget_location_empty">알 수 없는 위치</string>
   <string name="widget_training_empty">훈련 대기열이 비어있음</string>

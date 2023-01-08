@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_contact_menu_mail">邮件</string>
+  <string name="activity_contact_menu_view">细节</string>
+</resources>

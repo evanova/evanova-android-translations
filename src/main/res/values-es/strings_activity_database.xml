@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_database_title">Base de datos de artículos</string>
+  <string name="activity_database_tab_items">Elementos</string>
+  <string name="activity_database_tab_recent">Reciente</string>
+</resources>

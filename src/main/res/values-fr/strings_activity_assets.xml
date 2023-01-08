@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_assets_description">Biens</string>
+  <string name="activity_assets_description_corporation">Biens Corporatifs</string>
   <string name="activity_assets_locations">Emplacements</string>
   <string name="activity_assets_categories">Catégories</string>
   <string name="activity_assets_items">Articles</string>
@@ -15,9 +17,6 @@
   <string name="activity_assets_flag_deliveries">Livraisons</string>
   <string name="activity_assets_flag_impounded">Mise en fourrière</string>
   <string name="activity_assets_flag_ag">Actifs</string>
-
-  <string name="activity_assets_description_corporation">Biens Corporatifs</string>
-  <string name="activity_assets_description">Biens</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">Pas d\'article</item>
     <item quantity="one">%d article</item>

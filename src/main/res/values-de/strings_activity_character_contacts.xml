@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="activity_contacts_tab_contacts">Kontakte</string>
   <string name="activity_contacts_tab_standings">Ansehen</string>
   <string name="activity_contacts_tab_agents">Agenten</string>
-
   <string name="activity_contacts_labels_empty">Keine Bezeichnung</string>
   <string name="activity_contacts_labels_count">%1$d Kontakte</string>
   <string name="activity_contacts_agents_started">%1$s gestartet</string>
   <string name="activity_contacts_agents_research">(%1$d / Tag) - %2$d verbleibend</string>
+  <string name="activity_contacts_standings">%1$.2f</string>
 </resources>

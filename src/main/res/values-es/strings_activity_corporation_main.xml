@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_corporations_title">%1$s (%2$s)</string>
+  <string name="activity_corporations_members">%1$d Miembros</string>
+  <string name="activity_corporations_no_alliance">No en una alianza</string>
+  <string name="activity_corporations_no_balance">Saldo no disponible</string>
+  <string name="activity_corporation_npc">Corporación NPC</string>
+  <string name="activity_corporation_ceo">%1$s (CEO)</string>
+  <string name="activity_corporation_founder">%1$s (Fundador)</string>
+</resources>

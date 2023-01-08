@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_skills_list_title">スキル</string>
   <string name="activity_skills_list_description_all">すべて</string>
@@ -29,6 +30,4 @@
   <string name="activity_skills_queue_skill_active">%1$s%2$d</string>
   <string name="activity_skills_queue_ends">キューは%1$s（％2 $ s）で終了します</string>
   <string name="activity_skills_queue_count">キューの%1$dスキル - %2$d終了</string>
-  <string name="activity_skills_dialog_save_title">計画を保存</string>
-  <string name="activity_skills_dialog_save_text">スキル計画を変更しました。それらを保存しますか？</string>
 </resources>

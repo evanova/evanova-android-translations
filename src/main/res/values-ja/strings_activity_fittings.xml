@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_fittings_menu_synchronize">同期する</string>
   <string name="activity_fittings_menu_add">追加する</string>
@@ -44,6 +45,8 @@
   <string name="activity_fittings_drone_add_error">無人機には収まりません</string>
   <string name="activity_fittings_implant_add_success">インプラントフィット</string>
   <string name="activity_fittings_implant_add_error">インプラントに合わない</string>
+  <string name="activity_fittings_charge_add_success">チャージ装着</string>
+  <string name="activity_fittings_charge_add_error">充電できません</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">フィッティングなし</item>
     <item quantity="one">％dフィッティング</item>

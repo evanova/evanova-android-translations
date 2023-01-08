@@ -29,9 +29,6 @@ public final class CacheTranslator implements Translator {
             cache.put(text, cached);
             LOG.info("'{}' -> '{}' [new]", text, cached);
         }
-        else {
-            LOG.info("'{}' -> '{}' [cached]", text, cached);
-        }
 
         return cached;
     }

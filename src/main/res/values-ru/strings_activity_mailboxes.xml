@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_mailboxes_mail_title">%1$s</string>
   <string name="activity_mailboxes_mail_description">Почта от %1$s</string>
@@ -39,4 +39,7 @@
   <string name="activity_mailboxes_widget_reply_body">\nОтправлено из</string>
   <string name="activity_mailboxes_share_text">От %1$s\n\n%2$s\n\nОтправлено от Эвановой</string>
   <string name="activity_mailboxes_apply_online">Примените это действие онлайн.</string>
+  <string name="activity_mailboxes_mail_hint_name">Персонаж</string>
+  <string name="activity_mailboxes_mail_hint_subject">Предмет</string>
+  <string name="activity_mailboxes_mail_hint_text">Нажмите стрелку меню, чтобы отправить</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_fittings_menu_synchronize">Synchroniser</string>
   <string name="activity_fittings_menu_add">Ajouter</string>
@@ -45,6 +45,8 @@
   <string name="activity_fittings_drone_add_error">Impossible d\'équiper ce drone</string>
   <string name="activity_fittings_implant_add_success">Implant équipé</string>
   <string name="activity_fittings_implant_add_error">Impossible d\'equiper cet implant</string>
+  <string name="activity_fittings_charge_add_success">Charge équipée</string>
+  <string name="activity_fittings_charge_add_error">Charge impossible</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">Aucun aassemblage</item>
     <item quantity="one">%d assemblage</item>

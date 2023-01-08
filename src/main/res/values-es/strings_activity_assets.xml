@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_assets_description">Activos</string>
+  <string name="activity_assets_description_corporation">Activos de la Corporación</string>
+  <string name="activity_assets_locations">Ubicaciones</string>
+  <string name="activity_assets_categories">Categorías</string>
+  <string name="activity_assets_items">Elementos</string>
+  <string name="activity_assets_flag_other">Otro</string>
+  <string name="activity_assets_flag_high">Ranura alta</string>
+  <string name="activity_assets_flag_med">Ranura mediana</string>
+  <string name="activity_assets_flag_low">Ranura baja</string>
+  <string name="activity_assets_flag_rig">plataformas</string>
+  <string name="activity_assets_flag_hangar">Hangar</string>
+  <string name="activity_assets_flag_cargo">Carga</string>
+  <string name="activity_assets_flag_drones">Bahía de drones</string>
+  <string name="activity_assets_flag_safety">Seguridad de activos</string>
+  <string name="activity_assets_flag_deliveries">Entregas Corp.</string>
+  <string name="activity_assets_flag_impounded">incautado</string>
+  <string name="activity_assets_flag_ag">Corporación hangar</string>
+  <plurals name="activity_assets_locations_group">
+    <item quantity="zero">Sin objeto</item>
+    <item quantity="one">%d elemento</item>
+    <item quantity="other">%d elementos</item>
+  </plurals>
+  <plurals name="activity_assets_categories_group">
+    <item quantity="zero">Sin objeto</item>
+    <item quantity="one">%d elemento</item>
+    <item quantity="other">%d elementos</item>
+  </plurals>
+  <plurals name="activity_assets_items_group">
+    <item quantity="zero">Sin objeto</item>
+    <item quantity="one">%d ubicación</item>
+    <item quantity="other">%d ubicaciones</item>
+  </plurals>
+  <plurals name="activity_assets_container_description">
+    <item quantity="zero">%1$s (vacío)</item>
+    <item quantity="one">%1$s (%2$d elemento)</item>
+    <item quantity="other">%1$s (%2$d elementos)</item>
+  </plurals>
+</resources>

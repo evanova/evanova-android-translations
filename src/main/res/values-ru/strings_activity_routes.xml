@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_routes_title">Маршруты</string>
   <string name="activity_routes_title_subtitle">Дотлан Дэйт 3ч</string>

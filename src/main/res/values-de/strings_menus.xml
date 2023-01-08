@@ -1,42 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="menu_accounts_sso">Anmeldung</string>
   <string name="menu_search_title">Suche</string>
   <string name="menu_reload_title">Aktualisieren</string>
   <string name="menu_item_market">Markt</string>
   <string name="menu_item_select">Wählen</string>
-
   <string name="menu_map_region">Region</string>
-
   <string name="menu_market_region">Region</string>
   <string name="menu_market_item">Artikel</string>
   <string name="menu_market_sort_price_asc">Preis aufsteigend</string>
   <string name="menu_market_sort_price_desc">Preis absteigend</string>
-
   <string name="menu_characters_show_training">Training</string>
   <string name="menu_characters_show_location">Ort</string>
   <string name="menu_characters_show_account">Konto</string>
-
   <string name="menu_wallet_flip_list">Verlauf</string>
   <string name="menu_wallet_flip_graph">Transaktionen</string>
   <string name="menu_wallet_color_graph">Farben</string>
-
   <string name="menu_routes_submit">Route</string>
-
   <string name="menu_skills_all">Alle Skills</string>
   <string name="menu_skills_trainable">Trainierbar</string>
   <string name="menu_skills_known">Bekannte Skills</string>
   <string name="menu_skills_add">Hinzufügen</string>
-
   <string name="menu_skills_plan_delete">Leeren</string>
   <string name="menu_skills_plan_save">Sichern</string>
   <string name="menu_skills_plan_revert">Zurücksetzen</string>
   <string name="menu_skills_plan_share">Teilen</string>
-
   <string name="menu_wallpaperize">Als Hintergrundbild festlegen</string>
   <string name="menu_wallpaperize_short">Hintergrund</string>
-
   <string name="menu_backgroundify">Als App-Hintergrundbild festlegen</string>
   <string name="menu_backgroundify_short">App-Hintergrund</string>
   <string name="menu_settings_character">Charakter-Einstellungen</string>

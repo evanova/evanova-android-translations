@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_routes_title">路线</string>
   <string name="activity_routes_title_subtitle">Dotlan Data 3h</string>

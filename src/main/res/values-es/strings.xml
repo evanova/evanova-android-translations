@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_dismiss">Despedir</string>
+  <string name="app_restart">Reanudar</string>
+  <string name="app_cancel">Cancelar</string>
+  <string name="app_clear">Claro</string>
+  <string name="app_ok">OK</string>
+  <string name="app_add">Agregar</string>
+  <string name="app_close">Cerca</string>
+  <string name="app_import">Importar</string>
+  <string name="drawer_items">Base de datos</string>
+  <string name="drawer_login">Añadir un personaje</string>
+  <string name="drawer_characters">Caracteres</string>
+  <string name="drawer_corporations">Corporaciones</string>
+  <string name="drawer_about">Acerca de</string>
+  <string name="drawer_settings">Ajustes</string>
+  <string name="drawer_skills">Habilidades</string>
+  <string name="drawer_routes">Rutas</string>
+  <string name="drawer_maps">mapas</string>
+  <string name="drawer_fittings">Guarniciones</string>
+  <string name="drawer_server">Servidor</string>
+  <string name="search_items_hint">Buscar elementos</string>
+
+</resources>

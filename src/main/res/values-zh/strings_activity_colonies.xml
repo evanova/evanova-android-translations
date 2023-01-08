@@ -1,10 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_colonies_title">行星相互作用</string>
   <string name="activity_colonies_update">已更新 %1$s</string>
+  <string name="activity_colonies_row_description">%1$s - %2$s</string>
   <string name="activity_colonies_planet_level">等级 %1$d</string>
   <string name="activity_colonies_pin_volume">%1$d m3</string>
   <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
   <string name="activity_colonies_pin_cycle">最后一个周期 %1$s</string>
+  <string name="activity_colonies_pin_cycle_time">周期时间 %1$s</string>
   <string name="activity_colonies_pin_expires">到期 %1$s</string>
+  <string name="activity_colonies_pin_expired">已过期 %1$s</string>
+  <string name="activity_colonies_pin_expired_count">%1$d 个过期的职位</string>
+  <string name="activity_colonies_pin_install">安装在 %1$s</string>
   <string name="activity_colonies_pin_content_title">%1$s x %2$d</string>
+  <string name="activity_colonies_tab_list">群落</string>
+  <string name="activity_colonies_tab_extractors">提取器</string>
 </resources>

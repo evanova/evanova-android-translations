@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="widget_location_empty">Lieu inconnu</string>
   <string name="widget_training_empty">File d’apprentissage vide</string>

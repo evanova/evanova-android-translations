@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_server_status_time">%1$s</string>
   <string name="activity_server_status_online">서버 온라인</string>

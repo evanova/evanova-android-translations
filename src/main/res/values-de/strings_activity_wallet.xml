@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="activity_wallet_title">%1$s</string>
   <string name="activity_wallet_division1">Hauptkonto</string>
   <string name="activity_wallet_division2">2. Konto</string>
@@ -9,28 +8,20 @@
   <string name="activity_wallet_division5">5. Konto</string>
   <string name="activity_wallet_division6">6. Konto</string>
   <string name="activity_wallet_division7">7. Konto</string>
-
   <string name="activity_wallet_balance">Kontostand</string>
   <string name="activity_wallet_credit">Summe</string>
   <string name="activity_wallet_from">von %1$s</string>
   <string name="activity_wallet_to">an %1$s</string>
-
   <string name="activity_wallet_graph_history">Verlauf</string>
   <string name="activity_wallet_graph_revenue">Umsatz</string>
   <string name="activity_wallet_graph_expenses">Ausgaben</string>
-
   <string name="activity_wallet_history_label">Verlauf</string>
   <string name="activity_wallet_history_description">Letzte 3 Monate</string>
-
   <string name="activity_wallet_transaction_qty">%1$d Einheit(en)</string>
   <string name="activity_wallet_transaction_seller">Verkäufer</string>
   <string name="activity_wallet_transaction_price">Preis</string>
-
   <string name="activity_wallet_transaction_buyer">Käufer</string>
-
   <string name="activity_wallet_tab_journal">Verlauf</string>
   <string name="activity_wallet_tab_transactions">Transaktionen</string>
-
   <string name="activity_wallet_graph_color_dialog_title">Wähle eine Reihe von Farben</string>
-
 </resources>

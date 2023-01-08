@@ -1,6 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_account_title">キャラクター</string>
-    <string name="activity_account_text_ship">%1$s（％2 $ s）</string>
+  <string name="activity_account_text_ship">%1$s（％2 $ s）</string>
   <string name="activity_account_text_2">%1$d ESIスコープ</string>
   <string name="activity_account_text_3">最後に記録された%1$s（%2$dログイン）</string>
   <string name="activity_account_text_reload">このアカウントは再インポートする必要があります。</string>

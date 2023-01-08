@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_dashboard_text">Parece que no tienes ningún personaje registrado en Evanova. Comience agregando un personaje.</string>
+  <string name="activity_dashboard_welcome">Bienvenidos a Evanova</string>
+  <string name="activity_dashboard_banner">Bienvenidos a Evanova</string>
+  <string name="activity_dashboard_o7">o7</string>
+  <string name="activity_dashboard_button_sso">Añadir un personaje</string>
+  <string name="activity_dashboard_update_title">Actualización de la aplicación</string>
+  <string name="activity_dashboard_update_description">Consulte la sección Acerca de para obtener más detalles.</string>
+  <string name="activity_dashboard_update_database">Los cambios en la base de datos pueden requerir una descarga adicional para su idioma. Por favor, compruebe la configuración de la aplicación.</string>
+  <string name="activity_dashboard_update_about">Sobre Evanova</string>
+  <string name="activity_dashboard_update_text">actualización Evanova</string>
+  <string name="activity_dashboard_update_settings">Ajustes</string>
+  <string name="activity_dashboard_recent">Eventos recientes</string>
+  <string name="activity_dashboard_news">Eva en línea Noticias</string>
+  <string name="activity_dashboard_summary">Resumen</string>
+  <string name="activity_dashboard_back">Una pulsación más hacia atrás te sacará de la estación.</string>
+  <string name="activity_dashboard_adapter_title_rss">PCCh</string>
+  <string name="activity_dashboard_adapter_title_spectre">Flota de espectros</string>
+  <string name="activity_dashboard_spectre_time">%1$s (%2$s hora de la víspera)</string>
+  <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
+  <string name="activity_dashboard_adapter_training_when">%1$d habilidades hasta %2$s</string>
+  <string name="activity_dashboard_adapter_training_title">Cola de entrenamiento</string>
+  <string name="activity_dashboard_adapter_training_empty">La cola de entrenamiento está vacía</string>
+  <string name="activity_dashboard_adapter_training_inactive">La cola de entrenamiento está inactiva</string>
+  <string name="activity_dashboard_adapter_colony_title">Colonia en %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expiring">Algunos pines se completan en %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expired">Algunos pines están inactivos desde %1$s</string>
+  <string name="activity_dashboard_summary_title">Resumen</string>
+  <string name="activity_dashboard_summary_corporation_none_text">No hay información de la corporación.</string>
+  <string name="activity_dashboard_summary_corporation_none_description">Vuelva a importar sus caracteres existentes.</string>
+  <plurals name="activity_dashboard_summary_characters">
+    <item quantity="zero">sin personaje</item>
+    <item quantity="one">%1$d personaje</item>
+    <item quantity="other">%1$d caracteres</item>
+  </plurals>
+  <plurals name="activity_dashboard_summary_corporations">
+    <item quantity="zero">ninguna corporación</item>
+    <item quantity="one">%1$d corporación</item>
+    <item quantity="other">%1$d corporaciones</item>
+  </plurals>
+</resources>

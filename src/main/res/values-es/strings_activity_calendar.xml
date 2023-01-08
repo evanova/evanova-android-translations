@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_calendar_untitled">Intitulado</string>
+  <string name="activity_calendar_duration_remaining">%s a partir de ahora</string>
+  <string name="activity_calendar_duration_elapsed">hace %s</string>
+  <string name="activity_calendar_list">Lista</string>
+  <string name="activity_calendar_grid">Red</string>
+</resources>

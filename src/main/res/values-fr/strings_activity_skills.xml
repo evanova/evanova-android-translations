@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_skills_list_title">Compétences</string>
   <string name="activity_skills_list_description_all">Tout</string>
@@ -18,7 +18,6 @@
   <string name="activity_skills_group_description">%1$d compétences</string>
   <string name="activity_skills_character_group_description">%2$d / %1$d compétences acquises</string>
   <string name="activity_skills_character_group_description_training">%2$d / %1$d compétences acquises - %3$d en formation</string>
-
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
@@ -31,5 +30,4 @@
   <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
   <string name="activity_skills_queue_ends">La file d\'attente se termine %1$s (%2$s)</string>
   <string name="activity_skills_queue_count">%1$d compétences en attente - %2$d terminées</string>
-
 </resources>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_wallet_title">%1$s</string>
+  <string name="activity_wallet_division1">Billetera maestra</string>
+  <string name="activity_wallet_division2">2da billetera</string>
+  <string name="activity_wallet_division3">Tercera billetera</string>
+  <string name="activity_wallet_division4">4ta billetera</string>
+  <string name="activity_wallet_division5">5ta billetera</string>
+  <string name="activity_wallet_division6">6.º Monedero</string>
+  <string name="activity_wallet_division7">Séptima billetera</string>
+  <string name="activity_wallet_balance">Balance</string>
+  <string name="activity_wallet_credit">Crédito</string>
+  <string name="activity_wallet_from">Desde %1$s</string>
+  <string name="activity_wallet_to">A %1$s</string>
+  <string name="activity_wallet_graph_history">Historia</string>
+  <string name="activity_wallet_graph_revenue">Ingresos</string>
+  <string name="activity_wallet_graph_expenses">Gastos</string>
+  <string name="activity_wallet_history_label">Historia</string>
+  <string name="activity_wallet_history_description">últimos 3 meses</string>
+  <string name="activity_wallet_transaction_qty">%1$d unidad(es).</string>
+  <string name="activity_wallet_transaction_seller">Vendedor</string>
+  <string name="activity_wallet_transaction_price">Precio</string>
+  <string name="activity_wallet_transaction_buyer">Comprador</string>
+  <string name="activity_wallet_tab_journal">Diario</string>
+  <string name="activity_wallet_tab_transactions">Actas</string>
+  <string name="activity_wallet_graph_color_dialog_title">Elige un conjunto de colores.</string>
+</resources>

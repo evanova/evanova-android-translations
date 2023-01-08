@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_server_status_time">%1$s</string>
   <string name="activity_server_status_online">服务器在线</string>

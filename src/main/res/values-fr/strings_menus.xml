@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="menu_accounts_sso">S\'identifier</string>
   <string name="menu_search_title">Chercher</string>
+  <string name="menu_reload_title">Recharger</string>
   <string name="menu_item_market">Marché</string>
   <string name="menu_item_select">Sélectionner</string>
   <string name="menu_map_region">Région</string>
@@ -29,6 +30,4 @@
   <string name="menu_backgroundify">Définir comme arrière-plan</string>
   <string name="menu_backgroundify_short">Contexte</string>
   <string name="menu_settings_character">Paramètres du personnage</string>
-  <string name="menu_reload_title">Recharger</string>
-
 </resources>

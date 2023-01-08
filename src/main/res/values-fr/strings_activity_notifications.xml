@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_notifications_description">Notifications</string>
+  <string name="activity_notifications_all_read">Marquer tout comme lu</string>
+  <string name="activity_notifications_all_read_confirmation">Marquer %1$d notifications comme lues ?</string>
 </resources>

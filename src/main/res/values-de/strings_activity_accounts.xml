@@ -1,47 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="activity_account_title">Charaktere</string>
-
   <string name="activity_account_text_ship">%1$s (%2$s)</string>
-
   <string name="activity_account_text_2">%1$d ESI-Bereiche</string>
   <string name="activity_account_text_3">Letzter Login %1$s (%2$d Logins)</string>
   <string name="activity_account_text_reload">Dieses Konto muss erneut importiert werden.</string>
   <string name="activity_account_text_reload_text">Benutze die Schaltfläche Hinzufügen, um es zu ersetzen.</string>
-
   <string name="activity_account_error_token">Authentifizierung fehlgeschlagen</string>
   <string name="activity_account_context_delete">Löschen</string>
-
   <string name="activity_account_dialog_delete_title">Charaktere löschen</string>
   <string name="activity_account_dialog_delete_text">Alle Informationen des ausgewählten Charakters werden entfernt. Bist du sicher?</string>
-
   <string name="activity_account_training_text_2_empty">Trainingswarteschlange ist leer</string>
   <string name="activity_account_training_text_2">%1$d Skills in der Warteschlange</string>
   <string name="activity_account_training_text_3">Warteschlange endet %1$s (%2$s)</string>
   <string name="activity_account_training_text_4">%1$s %2$d (%3$s)</string>
-
   <string name="activity_account_text_loading_title">Charakterinformationen werden geladen.</string>
-
   <string name="activity_account_text_loading_0">Spende, während du wartest!</string>
   <string name="activity_account_text_loading_0_text">Sende ISK an Evanova Android, um deine Unterstützung zu zeigen.</string>
-
   <string name="activity_account_text_loading_1">Erhalte eine kostenlose, personalisierte In-Game-Mail!</string>
   <string name="activity_account_text_loading_1_text">Sende ISK an Evanova Android und erhalte eine kostenlose Danke-E-Mail.</string>
-
   <string name="activity_account_text_loading_3">Warpe in die Unendlichkeit und darüber hinaus.</string>
   <string name="activity_account_text_loading_3_text">Hat jemand "Springen" gesagt?</string>
-
   <string name="activity_account_text_loading_4">Kann ich meine Drake in Evanova importieren?</string>
   <string name="activity_account_text_loading_4_text">Ja, du kannst!</string>
-
   <string name="activity_account_scopes_tab_character">Charakter</string>
   <string name="activity_account_scopes_tab_corporation">Corporation</string>
   <string name="activity_account_scopes_dialog">Wählen Sie ESI-Bereiche aus</string>
-
   <string name="activity_account_tab_characters">Charaktere</string>
   <string name="activity_account_tab_corporations">Corporations</string>
-
   <string name="activity_account_scopes_essentials_title">Charakter-Grunddaten (erforderlich)</string>
   <string name="activity_account_scopes_essentials_c_title">Corporation-Grunddaten (erforderlich)</string>
   <string name="activity_account_scopes_members_title">Mitglieder der Corporation</string>

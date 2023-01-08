@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_notifications_description">알림</string>
   <string name="activity_notifications_all_read">중요표시</string>

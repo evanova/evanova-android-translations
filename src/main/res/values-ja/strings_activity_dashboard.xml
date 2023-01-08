@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_dashboard_text">Evanovaに登録されているキャラクターがいないようです。文字を追加することから始めます。</string>
   <string name="activity_dashboard_welcome">Evanovaへようこそ</string>
@@ -6,13 +7,17 @@
   <string name="activity_dashboard_button_sso">キャラクターを追加</string>
   <string name="activity_dashboard_update_title">アプリケーション更新</string>
   <string name="activity_dashboard_update_description">\n変更の詳細な一覧については、aboutセクションを確認してください。</string>
+  <string name="activity_dashboard_update_database">データベースの変更には、追加の言語のダウンロードが必要になる場合があります。アプリケーションの設定を確認してください.</string>
   <string name="activity_dashboard_update_about">Evanovaについて</string>
   <string name="activity_dashboard_update_text">Evanovaアップデート</string>
-  <string name="activity_dashboard_recent">最近のイベント</string>
   <string name="activity_dashboard_update_settings">設定</string>
+  <string name="activity_dashboard_recent">最近のイベント</string>
+  <string name="activity_dashboard_news">イブオンラインニュース</string>
   <string name="activity_dashboard_summary">概要</string>
   <string name="activity_dashboard_back">もう1回バックプレスを押すと駅から出ます。</string>
   <string name="activity_dashboard_adapter_title_rss">イブオンラインニュース</string>
+  <string name="activity_dashboard_adapter_title_spectre">妖怪艦隊</string>
+  <string name="activity_dashboard_spectre_time">%1$s (%2$s 前夜祭)</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s%2$d</string>
   <string name="activity_dashboard_adapter_training_when">%2$sまで %1$d のスキル</string>
   <string name="activity_dashboard_adapter_training_title">トレーニングキュー</string>
@@ -24,8 +29,6 @@
   <string name="activity_dashboard_summary_title">概要</string>
   <string name="activity_dashboard_summary_corporation_none_text">会社情報はありません。</string>
   <string name="activity_dashboard_summary_corporation_none_description">既存のキャラクターを再インポートしてください。</string>
-  <string name="activity_dashboard_update_database">データベースの変更には、追加の言語のダウンロードが必要になる場合があります。アプリケーションの設定を確認してください.</string>
-
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">文字なし</item>
     <item quantity="one">%1$d文字</item>

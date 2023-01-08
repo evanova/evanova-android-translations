@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_mailboxes_mail_title">%1$s</string>
   <string name="activity_mailboxes_mail_description">来自 %1$s 的邮件</string>
@@ -36,7 +36,10 @@
   <string name="activity_mailboxes_dialog_delete_text">%1$d 条消息将被删除。选择游戏内同步删除将删除在游戏内删除</string>
   <string name="activity_mailboxes_edit_validation">某些字段缺失或无效。</string>
   <string name="activity_mailboxes_widget_reply_title">回复：%1$s</string>
+  <string name="activity_mailboxes_widget_reply_body">\n发送自</string>
   <string name="activity_mailboxes_share_text">发件人 %1$s\n\n%2$s\n\n来自 Evanova（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
   <string name="activity_mailboxes_apply_online">同步游戏内此操作</string>
-
+  <string name="activity_mailboxes_mail_hint_name">特点</string>
+  <string name="activity_mailboxes_mail_hint_subject">主题</string>
+  <string name="activity_mailboxes_mail_hint_text">按菜单箭头发送</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_fittings_menu_synchronize">Synchronisieren</string>
   <string name="activity_fittings_menu_add">Hinzufügen</string>
@@ -8,64 +8,48 @@
   <string name="activity_fittings_menu_copy">Kopieren</string>
   <string name="activity_fittings_menu_groups">Schiffstypen</string>
   <string name="activity_fittings_menu_owners">Besitzer</string>
-
   <string name="activity_fittings_menu_clipboard_import">Aus Zwischenablage importieren</string>
   <string name="activity_fittings_menu_clipboard_export">In Zwischenablage exportieren</string>
-
   <string name="activity_fittings_menu_xml_import">XML importieren</string>
   <string name="activity_fittings_menu_xml_export">XML exportieren</string>
-
   <string name="activity_fittings_menu_fit">Anpassen…</string>
   <string name="activity_fittings_menu_damage">Schaden</string>
   <string name="activity_fittings_menu_rename">Umbenennen</string>
-
   <string name="activity_fittings_title">Ausrüstungen</string>
-
   <string name="activity_fittings_export_subject_multiple">Ausrüstung aus Evanova</string>
   <string name="activity_fittings_export_success">Ausrüstung exportiert</string>
   <string name="activity_fittings_export_error">Export fehlgeschlagen</string>
   <string name="activity_fittings_import_error">Import fehlgeschlagen</string>
   <string name="activity_fittings_import_success">Ausrüstung importiert</string>
   <string name="activity_fittings_access_denied">Der Zugriff auf die Ressource wurde verweigert</string>
-
   <string name="activity_fittings_clipboard_empty">Die Zwischenablage ist leer</string>
-
   <string name="activity_fittings_dialog_delete_title">Ausrüstung löschen</string>
   <string name="activity_fittings_dialog_delete_text">Bist du sicher?</string>
   <string name="activity_fittings_dialog_delete_online">Auch online löschen (Verwendung auf eigene Gefahr)</string>
   <string name="activity_fittings_dialog_rename_title">Ausrüstung umbenennen</string>
   <string name="activity_fittings_dialog_rename_default">Mit Evanova erstellt</string>
   <string name="activity_fittings_dialog_add_title">Ausrüstung hinzufügen</string>
-
   <string name="activity_fittings_dialog_save_title">Ausrüstung speichern</string>
   <string name="activity_fittings_dialog_save_text">Möchtest du deine Änderungen speichern?</string>
-
   <string name="activity_fittings_dialog_synchronize_title">Ausrüstungen synchronisieren</string>
   <string name="activity_fittings_dialog_synchronize_text">Dadurch werden alle Online-Ausrüstungen importiert und vorhandene ersetzt.</string>
   <string name="activity_fittings_dialog_synchronize_check">Speichern Sie auch neue Ausrüstungen, die mit Evanova erstellt wurden</string>
-
   <string name="activity_fittings_dialog_import_title">Ausrüstung importieren</string>
-
-
   <string name="activity_fittings_group_local">Lokale Ausrüstungen</string>
-
   <string name="activity_fittings_list_level">Stufe %1$d</string>
   <string name="activity_fittings_list_online">Geladen von %1$s auf %2$s</string>
   <string name="activity_fittings_list_offline">Lokale Montage</string>
-
   <string name="activity_fittings_module_add_success">Modul eingebaut</string>
   <string name="activity_fittings_module_add_error">Modul kann nicht eingebaut werden</string>
-
   <string name="activity_fittings_drone_add_success">Drohne hinzugefügt</string>
   <string name="activity_fittings_drone_add_error">Drohne kann nicht hinzugefügt werden</string>
-
   <string name="activity_fittings_implant_add_success">Implantat eingebaut</string>
   <string name="activity_fittings_implant_add_error">Implantat kann nicht eingebaut werden</string>
-
+  <string name="activity_fittings_charge_add_success">Ladung eingebaut</string>
+  <string name="activity_fittings_charge_add_error">Kann nicht geladen werden</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">Keine Ausrüstungen</item>
     <item quantity="one">%d Ausrüstung</item>
     <item quantity="other">%d Ausrüstungen</item>
   </plurals>
-
 </resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_item_widget_tab_description">Descr.</string>
+  <string name="activity_item_widget_tab_attributes">atributos</string>
+  <string name="activity_item_widget_tab_requirements">Habilidades</string>
+  <string name="activity_item_attribute_structure">Estructura</string>
+  <string name="activity_item_attribute_fitting">Adecuado</string>
+  <string name="activity_item_attribute_armor">Armadura</string>
+  <string name="activity_item_attribute_shield">Blindaje</string>
+  <string name="activity_item_attribute_capacitor">Condensador</string>
+  <string name="activity_item_attribute_targeting">Orientación</string>
+  <string name="activity_item_attribute_propulsion">Propulsión</string>
+  <string name="activity_item_attribute_drones">Drones</string>
+</resources>

@@ -1,9 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_colonies_title">행성의 상호 작용</string>
   <string name="activity_colonies_update">%1$s 업데이트</string>
+  <string name="activity_colonies_row_description">%1$s - %2$s</string>
   <string name="activity_colonies_planet_level">%1$d 레벨</string>
   <string name="activity_colonies_pin_volume">%1$d m3</string>
   <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
   <string name="activity_colonies_pin_cycle">마지막주기 %1$s</string>
+  <string name="activity_colonies_pin_cycle_time">주기 시간 %1$s</string>
   <string name="activity_colonies_pin_expires">%1$s 만료</string>
+  <string name="activity_colonies_pin_expired">만료된 %1$s</string>
+  <string name="activity_colonies_pin_expired_count">만료된 작업 %1$d개</string>
+  <string name="activity_colonies_pin_install">%1$s에 설치됨</string>
   <string name="activity_colonies_pin_content_title">%1$s x %2$d</string>
+  <string name="activity_colonies_tab_list">식민지</string>
+  <string name="activity_colonies_tab_extractors">추출기</string>
 </resources>

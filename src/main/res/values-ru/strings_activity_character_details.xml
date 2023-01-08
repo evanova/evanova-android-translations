@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_character_details_attributes_title">Атрибуты</string>
   <string name="activity_character_details_clones_title">Клоны</string>
@@ -7,7 +7,7 @@
   <string name="activity_character_details_birthdate">Создано %1$s</string>
   <string name="activity_character_details_logged">Последний зарегистрированный %1$s (%2$d входов)</string>
   <string name="activity_character_details_history_name">%1$s</string>
-  <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (удаленный)</string>
+  <string name="activity_character_details_history_deleted"/>
   <string name="activity_character_details_history_duration">Участник %1$s</string>
   <string name="activity_character_details_history_since">С %1$s</string>
   <string name="activity_character_details_history_between">От %1$s до %2$s</string>

@@ -1,3 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_notifications_description">通知</string>
+  <string name="activity_notifications_all_read">すべて既読にする</string>
+  <string name="activity_notifications_all_read_confirmation">%1$d 件の通知を既読にしますか?</string>
 </resources>

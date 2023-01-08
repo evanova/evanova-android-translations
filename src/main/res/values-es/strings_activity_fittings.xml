@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_fittings_menu_synchronize">Sincronizar</string>
+  <string name="activity_fittings_menu_add">Agregar</string>
+  <string name="activity_fittings_menu_share">Cuota</string>
+  <string name="activity_fittings_menu_charges">Cargos</string>
+  <string name="activity_fittings_menu_delete">Borrar</string>
+  <string name="activity_fittings_menu_copy">Copiar</string>
+  <string name="activity_fittings_menu_groups">Tipos de barcos</string>
+  <string name="activity_fittings_menu_owners">Propietarios</string>
+  <string name="activity_fittings_menu_clipboard_import">Importar portapapeles</string>
+  <string name="activity_fittings_menu_clipboard_export">Exportar al portapapeles</string>
+  <string name="activity_fittings_menu_xml_import">Importar XML</string>
+  <string name="activity_fittings_menu_xml_export">Exportar XML</string>
+  <string name="activity_fittings_menu_fit">Caber…</string>
+  <string name="activity_fittings_menu_damage">Daños y perjuicios</string>
+  <string name="activity_fittings_menu_rename">Rebautizar</string>
+  <string name="activity_fittings_title">Guarniciones</string>
+  <string name="activity_fittings_export_subject_multiple">Accesorios de Evanova</string>
+  <string name="activity_fittings_export_success">Accesorios exportados</string>
+  <string name="activity_fittings_export_error">Exportación fallida</string>
+  <string name="activity_fittings_import_error">Importación fallida</string>
+  <string name="activity_fittings_import_success">Herrajes importados</string>
+  <string name="activity_fittings_access_denied">Se denegó el acceso a este recurso</string>
+  <string name="activity_fittings_clipboard_empty">El portapapeles está vacío</string>
+  <string name="activity_fittings_dialog_delete_title">Eliminar ajuste</string>
+  <string name="activity_fittings_dialog_delete_text">¿Está seguro?</string>
+  <string name="activity_fittings_dialog_delete_online">También elimine en línea (úselo bajo su propio riesgo)</string>
+  <string name="activity_fittings_dialog_rename_title">Renombrar ajuste</string>
+  <string name="activity_fittings_dialog_rename_default">Creado con Evanova</string>
+  <string name="activity_fittings_dialog_add_title">Agregar accesorio</string>
+  <string name="activity_fittings_dialog_save_title">Guardar ajuste</string>
+  <string name="activity_fittings_dialog_save_text">No has guardado tus cambios. ¿Te gustaría hacerlo?</string>
+  <string name="activity_fittings_dialog_synchronize_title">Sincronizar accesorios</string>
+  <string name="activity_fittings_dialog_synchronize_text">Esto importará todos los accesorios en línea y reemplazará los existentes.</string>
+  <string name="activity_fittings_dialog_synchronize_check">Guarde también nuevos accesorios creados con Evanova</string>
+  <string name="activity_fittings_dialog_import_title">Ajuste de importación</string>
+  <string name="activity_fittings_group_local">Accesorios locales</string>
+  <string name="activity_fittings_list_level">Nivel %1$d</string>
+  <string name="activity_fittings_list_online">Cargado desde %1$s en %2$s</string>
+  <string name="activity_fittings_list_offline">Adaptación local</string>
+  <string name="activity_fittings_module_add_success">Módulo instalado</string>
+  <string name="activity_fittings_module_add_error">No se puede ajustar el módulo</string>
+  <string name="activity_fittings_drone_add_success">Dron equipado</string>
+  <string name="activity_fittings_drone_add_error">No cabe el dron</string>
+  <string name="activity_fittings_implant_add_success">Implante colocado</string>
+  <string name="activity_fittings_implant_add_error">No se puede colocar el implante</string>
+  <string name="activity_fittings_charge_add_success">Carga instalada</string>
+  <string name="activity_fittings_charge_add_error">No se puede cargar</string>
+  <plurals name="activity_fittings_group_count">
+    <item quantity="zero">sin ajuste</item>
+    <item quantity="one">%d ajuste</item>
+    <item quantity="other">%d accesorios</item>
+  </plurals>
+</resources>

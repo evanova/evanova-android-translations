@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_fittings_menu_synchronize">同步</string>
   <string name="activity_fittings_menu_add">添加</string>
@@ -45,6 +45,8 @@
   <string name="activity_fittings_drone_add_error">无法添加无人机</string>
   <string name="activity_fittings_implant_add_success">已添加植入体</string>
   <string name="activity_fittings_implant_add_error">无法添加植入体</string>
+  <string name="activity_fittings_charge_add_success">充电装</string>
+  <string name="activity_fittings_charge_add_error">无法充电</string>
   <plurals name="activity_fittings_group_count">
     <item quantity="zero">无装配</item>
     <item quantity="one">%d 装配</item>

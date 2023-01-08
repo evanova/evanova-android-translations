@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_character_details_attributes_title">属性</string>
   <string name="activity_character_details_clones_title">克隆</string>
@@ -7,7 +7,7 @@
   <string name="activity_character_details_birthdate">创建于 %1$s</string>
   <string name="activity_character_details_logged">上次登录 %1$s（%2$d 登录次数）</string>
   <string name="activity_character_details_history_name">%1$s</string>
-  <string name="activity_character_details_history_deleted"><strike>%1$s</strike> (已解散)</string>
+  <string name="activity_character_details_history_deleted"/>
   <string name="activity_character_details_history_duration">%1$s 的成员</string>
   <string name="activity_character_details_history_since">从 %1$s 到现在</string>
   <string name="activity_character_details_history_between">从 %1$s 到 %2$s</string>

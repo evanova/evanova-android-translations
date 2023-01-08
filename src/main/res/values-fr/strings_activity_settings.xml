@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="preferences_restart_message">L\'application doit être redémarrée pour que ces modifications prennent effet.</string>
   <string name="preferences_cleared_message">Le cache a été vidé.</string>
@@ -17,6 +17,8 @@
   <string name="preferences_drawer_dock_summary">Conservez le tiroir visible à tout moment (disponible uniquement sur les écrans à haute résolution).</string>
   <string name="preferences_dashboard_news_title">Eve News</string>
   <string name="preferences_dashboard_news_summary">Afficher Eve News sur le tableau de bord.</string>
+  <string name="preferences_dashboard_spectre_title">Flotte spectrale (NPSI)</string>
+  <string name="preferences_dashboard_spectre_summary">Affichez le calendrier public de Spectre Fleet sur le tableau de bord.</string>
   <string name="preferences_locale_title">Utiliser l\'heure de Eve Online</string>
   <string name="preferences_locale_summary">Affichez les informations temporelles en heure de Eve Online au lieu de celle de votre appareil.</string>
   <string name="preferences_background_title">Contexte d\'application</string>
@@ -24,10 +26,18 @@
   <string name="preferences_background_select">Sélectionnez un fond</string>
   <string name="preferences_display_title">Fond de personnage</string>
   <string name="preferences_display_summary">Choisissez l’image affichée comme arrière-plan de l’écran du personnage principal.</string>
+  <string name="preferences_character_dashboard_notifications">Arrière-plan</string>
+  <string name="preferences_character_dashboard_category">Tableau de bord</string>
+  <string name="preferences_character_dashboard_events_title">Evenèments seulement</string>
+  <string name="preferences_character_dashboard_events_summary">Afficher uniquement les événements sélectionnés.</string>
+  <string name="preferences_character_dashboard_pinned_title">Toujours</string>
+  <string name="preferences_character_dashboard_pinned_summary">Toujour afficher ce personnage</string>
   <string name="preferences_character_update_summary">Inclure / exclure ce personnage des mises à jour en arrière-plan pour économiser la batterie. Vous pourrez toujours recharger manuellement les données.</string>
   <string name="preferences_character_update_title">Arrière-plan</string>
   <string name="preferences_character_notifications_summary">Activer / désactiver les notifications pour ce personnage. Notez que les paramètres de notification de l\'application s\'appliquent toujours.</string>
   <string name="preferences_character_notifications_title">Notifications</string>
+  <string name="preferences_character_dashboard_show_title">Événements</string>
+  <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
   <string name="preferences_character_dashboard_list_title">Filtre de tableau de bord</string>
   <string name="preferences_character_dashboard_list_dialog">Sélectionnez les éléments à afficher sur le tableau de bord.</string>
   <string name="preferences_character_dashboard_list_summary">Configurez les éléments à afficher sur le tableau de bord.</string>
@@ -43,23 +53,16 @@
   <string name="preferences_language_dialog_summary">Changer la langue de l\'interface Evanova et de la base de données des éléments.\n\nNotez que ceci est une fonctionnalité incomplète et peut provoquer un affichage incorrect. Consultez la section à propos de comment vous pouvez aider à traduire Evanova.</string>
   <string name="preferences_language_dialog_ui">Appliquer à l\'interface d\'Evanova.</string>
   <string name="preferences_language_dialog_database">Appliquer à la base de données articles Eve.</string>
+  <string name="preferences_language_dialog_download">Nécessite un téléchargement supplémentaire.</string>
+  <string name="preferences_language_dialog_installed">Déjà installé. </string>
+  <string name="preferences_language_dialog_download_canceled">Annulé</string>
+  <string name="preferences_language_dialog_installing">Installation...</string>
+  <string name="preferences_language_dialog_download_failed">L\'installation a échouée (%1$d)</string>
   <string name="preferences_category_cache">Cache d\'application</string>
   <string name="preferences_cache_title">Cache</string>
   <string name="preferences_cache_summary">Effacer les données en cache.</string>
   <string name="preferences_cache_dialog_title">Vider le cache</string>
   <string name="preferences_cache_dialog_summary">Cela effacera les images Eve Online actuellement stockées par Evanova ainsi que les données récemment téléchargées.</string>
-  <string name="preferences_character_dashboard_category">Tableau de bord</string>
-  <string name="preferences_character_dashboard_notifications">Arrière-plan</string>
-  <string name="preferences_character_dashboard_events_title">Evenèments seulement</string>
-  <string name="preferences_character_dashboard_events_summary">Afficher uniquement les événements sélectionnés.</string>
-  <string name="preferences_character_dashboard_pinned_title">Toujours</string>
-  <string name="preferences_character_dashboard_pinned_summary">Toujour afficher ce personnage</string>
-  <string name="preferences_character_dashboard_show_summary">" Afficher les événements sur le tableau de bord."</string>
-  <string name="preferences_character_dashboard_show_title">Événements</string>
-  <string name = "preferences_dialog_restart_title"> Redémarrage requis </string>
-     <string name = "preferences_dialog_restart_text">L\'application sera redémarrée pour que cette modification soit prise en compte.</string>
-  <string name = "preferences_language_dialog_download">Nécessite un téléchargement supplémentaire.</string>
-       <string name = "preferences_language_dialog_installed">Déjà installé. </string>
-       <string name = "preferences_language_dialog_download_canceled">Annulé</string>
-    <string name = "preferences_language_dialog_download_failed">L\'installation a échouée (%1$d)</string>
+  <string name="preferences_dialog_restart_title"> Redémarrage requis </string>
+  <string name="preferences_dialog_restart_text">L\'application sera redémarrée pour que cette modification soit prise en compte.</string>
 </resources>

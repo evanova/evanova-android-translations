@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_mailboxes_mail_title">%1$s</string>
   <string name="activity_mailboxes_mail_description">%1$sからのメール</string>
@@ -38,4 +39,7 @@
   <string name="activity_mailboxes_widget_reply_body">\ n送信元</string>
   <string name="activity_mailboxes_share_text">%1$s \n\n%2$s\n\nからEvanovaから送信（https://play.google.com/store/apps/details?id=com.tlabs.android.evanova）</string>
   <string name="activity_mailboxes_apply_online">このアクションをオンラインで適用してください。</string>
+  <string name="activity_mailboxes_mail_hint_name">キャラクター</string>
+  <string name="activity_mailboxes_mail_hint_subject">主題</string>
+  <string name="activity_mailboxes_mail_hint_text">メニュー矢印を押して送信します</string>
 </resources>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="menu_accounts_sso">Acceso</string>
+  <string name="menu_search_title">Buscar</string>
+  <string name="menu_reload_title">Recargar</string>
+  <string name="menu_item_market">Mercado</string>
+  <string name="menu_item_select">Seleccione</string>
+  <string name="menu_map_region">Región</string>
+  <string name="menu_market_region">Región</string>
+  <string name="menu_market_item">Artículo</string>
+  <string name="menu_market_sort_price_asc">Precio Ascendente</string>
+  <string name="menu_market_sort_price_desc">Desc precio</string>
+  <string name="menu_characters_show_training">Capacitación</string>
+  <string name="menu_characters_show_location">Localización</string>
+  <string name="menu_characters_show_account">Cuenta</string>
+  <string name="menu_wallet_flip_list">Diario</string>
+  <string name="menu_wallet_flip_graph">Historia</string>
+  <string name="menu_wallet_color_graph">Colores</string>
+  <string name="menu_routes_submit">Ruta</string>
+  <string name="menu_skills_all">Todas</string>
+  <string name="menu_skills_trainable">entrenable</string>
+  <string name="menu_skills_known">Conocido</string>
+  <string name="menu_skills_add">Agregar</string>
+  <string name="menu_skills_plan_delete">Claro</string>
+  <string name="menu_skills_plan_save">Salvar</string>
+  <string name="menu_skills_plan_revert">Revertir</string>
+  <string name="menu_skills_plan_share">Cuota</string>
+  <string name="menu_wallpaperize">Establecer como fondo de pantalla</string>
+  <string name="menu_wallpaperize_short">Fondo de pantalla</string>
+  <string name="menu_backgroundify">Puesto como fondo</string>
+  <string name="menu_backgroundify_short">Fondo</string>
+  <string name="menu_settings_character">Configuración de personajes</string>
+</resources>

@@ -22,14 +22,9 @@ All translations are based on the files found in
 The following languages need reviewing:
   
   * Japanese (src/main/res/values-ja)
+  * Spanish (src/main/res/values-es)
 
-Feel free to correct the following languages should you find any mistake:
-
-  * French (src/main/res/values-fr)
-  * German (src/main/res/values-de)
-  * Korean (src/main/res/values-ko)
-  * Russian (src/main/res/values-ru)
-  * Simplified Chinese (src/main/res/values-zh)
+Feel free to submit corrections to the other language, should you find any mistake or have a better alternative.
   
 You can edit any of the files for your language and submit your changes with a pull request. Only the content of entries in XML files need to be reviewed, with some care regarding what to change:
 

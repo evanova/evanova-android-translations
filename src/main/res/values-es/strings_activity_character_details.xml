@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_character_details_attributes_title">Atributos</string>
+  <string name="activity_character_details_clones_title">Clones</string>
+  <string name="activity_character_details_summary_title">Historia</string>
+  <string name="activity_character_details_age">%1$s viejo</string>
+  <string name="activity_character_details_birthdate">Creado el %1$s</string>
+  <string name="activity_character_details_logged">Últimos %1$s registrados (%2$d inicios de sesión)</string>
+  <string name="activity_character_details_history_name">%1$s</string>
+  <string name="activity_character_details_history_deleted"/>
+  <string name="activity_character_details_history_duration">Miembro de %1$s</string>
+  <string name="activity_character_details_history_since">Desde %1$s</string>
+  <string name="activity_character_details_history_between">De %1$s a %2$s</string>
+  <string name="activity_character_details_location_none">Sin información de ubicación</string>
+  <string name="activity_character_details_clone_unknown">Sin nombre</string>
+  <string name="activity_character_details_jump_activation_none">Activo</string>
+  <string name="activity_character_details_jump_last_none">Sin información de salto</string>
+  <string name="activity_character_details_jump_fatigue_none">Sin fatiga de salto</string>
+  <string name="activity_character_details_attribute">%1$d</string>
+  <string name="activity_character_details_intelligence">Inteligencia</string>
+  <string name="activity_character_details_charisma">Carisma</string>
+  <string name="activity_character_details_willpower">Fuerza de voluntad</string>
+  <string name="activity_character_details_memory">Memoria</string>
+  <string name="activity_character_details_perception">Percepción</string>
+  <string name="activity_character_details_clones_jump_on">Último salto en %1$s</string>
+  <string name="activity_character_details_clones_jump_ago">hace %1$s</string>
+  <string name="activity_character_details_clones_jump_unknown">Último salto desconocido</string>
+  <string name="activity_character_details_remap_last_unknown">Desconocido</string>
+  <string name="activity_character_details_remap_free_none">Ninguno</string>
+  <string name="activity_character_details_remap_free">%1$d reasignaciones disponibles</string>
+</resources>

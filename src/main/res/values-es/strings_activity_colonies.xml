@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_colonies_title">Interacción planetaria</string>
+  <string name="activity_colonies_update">Actualizado %1$s</string>
+  <string name="activity_colonies_row_description">%1$s - %2$s</string>
+  <string name="activity_colonies_planet_level">Nivel %1$d</string>
+  <string name="activity_colonies_pin_volume">%1$d m3</string>
+  <string name="activity_colonies_pin_amount">%1$d / %2$d m3</string>
+  <string name="activity_colonies_pin_cycle">Último ciclo %1$s</string>
+  <string name="activity_colonies_pin_cycle_time">Tiempo de ciclo %1$s</string>
+  <string name="activity_colonies_pin_expires">Caduca el %1$s (%2$s)</string>
+  <string name="activity_colonies_pin_expired">Caducó %1$s</string>
+  <string name="activity_colonies_pin_expired_count">%1$d trabajos caducados</string>
+  <string name="activity_colonies_pin_install">Instalado en %1$s</string>
+  <string name="activity_colonies_pin_content_title">%1$x %2$d</string>
+  <string name="activity_colonies_tab_list">colonias</string>
+  <string name="activity_colonies_tab_extractors">Extractores</string>
+</resources>

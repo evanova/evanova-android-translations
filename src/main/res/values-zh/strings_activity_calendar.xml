@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_calendar_untitled">无标题</string>
   <string name="activity_calendar_duration_remaining">%1$s 之后</string>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_skills_list_title">Habilidades</string>
+  <string name="activity_skills_list_description_all">Todas</string>
+  <string name="activity_skills_list_description_trainable">entrenable</string>
+  <string name="activity_skills_list_description_known">Conocido</string>
+  <string name="activity_skills_skill_title">%1$s</string>
+  <string name="activity_skills_skill_description">%1$s</string>
+  <string name="activity_skills_tab_list">Habilidades</string>
+  <string name="activity_skills_tab_training">Capacitación</string>
+  <string name="activity_skills_tab_details">Detalles</string>
+  <string name="activity_skills_tab_required">Requerido para</string>
+  <string name="activity_skills_attributes_primary">Atributo principal</string>
+  <string name="activity_skills_attributes_secondary">Atributo secundario</string>
+  <string name="activity_skills_requirements">Requisitos</string>
+  <string name="activity_skills_multiplier">Multiplicador de tiempo de entrenamiento</string>
+  <string name="activity_skills_requirement_text">%1$s %2$d</string>
+  <string name="activity_skills_group_description">%1$d habilidades</string>
+  <string name="activity_skills_character_group_description">%2$d / %1$d habilidades entrenadas</string>
+  <string name="activity_skills_character_group_description_training">%2$d / %1$d habilidades entrenadas - %3$d en entrenamiento</string>
+  <string name="activity_skills_training_level">%1$s</string>
+  <string name="activity_skills_training_none"/>
+  <string name="activity_skills_training_points">%1$d PS</string>
+  <string name="activity_skills_export_title">Cola de entrenamiento</string>
+  <string name="activity_skills_ends">Finaliza %1$s</string>
+  <string name="activity_skills_queued">De %1$s a %2$s</string>
+  <string name="activity_skills_completed">Formación completada</string>
+  <string name="activity_skills_queue_empty">La cola de entrenamiento está vacía</string>
+  <string name="activity_skills_queue_inactive">La cola de entrenamiento está inactiva</string>
+  <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
+  <string name="activity_skills_queue_ends">La cola termina el %1$s (%2$s)</string>
+  <string name="activity_skills_queue_count">%1$d habilidades en cola - %2$d finalizadas</string>
+</resources>

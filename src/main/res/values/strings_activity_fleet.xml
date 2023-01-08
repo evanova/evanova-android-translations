@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="activity_fleet_title">Fleet</string>
-    <string name="activity_fleet_description_on">No Fleet Commander</string>
-    <string name="activity_fleet_description_off">No Fleet Information</string>
-
-
-</resources>

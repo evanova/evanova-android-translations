@@ -1,36 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="activity_skills_list_title">Skills</string>
   <string name="activity_skills_list_description_all">Alle</string>
   <string name="activity_skills_list_description_trainable">Trainierbar</string>
   <string name="activity_skills_list_description_known">Bekannt</string>
-
   <string name="activity_skills_skill_title">%1$s</string>
   <string name="activity_skills_skill_description">%1$s</string>
   <string name="activity_skills_tab_list">Skills</string>
   <string name="activity_skills_tab_training">Training</string>
   <string name="activity_skills_tab_details">Details</string>
   <string name="activity_skills_tab_required">Erforderlich für</string>
-
   <string name="activity_skills_attributes_primary">Primäres Attribut</string>
   <string name="activity_skills_attributes_secondary">Sekundäres Attribut</string>
   <string name="activity_skills_requirements">Voraussetzungen</string>
   <string name="activity_skills_multiplier">Trainingszeit-Multiplikator</string>
-
   <string name="activity_skills_requirement_text">%1$s %2$d</string>
-
   <string name="activity_skills_group_description">%1$d Skills</string>
   <string name="activity_skills_character_group_description">%2$d / %1$d Skills trainiert</string>
   <string name="activity_skills_character_group_description_training">%2$d / %1$d Skills trainiert - %3$d im Training</string>
-
   <string name="activity_skills_training_level">%1$s</string>
   <string name="activity_skills_training_none"/>
-
   <string name="activity_skills_training_points">%1$d SP</string>
-
   <string name="activity_skills_export_title">Trainingswarteschlange</string>
-
   <string name="activity_skills_ends">Endet am %s</string>
   <string name="activity_skills_queued">Von %1$s bis %2$s</string>
   <string name="activity_skills_completed">Training abgeschlossen</string>
@@ -39,11 +30,4 @@
   <string name="activity_skills_queue_skill_active">%1$s %2$d</string>
   <string name="activity_skills_queue_ends">Warteschlange endet %1$s (%2$s)</string>
   <string name="activity_skills_queue_count">%1$d Skills in Warteschlange - %2$d beendet</string>
-  <string-array name="activity_skills_attributes_map">
-        <item>Intelligenz</item>
-        <item>Auffassungsgabe</item>
-        <item>Ausstrahlung</item>
-        <item>Willenskraft</item>
-        <item>Gedächtnis</item>
-    </string-array>
 </resources>

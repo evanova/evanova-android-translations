@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_market_statistics_high">Alto</string>
+  <string name="activity_market_statistics_low">Bajo</string>
+  <string name="activity_market_statistics_average">Promedio</string>
+  <string name="activity_market_order_expired">Venció</string>
+  <string name="activity_market_buy">Comprar</string>
+  <string name="activity_market_sell">Vender</string>
+  <string name="activity_market_history">Historia</string>
+  <string name="activity_market_regions_title">Regiones</string>
+  <string name="activity_market_regions_text">Región</string>
+</resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_corporations_title">%1$s (%2$s)</string>
   <string name="activity_corporations_members">%1$d Члены</string>

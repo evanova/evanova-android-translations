@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_character_location_unknown">位置情報なし</string>
   <string name="activity_character_balance_unknown">財布の残高は利用できません</string>

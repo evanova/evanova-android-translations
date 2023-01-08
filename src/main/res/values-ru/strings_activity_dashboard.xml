@@ -1,32 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_dashboard_text">У вас, кажется, нет персонажа, зарегистрированного в Evanova. Начните с добавления персонажа.</string>
-  <string name="activity_dashboard_welcome">Добро пожаловать в Эванову</string>
-  <string name="activity_dashboard_banner">Добро пожаловать в Эванову</string>
-    <string name="activity_dashboard_button_sso">Добавить персонажа</string>
+  <string name="activity_dashboard_text">Кажется, у вас нет зарегистрированного персонажа в Evanova. Начните с добавления персонажа.</string>
+  <string name="activity_dashboard_welcome">Добро пожаловать в Еванова</string>
+  <string name="activity_dashboard_banner">Добро пожаловать в Еванова</string>
+  <string name="activity_dashboard_o7">о7</string>
+  <string name="activity_dashboard_button_sso">Добавить персонажа</string>
   <string name="activity_dashboard_update_title">Обновление приложения</string>
-  <string name="activity_dashboard_update_description">Проверьте подробный список в разделе изменений.</string>
-  <string name="activity_dashboard_update_about">Об Эванова</string>
-  <string name="activity_dashboard_update_text">Обновление Эванова</string>
+  <string name="activity_dashboard_update_description">Подробности смотрите в разделе «О нас».</string>
+  <string name="activity_dashboard_update_database">Изменения в базе данных могут потребовать дополнительной загрузки для вашего языка. Пожалуйста, проверьте настройки приложения.</string>
+  <string name="activity_dashboard_update_about">О Еванова</string>
+  <string name="activity_dashboard_update_text">обновление Еванова</string>
   <string name="activity_dashboard_update_settings">Настройки</string>
   <string name="activity_dashboard_recent">Недавние события</string>
-  <string name="activity_dashboard_back">Еще одно обратное нажатие вытащит вас со станции.</string>
-  <string name="activity_dashboard_adapter_title_rss">Ева онлайн новости</string>
+  <string name="activity_dashboard_news">Ева онлайн новости</string>
+  <string name="activity_dashboard_summary">Резюме</string>
+  <string name="activity_dashboard_back">Еще одно обратное нажатие выведет вас из станции.</string>
+  <string name="activity_dashboard_adapter_title_rss">КПК</string>
+  <string name="activity_dashboard_adapter_title_spectre">Призрачный флот</string>
+  <string name="activity_dashboard_spectre_time">%1$s (%2$s накануне)</string>
   <string name="activity_dashboard_adapter_training_skill">%1$s %2$d</string>
-  <string name="activity_dashboard_adapter_training_when">%1$d умений до %2$s</string>
+  <string name="activity_dashboard_adapter_training_when">%1$d навыков до %2$s</string>
   <string name="activity_dashboard_adapter_training_title">Очередь на обучение</string>
-  <string name="activity_dashboard_adapter_training_empty">Очередь обучения пуста</string>
+  <string name="activity_dashboard_adapter_training_empty">Очередь на обучение пуста</string>
   <string name="activity_dashboard_adapter_training_inactive">Очередь обучения неактивна</string>
   <string name="activity_dashboard_adapter_colony_title">Колония в %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expiring">Некоторые выводы завершены в %1$s</string>
-  <string name="activity_dashboard_adapter_colony_expired">Некоторые выводы неактивны, так как %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expiring">Некоторые пины завершены за %1$s</string>
+  <string name="activity_dashboard_adapter_colony_expired">Некоторые контакты неактивны с %1$s</string>
   <string name="activity_dashboard_summary_title">Резюме</string>
   <string name="activity_dashboard_summary_corporation_none_text">Нет информации о корпорации.</string>
   <string name="activity_dashboard_summary_corporation_none_description">Пожалуйста, повторно импортируйте существующих персонажей.</string>
-  <string name="activity_dashboard_update_database">Изменения базы данных могут потребовать дополнительных загрузок для вашего языка. Пожалуйста, проверьте настройки приложения.</string>
-
-  <string name="activity_help_tab_changes">изменения</string>
-
   <plurals name="activity_dashboard_summary_characters">
     <item quantity="zero">Нет персонажа</item>
     <item quantity="one">%1$d персонаж</item>
@@ -37,6 +39,4 @@
     <item quantity="one">%1$d корпорация</item>
     <item quantity="other">%1$d корпорации</item>
   </plurals>
-  <string name="activity_dashboard_summary">Резюме</string>
-
 </resources>

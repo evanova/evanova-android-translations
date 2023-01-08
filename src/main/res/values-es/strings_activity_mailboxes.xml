@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_mailboxes_mail_title">%1$s</string>
+  <string name="activity_mailboxes_mail_description">Correo de %1$s</string>
+  <string name="activity_mailboxes_mail_from">De</string>
+  <string name="activity_mailboxes_mail_to">A:</string>
+  <string name="activity_mailboxes_mail_reply">Re: %1$s</string>
+  <string name="activity_mailboxes_mailbox_title">%1$s</string>
+  <string name="activity_mailboxes_mailbox_description">%2$d mensajes (%1$d no leídos)</string>
+  <string name="activity_mailboxes_killmails_title">matar correos</string>
+  <string name="activity_mailboxes_killmails_description">Datos proporcionados por ZKillboard)</string>
+  <string name="activity_mailboxes_list_messages_none">Sin mensaje</string>
+  <string name="activity_mailboxes_list_messages_total">%d mensajes</string>
+  <string name="activity_mailboxes_list_messages_unread">%d sin leer</string>
+  <string name="activity_mailboxes_killmail_pager_attackers">Atacantes</string>
+  <string name="activity_mailboxes_killmail_pager_details">Detalles</string>
+  <string name="activity_mailboxes_killmail_dropped">Cayó</string>
+  <string name="activity_mailboxes_killmail_destroyed">Destruido</string>
+  <string name="activity_mailboxes_menu_reply">Respuesta</string>
+  <string name="activity_mailboxes_menu_unread">No leído</string>
+  <string name="activity_mailboxes_menu_delete">Borrar</string>
+  <string name="activity_mailboxes_menu_new">Componer</string>
+  <string name="activity_mailboxes_menu_send">Enviar</string>
+  <string name="activity_mailboxes_menu_read">Leer</string>
+  <string name="activity_mailboxes_menu_share">Cuota</string>
+  <string name="activity_mailboxes_menu_select_all">Seleccionar todo</string>
+  <string name="activity_mailboxes_menu_killmail_all">Todas</string>
+  <string name="activity_mailboxes_menu_killmail_death">Muerte</string>
+  <string name="activity_mailboxes_menu_killmail_final">Golpe final</string>
+  <string name="activity_mailboxes_menu_killmail_zkill">ZKillboard</string>
+  <string name="activity_mailboxes_mail_delete_error">No se puede eliminar el correo del juego.</string>
+  <string name="activity_mailboxes_mail_delete_success">Correo eliminado en el juego.</string>
+  <string name="activity_mailboxes_mail_send_error">No se puede enviar el correo del juego.</string>
+  <string name="activity_mailboxes_mail_send_success">El correo enviado con éxito.</string>
+  <string name="activity_mailboxes_dialog_delete_title">Eliminar mensajes</string>
+  <string name="activity_mailboxes_dialog_delete_text">Se eliminarán %1$d mensajes. Aplicar esto en línea intentará eliminarlos en el juego.</string>
+  <string name="activity_mailboxes_edit_validation">Faltan algunos campos o no son válidos.</string>
+  <string name="activity_mailboxes_widget_reply_title">Re: %1$s</string>
+  <string name="activity_mailboxes_widget_reply_body">\nEnviado desde</string>
+  <string name="activity_mailboxes_share_text">De %1$s\n\n%2$s\n\nEnviado desde Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
+  <string name="activity_mailboxes_apply_online">Aplicar esta acción en línea.</string>
+  <string name="activity_mailboxes_mail_hint_name">Personaje</string>
+  <string name="activity_mailboxes_mail_hint_subject">Sujeto</string>
+  <string name="activity_mailboxes_mail_hint_text">Presiona la flecha del menú para enviar</string>
+</resources>

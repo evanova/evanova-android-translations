@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_contacts_tab_contacts">연락처</string>
   <string name="activity_contacts_tab_standings">평판</string>
@@ -6,4 +7,5 @@
   <string name="activity_contacts_labels_count">%1$d개 연락처</string>
   <string name="activity_contacts_agents_started">%1$s부터</string>
   <string name="activity_contacts_agents_research">(%1$d/일)-%2$d남음</string>
+  <string name="activity_contacts_standings">%1$.2f</string>
 </resources>

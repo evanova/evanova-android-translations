@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_server_status_time">%1$s</string>
+  <string name="activity_server_status_online">El servidor está en línea</string>
+  <string name="activity_server_status_offline">El servidor está fuera de línea</string>
+  <string name="activity_server_status_players">%1$s jugadores en línea.</string>
+  <string name="activity_server_status_unknown">Estado del servidor desconocido</string>
+</resources>

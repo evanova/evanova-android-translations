@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_mailboxes_mail_title">%1$s</string>
   <string name="activity_mailboxes_mail_description">Mail de %1$s</string>
@@ -39,5 +39,7 @@
   <string name="activity_mailboxes_widget_reply_body">\nEnvoyé depuis</string>
   <string name="activity_mailboxes_share_text">De %1$s\n\n%2$s\n\nEnvoyé depuis Evanova (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
   <string name="activity_mailboxes_apply_online">Appliquer cette action en-ligne</string>
-
+  <string name="activity_mailboxes_mail_hint_name">Personnage</string>
+  <string name="activity_mailboxes_mail_hint_subject">Sujet</string>
+  <string name="activity_mailboxes_mail_hint_text">Appuyez sur la flèche de menu pour envoyer</string>
 </resources>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_mailboxes_mail_title">%1$s</string>
   <string name="activity_mailboxes_mail_description">%1$s에서 온 메일</string>
@@ -38,4 +39,7 @@
   <string name="activity_mailboxes_widget_reply_body">\n 발송</string>
   <string name="activity_mailboxes_share_text">%1$s \n \n %2$s \n \n Evanova에서 보냄 (https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)</string>
   <string name="activity_mailboxes_apply_online">실제 게임내 메일도 삭제</string>
+  <string name="activity_mailboxes_mail_hint_name">성격</string>
+  <string name="activity_mailboxes_mail_hint_subject">주제</string>
+  <string name="activity_mailboxes_mail_hint_text">메뉴 화살표를 눌러 보내기</string>
 </resources>
